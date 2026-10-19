@@ -1,0 +1,40 @@
+:root{--up:#16a34a;--down:#e5383b;--flat:#6b7280;--bg:#f4f6fb;--card:#fff;--text:#1f2937;--muted:#6b7280;--border:#e5e7eb}
+*{box-sizing:border-box}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei","Noto Sans CJK SC",sans-serif;background:var(--bg);color:var(--text)}
+.wrap{max-width:1100px;margin:0 auto;padding:0 16px}
+header{background:linear-gradient(135deg,#1e3a8a,#3b82f6);color:#fff;padding:24px 0 0;position:sticky;top:0;z-index:5;box-shadow:0 2px 8px rgba(0,0,0,.15)}
+h1{margin:0;font-size:24px}
+.sub{margin:4px 0;opacity:.85;font-size:14px}
+.updated{margin:6px 0 12px;font-size:13px;opacity:.9}
+nav{display:flex;gap:8px;overflow-x:auto;padding-bottom:12px}
+nav a{color:#fff;text-decoration:none;background:rgba(255,255,255,.18);padding:6px 14px;border-radius:999px;font-size:14px;white-space:nowrap}
+nav a:hover{background:rgba(255,255,255,.32)}
+section{margin:24px 0;scroll-margin-top:150px}
+section h2{font-size:20px;margin:0 0 12px;display:flex;align-items:center;gap:8px}
+section h2 small{font-size:12px;color:var(--muted);font-weight:normal}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;margin-bottom:14px}
+.card{background:var(--card);border-radius:12px;padding:14px 16px;box-shadow:0 1px 3px rgba(0,0,0,.06);border-top:4px solid var(--flat)}
+.card.up{border-top-color:var(--up)}.card.down{border-top-color:var(--down)}
+.card .n{font-size:14px;color:var(--muted)}
+.card .p{font-size:24px;font-weight:700;margin:6px 0 2px;font-variant-numeric:tabular-nums}
+.card .c{font-size:14px;font-weight:600}
+.table{background:var(--card);border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.06);overflow:hidden}
+table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
+th,td{padding:10px 14px;text-align:right;font-size:14px;border-bottom:1px solid var(--border)}
+th{background:#f9fafb;color:var(--muted);font-weight:500}
+th:first-child,td:first-child{text-align:left}
+tr:last-child td{border-bottom:none}
+td .sym{display:block;font-size:12px;color:var(--muted)}
+.pill{display:inline-block;min-width:68px;text-align:center;padding:3px 8px;border-radius:6px;color:#fff;font-weight:600}
+.up{color:var(--up)}.down{color:var(--down)}.flat{color:var(--flat)}
+.pill.up{background:var(--up);color:#fff}.pill.down{background:var(--down);color:#fff}.pill.flat{background:var(--flat);color:#fff}
+.na{color:var(--muted)}
+footer{color:var(--muted);font-size:12px;padding:16px;text-align:center}
+@media(max-width:600px){h1{font-size:20px}.cards{grid-template-columns:repeat(2,1fr)}.card .p{font-size:18px}th,td{padding:8px;font-size:13px}.hide-m{display:none}}
+.tag{display:inline-block;margin-left:6px;padding:1px 6px;border-radius:4px;font-size:11px;vertical-align:middle;background:#eef2ff;color:#4338ca}
+.t-存储{background:#e0f2fe;color:#0369a1}.t-大模型{background:#f3e8ff;color:#7e22ce}.t-光模块{background:#fef3c7;color:#b45309}.t-AI芯片{background:#ffe4e6;color:#be123c}
+.closed{font-size:12px;font-weight:normal;background:#fef3c7;color:#92400e;padding:2px 8px;border-radius:999px}
+.badge{font-size:12px;font-weight:600;padding:2px 10px;border-radius:999px;color:#fff;background:#6b7280}
+.b-open{background:#16a34a}.b-lunch{background:#d97706}.b-pre{background:#2563eb}.b-closed{background:#6b7280}.b-holiday{background:#9ca3af}
+.delay{font-size:12px;font-weight:normal;color:#b45309;background:#fef3c7;padding:2px 8px;border-radius:999px}
+.live{margin-left:6px;font-size:11px;color:#16a34a;border:1px solid #16a34a;border-radius:4px;padding:0 4px}
