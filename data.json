@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20 07:58:05",
-  "updated_iso": "2026-10-20T07:58:05+08:00",
+  "updated": "2026-10-20 08:32:34",
+  "updated_iso": "2026-10-20T08:32:34+08:00",
   "timezone": "Asia/Shanghai",
   "markets": [
     {
@@ -52,10 +52,10 @@
           "type": "stock",
           "category": "AI芯片",
           "available": true,
-          "close": 217.09,
-          "change": 2.96,
-          "change_pct": 1.38,
-          "date": "2026-10-19",
+          "close": 214.13,
+          "change": -3.1,
+          "change_pct": -1.43,
+          "date": "2026-10-16",
           "source": "yfinance"
         },
         {
@@ -64,10 +64,10 @@
           "type": "stock",
           "category": "AI芯片",
           "available": true,
-          "close": 334.59,
-          "change": 5.84,
-          "change_pct": 1.78,
-          "date": "2026-10-19",
+          "close": 328.75,
+          "change": -15.58,
+          "change_pct": -4.52,
+          "date": "2026-10-16",
           "source": "yfinance"
         },
         {
@@ -76,10 +76,10 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 904.9,
-          "change": 26.06,
-          "change_pct": 2.97,
-          "date": "2026-10-19",
+          "close": 878.84,
+          "change": -52.4,
+          "change_pct": -5.63,
+          "date": "2026-10-16",
           "source": "yfinance"
         },
         {
@@ -88,10 +88,10 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 352.21,
-          "change": 20.21,
-          "change_pct": 6.09,
-          "date": "2026-10-19",
+          "close": 332.0,
+          "change": -24.45,
+          "change_pct": -6.86,
+          "date": "2026-10-16",
           "source": "yfinance"
         },
         {
@@ -100,10 +100,10 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 1371.12,
-          "change": 71.82,
-          "change_pct": 5.53,
-          "date": "2026-10-19",
+          "close": 1299.3,
+          "change": -95.53,
+          "change_pct": -6.85,
+          "date": "2026-10-16",
           "source": "yfinance"
         },
         {
@@ -112,10 +112,10 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 533.52,
-          "change": 4.47,
-          "change_pct": 0.84,
-          "date": "2026-10-19",
+          "close": 529.05,
+          "change": -10.39,
+          "change_pct": -1.93,
+          "date": "2026-10-16",
           "source": "yfinance"
         },
         {
@@ -124,10 +124,10 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 344.18,
-          "change": 3.59,
-          "change_pct": 1.05,
-          "date": "2026-10-19",
+          "close": 340.59,
+          "change": -8.63,
+          "change_pct": -2.47,
+          "date": "2026-10-16",
           "source": "yfinance"
         },
         {
@@ -136,10 +136,10 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 705.44,
-          "change": -3.89,
-          "change_pct": -0.55,
-          "date": "2026-10-19",
+          "close": 709.33,
+          "change": -27.39,
+          "change_pct": -3.72,
+          "date": "2026-10-16",
           "source": "yfinance"
         },
         {
@@ -148,10 +148,10 @@
           "type": "stock",
           "category": "光模块",
           "available": true,
-          "close": 232.02,
-          "change": -0.88,
-          "change_pct": -0.38,
-          "date": "2026-10-19",
+          "close": 232.9,
+          "change": -17.7,
+          "change_pct": -7.06,
+          "date": "2026-10-16",
           "source": "yfinance"
         },
         {
@@ -160,10 +160,10 @@
           "type": "stock",
           "category": "光模块",
           "available": true,
-          "close": 834.51,
-          "change": 10.38,
-          "change_pct": 1.26,
-          "date": "2026-10-19",
+          "close": 824.13,
+          "change": -45.41,
+          "change_pct": -5.22,
+          "date": "2026-10-16",
           "source": "yfinance"
         }
       ]
@@ -276,7 +276,7 @@
     {
       "key": "kr",
       "name": "韩股",
-      "data_date": "2026-10-19",
+      "data_date": "2026-10-20",
       "expected_date": "2026-10-19",
       "stale": false,
       "items": [
@@ -286,10 +286,10 @@
           "type": "index",
           "category": "",
           "available": true,
-          "close": 5668.05,
-          "change": 113.83,
-          "change_pct": 2.05,
-          "date": "2026-10-16",
+          "close": 5639.11,
+          "change": -28.94,
+          "change_pct": -0.51,
+          "date": "2026-10-20",
           "source": "yfinance"
         },
         {
@@ -298,10 +298,10 @@
           "type": "index",
           "category": "",
           "available": true,
-          "close": 794.78,
-          "change": 33.96,
-          "change_pct": 4.46,
-          "date": "2026-10-16",
+          "close": 793.41,
+          "change": -1.37,
+          "change_pct": -0.17,
+          "date": "2026-10-20",
           "source": "yfinance"
         },
         {
@@ -310,10 +310,10 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 218000.0,
-          "change": 2500.0,
-          "change_pct": 1.16,
-          "date": "2026-10-19",
+          "close": 215500.0,
+          "change": -2500.0,
+          "change_pct": -1.15,
+          "date": "2026-10-20",
           "source": "yfinance"
         },
         {
@@ -322,10 +322,10 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 1277000.0,
-          "change": 5000.0,
-          "change_pct": 0.39,
-          "date": "2026-10-19",
+          "close": 1223000.0,
+          "change": -54000.0,
+          "change_pct": -4.23,
+          "date": "2026-10-20",
           "source": "yfinance"
         },
         {
@@ -334,10 +334,10 @@
           "type": "stock",
           "category": "AI芯片",
           "available": true,
-          "close": 212000.0,
-          "change": 2000.0,
-          "change_pct": 0.95,
-          "date": "2026-10-19",
+          "close": 203000.0,
+          "change": -9000.0,
+          "change_pct": -4.25,
+          "date": "2026-10-20",
           "source": "yfinance"
         },
         {
@@ -346,10 +346,10 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 182900.0,
-          "change": 2900.0,
-          "change_pct": 1.61,
-          "date": "2026-10-19",
+          "close": 181500.0,
+          "change": -1400.0,
+          "change_pct": -0.77,
+          "date": "2026-10-20",
           "source": "yfinance"
         }
       ]
