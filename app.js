@@ -63,7 +63,7 @@ function section(m) {
   return `<section id="${m.key}"><h2>${m.name}<span class="badge b-${st.code}">${st.text}</span>${note}<small>交易日 ${m.data_date || '-'}</small></h2>
     <div class="cards">${idx.map(i => card(i, intraday)).join('')}</div>
     <div class="table"><table><thead><tr><th>AI 概念股</th><th>${intraday ? '最新价' : '收盘价'}</th><th>涨跌额</th><th>涨跌幅</th><th class="hide-m">日期</th></tr></thead>
-    <tbody>${stk.map(row).join('')}</tbody></table></div></section>`;
+    <tbody>${stk.map(row).join('')}</tbody></table></div>${newsBlock(m, lastData && lastData.news)}</section>`;
 }
 
 
@@ -91,25 +91,26 @@ function fxSection(fx) {
   }).join('')}</div></section>`;
 }
 
-function newsSection(news, markets) {
-  if (!news) return '';
-  const groups = markets.filter(m => (news[m.key] || []).some(s => s.news.length)).map(m =>
-    `<details open><summary>${m.name}</summary><div class="news">${news[m.key].filter(s => s.news.length).map(s =>
-      `<div class="nitem"><div class="nh">${esc(s.name)}<span class="sym">${esc(s.symbol)}</span></div><ul>${s.news.map(n =>
-        `<li><a href="${esc(n.link)}" target="_blank" rel="noopener noreferrer">${esc(n.title)}</a><span class="meta">${esc(n.source)} · ${esc(n.time)}</span></li>`).join('')}</ul></div>`).join('')}</div></details>`).join('');
-  return groups ? `<section id="news"><h2>相关资讯<small>每只股票最新 3 条 · 点击在新窗口打开</small></h2>${groups}</section>` : '';
+function newsBlock(m, news) {
+  const list = ((news || {})[m.key] || []).filter(x => x.news && x.news.length);
+  if (!list.length) return '';
+  const li = n => `<li><a href="${esc(n.link)}" target="_blank" rel="noopener noreferrer">${esc(n.title)}</a><span class="meta">${esc(n.source)}<i>·</i>${esc(n.time)}</span></li>`;
+  return `<div class="newsbox"><h3>${m.name}资讯<small>每只个股最新动态</small></h3><div class="ngrid">${list.map(x =>
+    `<div class="nitem"><div class="nh"><span class="nname">${esc(x.name)}</span><span class="nsym">${esc(x.symbol)}</span></div>
+      <ul>${li(x.news[0])}</ul>${x.news.length > 1 ? `<details data-k="${esc(x.symbol)}"><summary>展开更多 ${x.news.length - 1} 条</summary><ul>${x.news.slice(1).map(li).join('')}</ul></details>` : ''}</div>`).join('')}</div></div>`;
 }
 
 let lastData = null;
 function render(d) {
+  lastData = d;
   document.getElementById('updated').textContent =
     `最后更新：${d.updated}（北京时间） · 页面每 60 秒自动刷新 · 上次检查 ${new Date().toLocaleTimeString('zh-CN', { hour12: false })}`;
   const nav = document.getElementById('nav');
   if (!nav.children.length) nav.innerHTML = d.markets.map(m => `<a href="#${m.key}">${m.name}</a>`).join('')
-    + (d.fx && d.fx.length ? '<a href="#fx">汇率</a>' : '') + (d.news ? '<a href="#news">资讯</a>' : '');
-  const open = [...document.querySelectorAll('#news details')].map(x => x.open);
-  document.getElementById('app').innerHTML = d.markets.map(section).join('') + fxSection(d.fx) + newsSection(d.news, d.markets);
-  document.querySelectorAll('#news details').forEach((x, i) => { if (open.length > i) x.open = open[i]; });
+    + (d.fx && d.fx.length ? '<a href="#fx">汇率</a>' : '');
+  const open = new Set([...document.querySelectorAll('.nitem details[open]')].map(x => x.dataset.k));
+  document.getElementById('app').innerHTML = d.markets.map(section).join('') + fxSection(d.fx);
+  document.querySelectorAll('.nitem details').forEach(x => { if (open.has(x.dataset.k)) x.open = true; });
 }
 
 async function load() {
