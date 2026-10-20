@@ -98,6 +98,80 @@ def expected_date(tz, close_hour):
         d -= timedelta(days=1)
     return d.isoformat()
 
+# ---------- 个股资讯 ----------
+NEWS_KEYWORD = {"GOOGL": "谷歌", "COHR": "Coherent", "LITE": "Lumentum"}
+
+def fetch_em_news(keyword, n=3):
+    """东方财富资讯搜索（按时间排序）"""
+    import urllib.parse
+    param = {"uid": "", "keyword": keyword, "type": ["cmsArticleWebOld"], "client": "web", "clientType": "web",
+             "clientVersion": "curr", "param": {"cmsArticleWebOld": {"searchScope": "default", "sort": "time",
+             "pageIndex": 1, "pageSize": n, "preTag": "", "postTag": ""}}}
+    url = "https://search-api-web.eastmoney.com/search/jsonp?cb=cb&param=" + urllib.parse.quote(json.dumps(param, ensure_ascii=False))
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0", "Referer": "https://so.eastmoney.com/"})
+    txt = urllib.request.urlopen(req, timeout=10).read().decode("utf-8", "ignore")
+    body = json.loads(txt[txt.index("(") + 1: txt.rindex(")")])
+    out = []
+    for a in (body.get("result") or {}).get("cmsArticleWebOld") or []:
+        title = re.sub(r"<[^>]+>", "", a.get("title") or "").strip()
+        if title and a.get("url"):
+            out.append({"title": title, "source": a.get("mediaName") or "东方财富", "time": (a.get("date") or "")[:16],
+                        "link": a["url"].replace("http://", "https://", 1)})
+    return out
+
+def fetch_yf_news(symbol, n=3):
+    out = []
+    for it in (yf.Ticker(symbol).news or [])[:n]:
+        c = it.get("content") or it
+        link = ((c.get("canonicalUrl") or {}).get("url")) or c.get("link")
+        title = c.get("title")
+        if title and link:
+            t = c.get("pubDate") or ""
+            if c.get("providerPublishTime"):
+                t = datetime.fromtimestamp(c["providerPublishTime"], ZoneInfo("Asia/Shanghai")).strftime("%Y-%m-%d %H:%M")
+            elif t:
+                try: t = datetime.fromisoformat(t.replace("Z", "+00:00")).astimezone(ZoneInfo("Asia/Shanghai")).strftime("%Y-%m-%d %H:%M")
+                except ValueError: pass
+            out.append({"title": title, "source": (c.get("provider") or {}).get("displayName") or c.get("publisher") or "Yahoo", "time": t, "link": link})
+    return out
+
+def fetch_all_news():
+    res = {}
+    for key, mname, _, _, items in MARKETS:
+        lst = []
+        for sym, cn, typ, _ in items:
+            if typ != "stock":
+                continue
+            news = []
+            try:
+                news = fetch_em_news(NEWS_KEYWORD.get(sym, cn))
+            except Exception as e:
+                print("资讯失败", sym, e)
+            if not news:
+                try: news = fetch_yf_news(sym)
+                except Exception as e: print("yf资讯失败", sym, e)
+            lst.append({"symbol": sym, "name": cn, "news": news})
+        res[key] = lst
+    return res
+
+# ---------- 汇率 ----------
+FX = [("CNY=X", "美元/人民币", "USD/CNY", 4), ("JPY=X", "美元/日元", "USD/JPY", 2), ("KRW=X", "美元/韩元", "USD/KRW", 2)]
+
+def fetch_fx():
+    df = yf.download([f[0] for f in FX], period="45d", interval="1d", progress=False, auto_adjust=False)["Close"]
+    out = []
+    for sym, cn, pair, d in FX:
+        try:
+            c = df[sym].dropna().tail(31)
+            if len(c) < 2: continue
+            last, prev = float(c.iloc[-1]), float(c.iloc[-2])
+            out.append({"symbol": sym, "name": cn, "pair": pair, "rate": round(last, d), "change": round(last - prev, d + 1),
+                        "change_pct": round((last - prev) / prev * 100, 2), "date": c.index[-1].strftime("%Y-%m-%d"),
+                        "history": [[i.strftime("%Y-%m-%d"), round(float(v), d)] for i, v in c.items()]})
+        except Exception as e:
+            print("汇率失败", sym, e)
+    return out
+
 def main():
     now = datetime.now(ZoneInfo("Asia/Shanghai"))
     out = {"updated": now.strftime("%Y-%m-%d %H:%M:%S"), "updated_iso": now.isoformat(timespec="seconds"),
@@ -132,6 +206,11 @@ def main():
         stale = bool(latest) and latest < exp  # 数据早于应有交易日 => 可能休市
         out["markets"].append({"key": key, "name": name, "data_date": latest,
                                "expected_date": exp, "stale": stale, "items": rows})
+    for k, fn in (("fx", fetch_fx), ("news", fetch_all_news)):
+        try:
+            out[k] = fn()
+        except Exception as e:
+            print(k, "失败:", e); out[k] = [] if k == "fx" else {}
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
     print("已写入 data.json，更新时间", out["updated"])

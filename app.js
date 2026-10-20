@@ -66,13 +66,50 @@ function section(m) {
     <tbody>${stk.map(row).join('')}</tbody></table></div></section>`;
 }
 
+
+const esc = t => String(t ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+
+function spark(h, c) {
+  if (!h || h.length < 2) return '';
+  const W = 300, H = 90, P = 4, v = h.map(x => x[1]);
+  const mn = Math.min(...v), mx = Math.max(...v), r = mx - mn || 1;
+  const pts = v.map((y, i) => [P + i * (W - 2 * P) / (v.length - 1), P + (H - 2 * P) * (1 - (y - mn) / r)]);
+  const line = pts.map(p => p.map(n => n.toFixed(1)).join(',')).join(' ');
+  const col = c === 'up' ? 'var(--up)' : c === 'down' ? 'var(--down)' : 'var(--flat)';
+  return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" class="spark">
+    <polygon points="${P},${H - P} ${line} ${W - P},${H - P}" fill="${col}" opacity=".12"/>
+    <polyline points="${line}" fill="none" stroke="${col}" stroke-width="2" vector-effect="non-scaling-stroke"/></svg>
+    <div class="axis"><span>${h[0][0].slice(5)}</span><span>低 ${fmt(mn, v[0] < 10 ? 4 : 2)} · 高 ${fmt(mx, v[0] < 10 ? 4 : 2)}</span><span>${h[h.length - 1][0].slice(5)}</span></div>`;
+}
+
+function fxSection(fx) {
+  if (!fx || !fx.length) return '';
+  return `<section id="fx"><h2>汇率<small>近 30 个交易日 · 美元兑人民币/日元/韩元</small></h2><div class="fx">${fx.map(f => {
+    const c = cls(f.change), d = f.rate < 10 ? 4 : 2;
+    return `<div class="card ${c}"><div class="n">${f.name} <span class="sym">${f.pair}</span></div><div class="p">${fmt(f.rate, d)}</div>
+      <div class="c ${c}">${sign(f.change)}${fmt(f.change, d)} (${sign(f.change_pct)}${fmt(f.change_pct)}%)</div>${spark(f.history, c)}</div>`;
+  }).join('')}</div></section>`;
+}
+
+function newsSection(news, markets) {
+  if (!news) return '';
+  const groups = markets.filter(m => (news[m.key] || []).some(s => s.news.length)).map(m =>
+    `<details open><summary>${m.name}</summary><div class="news">${news[m.key].filter(s => s.news.length).map(s =>
+      `<div class="nitem"><div class="nh">${esc(s.name)}<span class="sym">${esc(s.symbol)}</span></div><ul>${s.news.map(n =>
+        `<li><a href="${esc(n.link)}" target="_blank" rel="noopener noreferrer">${esc(n.title)}</a><span class="meta">${esc(n.source)} · ${esc(n.time)}</span></li>`).join('')}</ul></div>`).join('')}</div></details>`).join('');
+  return groups ? `<section id="news"><h2>相关资讯<small>每只股票最新 3 条 · 点击在新窗口打开</small></h2>${groups}</section>` : '';
+}
+
 let lastData = null;
 function render(d) {
   document.getElementById('updated').textContent =
     `最后更新：${d.updated}（北京时间） · 页面每 60 秒自动刷新 · 上次检查 ${new Date().toLocaleTimeString('zh-CN', { hour12: false })}`;
   const nav = document.getElementById('nav');
-  if (!nav.children.length) nav.innerHTML = d.markets.map(m => `<a href="#${m.key}">${m.name}</a>`).join('');
-  document.getElementById('app').innerHTML = d.markets.map(section).join('');
+  if (!nav.children.length) nav.innerHTML = d.markets.map(m => `<a href="#${m.key}">${m.name}</a>`).join('')
+    + (d.fx && d.fx.length ? '<a href="#fx">汇率</a>' : '') + (d.news ? '<a href="#news">资讯</a>' : '');
+  const open = [...document.querySelectorAll('#news details')].map(x => x.open);
+  document.getElementById('app').innerHTML = d.markets.map(section).join('') + fxSection(d.fx) + newsSection(d.news, d.markets);
+  document.querySelectorAll('#news details').forEach((x, i) => { if (open.length > i) x.open = open[i]; });
 }
 
 async function load() {

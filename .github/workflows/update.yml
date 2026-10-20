@@ -2,10 +2,11 @@ name: 更新行情并发布网站
 
 on:
   schedule:
-    - cron: "*/10 0-8 * * 1-5"
-    - cron: "*/10 13-20 * * 1-5"
-    - cron: "30 21 * * 1-5"
-  workflow_dispatch: {}
+    # 以下时间均为 UTC，仅工作日（周一至周五）。GitHub 定时任务可能延迟数分钟甚至更久。
+    - cron: "*/10 0-8 * * 1-5"    # 亚洲时段 UTC 00:00-08:59 = 北京 08:00-16:59（韩股/A股/港股）
+    - cron: "*/10 13-20 * * 1-5"  # 美股时段 UTC 13:00-20:59 = 北京 21:00-次日 04:59（覆盖夏令/冬令时）
+    - cron: "30 21 * * 1-5"       # 美股收盘后 UTC 21:30 = 北京次日 05:30，抓最终收盘价
+  workflow_dispatch: {}           # 允许在 Actions 页面手动运行
   push:
     branches: [main]
 
@@ -29,10 +30,8 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - name: 抓取数据
-        if: github.event_name != 'push'
         run: python update_data.py
       - name: 有变化才提交 data.json
-        if: github.event_name != 'push'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
