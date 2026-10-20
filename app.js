@@ -92,12 +92,18 @@ function fxSection(fx) {
 }
 
 function newsBlock(m, news) {
-  const list = ((news || {})[m.key] || []).filter(x => x.news && x.news.length);
-  if (!list.length) return '';
+  const seen = new Set(), all = [];
+  for (const x of ((news || {})[m.key] || [])) for (const n of (x.news || [])) {
+    const k1 = n.link, k2 = (n.title || '').trim();
+    if (seen.has(k1) || seen.has(k2)) continue;
+    seen.add(k1); seen.add(k2); all.push(n);
+  }
+  if (!all.length) return '';
+  all.sort((a, b) => (b.time || '').localeCompare(a.time || ''));
   const li = n => `<li><a href="${esc(n.link)}" target="_blank" rel="noopener noreferrer">${esc(n.title)}</a><span class="meta">${esc(n.source)}<i>·</i>${esc(n.time)}</span></li>`;
-  return `<div class="newsbox"><h3>${m.name}资讯<small>每只个股最新动态</small></h3><div class="ngrid">${list.map(x =>
-    `<div class="nitem"><div class="nh"><span class="nname">${esc(x.name)}</span><span class="nsym">${esc(x.symbol)}</span></div>
-      <ul>${li(x.news[0])}</ul>${x.news.length > 1 ? `<details data-k="${esc(x.symbol)}"><summary>展开更多 ${x.news.length - 1} 条</summary><ul>${x.news.slice(1).map(li).join('')}</ul></details>` : ''}</div>`).join('')}</div></div>`;
+  const N = 8, more = all.slice(N);
+  return `<div class="newsbox"><h3>${m.name}资讯</h3><ul class="nlist">${all.slice(0, N).map(li).join('')}</ul>${more.length ?
+    `<details data-k="${m.key}"><summary>展开更多 ${more.length} 条</summary><ul class="nlist">${more.map(li).join('')}</ul></details>` : ''}</div>`;
 }
 
 let lastData = null;
@@ -108,9 +114,9 @@ function render(d) {
   const nav = document.getElementById('nav');
   if (!nav.children.length) nav.innerHTML = d.markets.map(m => `<a href="#${m.key}">${m.name}</a>`).join('')
     + (d.fx && d.fx.length ? '<a href="#fx">汇率</a>' : '');
-  const open = new Set([...document.querySelectorAll('.nitem details[open]')].map(x => x.dataset.k));
+  const open = new Set([...document.querySelectorAll('.newsbox details[open]')].map(x => x.dataset.k));
   document.getElementById('app').innerHTML = d.markets.map(section).join('') + fxSection(d.fx);
-  document.querySelectorAll('.nitem details').forEach(x => { if (open.has(x.dataset.k)) x.open = true; });
+  document.querySelectorAll('.newsbox details').forEach(x => { if (open.has(x.dataset.k)) x.open = true; });
 }
 
 async function load() {
