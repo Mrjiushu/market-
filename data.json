@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22 05:14:54",
-  "updated_iso": "2026-10-22T05:14:54+08:00",
+  "updated": "2026-10-22 08:07:49",
+  "updated_iso": "2026-10-22T08:07:49+08:00",
   "timezone": "Asia/Shanghai",
   "markets": [
     {
@@ -52,10 +52,10 @@
           "type": "stock",
           "category": "AI芯片",
           "available": true,
-          "close": 221.97,
-          "change": 5.5,
-          "change_pct": 2.54,
-          "date": "2026-10-21",
+          "close": 216.47,
+          "change": -0.62,
+          "change_pct": -0.29,
+          "date": "2026-10-20",
           "source": "yfinance"
         },
         {
@@ -64,10 +64,10 @@
           "type": "stock",
           "category": "AI芯片",
           "available": true,
-          "close": 337.8,
-          "change": 3.43,
-          "change_pct": 1.03,
-          "date": "2026-10-21",
+          "close": 334.37,
+          "change": -0.22,
+          "change_pct": -0.07,
+          "date": "2026-10-20",
           "source": "yfinance"
         },
         {
@@ -76,10 +76,10 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 913.67,
-          "change": 17.6,
-          "change_pct": 1.96,
-          "date": "2026-10-21",
+          "close": 896.07,
+          "change": -8.83,
+          "change_pct": -0.98,
+          "date": "2026-10-20",
           "source": "yfinance"
         },
         {
@@ -88,10 +88,10 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 378.51,
-          "change": 14.19,
-          "change_pct": 3.89,
-          "date": "2026-10-21",
+          "close": 364.32,
+          "change": 12.11,
+          "change_pct": 3.44,
+          "date": "2026-10-20",
           "source": "yfinance"
         },
         {
@@ -100,10 +100,10 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 1378.22,
-          "change": 12.84,
-          "change_pct": 0.94,
-          "date": "2026-10-21",
+          "close": 1365.38,
+          "change": -5.74,
+          "change_pct": -0.42,
+          "date": "2026-10-20",
           "source": "yfinance"
         },
         {
@@ -112,10 +112,10 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 532.95,
-          "change": 1.08,
-          "change_pct": 0.2,
-          "date": "2026-10-21",
+          "close": 531.87,
+          "change": -1.65,
+          "change_pct": -0.31,
+          "date": "2026-10-20",
           "source": "yfinance"
         },
         {
@@ -124,10 +124,10 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 334.76,
-          "change": -5.52,
-          "change_pct": -1.62,
-          "date": "2026-10-21",
+          "close": 340.28,
+          "change": -3.9,
+          "change_pct": -1.13,
+          "date": "2026-10-20",
           "source": "yfinance"
         },
         {
@@ -136,10 +136,10 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 697.52,
-          "change": 3.27,
-          "change_pct": 0.47,
-          "date": "2026-10-21",
+          "close": 694.25,
+          "change": -11.19,
+          "change_pct": -1.59,
+          "date": "2026-10-20",
           "source": "yfinance"
         },
         {
@@ -148,10 +148,10 @@
           "type": "stock",
           "category": "光模块",
           "available": true,
-          "close": 237.53,
-          "change": 5.73,
-          "change_pct": 2.47,
-          "date": "2026-10-21",
+          "close": 231.8,
+          "change": -0.22,
+          "change_pct": -0.09,
+          "date": "2026-10-20",
           "source": "yfinance"
         },
         {
@@ -160,10 +160,10 @@
           "type": "stock",
           "category": "光模块",
           "available": true,
-          "close": 850.7,
-          "change": 28.19,
-          "change_pct": 3.43,
-          "date": "2026-10-21",
+          "close": 822.51,
+          "change": -12.0,
+          "change_pct": -1.44,
+          "date": "2026-10-20",
           "source": "yfinance"
         }
       ]
@@ -513,15 +513,11 @@
       "symbol": "CNY=X",
       "name": "美元/人民币",
       "pair": "USD/CNY",
-      "rate": 6.6753,
-      "change": -0.0156,
-      "change_pct": -0.23,
-      "date": "2026-10-21",
+      "rate": 6.6653,
+      "change": -0.0126,
+      "change_pct": -0.19,
+      "date": "2026-10-22",
       "history": [
-        [
-          "2026-09-09",
-          6.7105
-        ],
         [
           "2026-09-10",
           6.7105
@@ -640,7 +636,11 @@
         ],
         [
           "2026-10-21",
-          6.6753
+          6.6779
+        ],
+        [
+          "2026-10-22",
+          6.6653
         ]
       ]
     },
@@ -648,15 +648,11 @@
       "symbol": "JPY=X",
       "name": "美元/日元",
       "pair": "USD/JPY",
-      "rate": 158.06,
-      "change": -0.464,
-      "change_pct": -0.29,
-      "date": "2026-10-21",
+      "rate": 158.18,
+      "change": -0.086,
+      "change_pct": -0.05,
+      "date": "2026-10-22",
       "history": [
-        [
-          "2026-09-09",
-          153.48
-        ],
         [
           "2026-09-10",
           153.57
@@ -775,7 +771,11 @@
         ],
         [
           "2026-10-21",
-          158.06
+          158.27
+        ],
+        [
+          "2026-10-22",
+          158.18
         ]
       ]
     },
@@ -783,15 +783,11 @@
       "symbol": "KRW=X",
       "name": "美元/韩元",
       "pair": "USD/KRW",
-      "rate": 1326.05,
-      "change": -3.95,
-      "change_pct": -0.3,
-      "date": "2026-10-21",
+      "rate": 1327.38,
+      "change": 3.44,
+      "change_pct": 0.26,
+      "date": "2026-10-22",
       "history": [
-        [
-          "2026-09-09",
-          1339.21
-        ],
         [
           "2026-09-10",
           1339.17
@@ -910,7 +906,11 @@
         ],
         [
           "2026-10-21",
-          1326.05
+          1323.94
+        ],
+        [
+          "2026-10-22",
+          1327.38
         ]
       ]
     }
@@ -922,22 +922,22 @@
         "name": "英伟达",
         "news": [
           {
-            "title": "纳斯达克中国金龙指数收跌2.32%",
-            "source": "第一财经",
-            "time": "2026-10-22 04:14",
-            "link": "https://finance.eastmoney.com/a/202610223903064061.html"
+            "title": "10月22日投资日历|国家外汇管理局举办2026金融街论坛年会专场活动",
+            "source": "东方财富研究中心",
+            "time": "2026-10-22 08:00",
+            "link": "https://finance.eastmoney.com/a/202610223903280977.html"
           },
           {
-            "title": "美股收涨，道指涨0.69%，标普500指数涨0.59%，纳指涨1.05%",
-            "source": "第一财经",
-            "time": "2026-10-22 04:14",
-            "link": "https://finance.eastmoney.com/a/202610223903065147.html"
+            "title": "乙肝新药在美获批；前三季度医保统筹基金支出超1.7万亿元",
+            "source": "21世纪经济报道",
+            "time": "2026-10-22 08:00",
+            "link": "https://finance.eastmoney.com/a/202610223903282339.html"
           },
           {
-            "title": "纳斯达克中国金龙指数收跌2.35%",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-22 04:02",
-            "link": "https://hk.eastmoney.com/a/202610223903058751.html"
+            "title": "美股齐涨，SpaceX涨超7%；我国成功发射谷神星一号海射型遥八运载火箭；10月27日—29日，2026卫星互联网产业生态大会将在上海举行；英伟达推出自动驾驶安全评估框架，奔驰、沃尔沃等车企加速布局L3及L4自动驾驶——《投资早参》",
+            "source": "每日经济新闻",
+            "time": "2026-10-22 07:54",
+            "link": "https://finance.eastmoney.com/a/202610223903255261.html"
           }
         ]
       },
@@ -946,22 +946,22 @@
         "name": "博通",
         "news": [
           {
-            "title": "美股三大指数集体收涨 SpaceX涨超7%",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-22 04:00",
-            "link": "https://finance.eastmoney.com/a/202610223903057664.html"
+            "title": "美股齐涨，SpaceX涨超7%；我国成功发射谷神星一号海射型遥八运载火箭；10月27日—29日，2026卫星互联网产业生态大会将在上海举行；英伟达推出自动驾驶安全评估框架，奔驰、沃尔沃等车企加速布局L3及L4自动驾驶——《投资早参》",
+            "source": "每日经济新闻",
+            "time": "2026-10-22 07:54",
+            "link": "https://finance.eastmoney.com/a/202610223903255261.html"
           },
           {
-            "title": "美股三大指数集体收涨 纳指涨超1% SpaceX涨超7%",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-22 04:00",
-            "link": "https://finance.eastmoney.com/a/202610213902919169.html"
+            "title": "美芯片股大涨！超威半导体升涨3.36%，阿斯麦、ARM均涨超2%",
+            "source": "证券时报",
+            "time": "2026-10-22 07:52",
+            "link": "https://finance.eastmoney.com/a/202610223903247891.html"
           },
           {
-            "title": "多家中小银行首席合规官任职资格获核准",
-            "source": "证券日报",
-            "time": "2026-10-22 02:46",
-            "link": "https://bank.eastmoney.com/a/202610223903053616.html"
+            "title": "美股收盘：纳指涨1.05%；科技股多数上涨，SpaceX涨超7%；半导体股全线拉升，存储概念股反弹，SK海力士涨超2%",
+            "source": "经纬科创",
+            "time": "2026-10-22 07:46",
+            "link": "https://finance.eastmoney.com/a/202610223903211368.html"
           }
         ]
       },
@@ -970,22 +970,22 @@
         "name": "美光科技",
         "news": [
           {
-            "title": "美股三大指数集体收涨 SpaceX涨超7%",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-22 04:00",
-            "link": "https://finance.eastmoney.com/a/202610223903057664.html"
+            "title": "美股齐涨，SpaceX涨超7%；我国成功发射谷神星一号海射型遥八运载火箭；10月27日—29日，2026卫星互联网产业生态大会将在上海举行；英伟达推出自动驾驶安全评估框架，奔驰、沃尔沃等车企加速布局L3及L4自动驾驶——《投资早参》",
+            "source": "每日经济新闻",
+            "time": "2026-10-22 07:54",
+            "link": "https://finance.eastmoney.com/a/202610223903255261.html"
           },
           {
-            "title": "美股三大指数集体收涨 纳指涨超1% SpaceX涨超7%",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-22 04:00",
-            "link": "https://finance.eastmoney.com/a/202610213902919169.html"
+            "title": "美股收盘：纳指涨1.05%；科技股多数上涨，SpaceX涨超7%；半导体股全线拉升，存储概念股反弹，SK海力士涨超2%",
+            "source": "经纬科创",
+            "time": "2026-10-22 07:46",
+            "link": "https://finance.eastmoney.com/a/202610223903211368.html"
           },
           {
-            "title": "红利基金跑赢科技基金 公募资金加速“转战”低配赛道",
-            "source": "证券时报",
-            "time": "2026-10-22 01:17",
-            "link": "https://stock.eastmoney.com/a/202610223903047743.html"
+            "title": "美股全线上涨，META盘后一度涨逾6%",
+            "source": "中国证券报",
+            "time": "2026-10-22 07:38",
+            "link": "https://finance.eastmoney.com/a/202610223903193523.html"
           }
         ]
       },
@@ -994,22 +994,22 @@
         "name": "西部数据",
         "news": [
           {
-            "title": "美股三大指数集体收涨 SpaceX涨超7%",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-22 04:00",
-            "link": "https://finance.eastmoney.com/a/202610223903057664.html"
+            "title": "美股齐涨，SpaceX涨超7%；我国成功发射谷神星一号海射型遥八运载火箭；10月27日—29日，2026卫星互联网产业生态大会将在上海举行；英伟达推出自动驾驶安全评估框架，奔驰、沃尔沃等车企加速布局L3及L4自动驾驶——《投资早参》",
+            "source": "每日经济新闻",
+            "time": "2026-10-22 07:54",
+            "link": "https://finance.eastmoney.com/a/202610223903255261.html"
           },
           {
-            "title": "美股三大指数集体收涨 纳指涨超1% SpaceX涨超7%",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-22 04:00",
-            "link": "https://finance.eastmoney.com/a/202610213902919169.html"
-          },
-          {
-            "title": "SpaceX狂飙超12%，总市值超越台积电",
+            "title": "美股存储半导体股大反弹，西部数据涨近4%，科技股大涨",
             "source": "21世纪经济报道",
-            "time": "2026-10-21 22:55",
-            "link": "https://finance.eastmoney.com/a/202610213903012439.html"
+            "time": "2026-10-22 07:36",
+            "link": "https://finance.eastmoney.com/a/202610223903198573.html"
+          },
+          {
+            "title": "美股存储半导体股大反弹，科技股大涨，Meta盘后涨超6%，中概股、黄金白银下跌",
+            "source": "21世纪经济报道",
+            "time": "2026-10-22 07:32",
+            "link": "https://finance.eastmoney.com/a/202610223903144795.html"
           }
         ]
       },
@@ -1018,22 +1018,22 @@
         "name": "闪迪",
         "news": [
           {
-            "title": "存储板块走弱，闪迪现下跌0.6%，美光科技、海力士涨幅收窄至不足2%",
-            "source": "每日经济新闻",
-            "time": "2026-10-21 21:38",
-            "link": "https://finance.eastmoney.com/a/202610213902945640.html"
+            "title": "美股收盘：纳指涨1.05%；科技股多数上涨，SpaceX涨超7%；半导体股全线拉升，存储概念股反弹，SK海力士涨超2%",
+            "source": "经纬科创",
+            "time": "2026-10-22 07:46",
+            "link": "https://finance.eastmoney.com/a/202610223903211368.html"
           },
           {
-            "title": "存储板块走弱，闪迪现下跌0.6%，盘初一度上涨3.5%，美光科技、海力士涨幅收窄至不足2%",
-            "source": "财联社",
-            "time": "2026-10-21 21:37",
-            "link": "https://finance.eastmoney.com/a/202610213902945984.html"
+            "title": "美股全线上涨，META盘后一度涨逾6%",
+            "source": "中国证券报",
+            "time": "2026-10-22 07:38",
+            "link": "https://finance.eastmoney.com/a/202610223903193523.html"
           },
           {
-            "title": "存储板块走弱 闪迪下跌0.6%",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-21 21:37",
-            "link": "https://finance.eastmoney.com/a/202610213902929626.html"
+            "title": "美股存储半导体股大反弹，西部数据涨近4%，科技股大涨",
+            "source": "21世纪经济报道",
+            "time": "2026-10-22 07:36",
+            "link": "https://finance.eastmoney.com/a/202610223903198573.html"
           }
         ]
       },
@@ -1042,22 +1042,22 @@
         "name": "微软",
         "news": [
           {
-            "title": "微软CEO纳德拉2026年薪酬为9060万美元",
-            "source": "财联社",
-            "time": "2026-10-22 04:22",
-            "link": "https://finance.eastmoney.com/a/202610223903064667.html"
+            "title": "美芯片股大涨！超威半导体升涨3.36%，阿斯麦、ARM均涨超2%",
+            "source": "证券时报",
+            "time": "2026-10-22 07:52",
+            "link": "https://finance.eastmoney.com/a/202610223903247891.html"
           },
           {
-            "title": "美股收涨，道指涨0.69%，标普500指数涨0.59%，纳指涨1.05%",
-            "source": "第一财经",
-            "time": "2026-10-22 04:14",
-            "link": "https://finance.eastmoney.com/a/202610223903065147.html"
+            "title": "特斯拉Q3财报：营收同比持平，毛利率回升，Robotaxi无监督里程接近200万英里，Optimus开始生产；Meta Q3营收与Q4指引双超预期，上调AI资本开支下限至1350亿美元，拟发行无投票权新股｜全球科技早参",
+            "source": "每日经济新闻",
+            "time": "2026-10-22 07:50",
+            "link": "https://finance.eastmoney.com/a/202610223903226614.html"
           },
           {
-            "title": "微软称在多家客户环境中监测到Storm-0940身份验证活动 暂未确认发生数据访问",
-            "source": "财联社",
-            "time": "2026-10-22 03:09",
-            "link": "https://finance.eastmoney.com/a/202610223903052764.html"
+            "title": "美股收盘：纳指涨1.05%；科技股多数上涨，SpaceX涨超7%；半导体股全线拉升，存储概念股反弹，SK海力士涨超2%",
+            "source": "经纬科创",
+            "time": "2026-10-22 07:46",
+            "link": "https://finance.eastmoney.com/a/202610223903211368.html"
           }
         ]
       },
@@ -1066,22 +1066,22 @@
         "name": "谷歌",
         "news": [
           {
-            "title": "美股收涨，道指涨0.69%，标普500指数涨0.59%，纳指涨1.05%",
-            "source": "第一财经",
-            "time": "2026-10-22 04:14",
-            "link": "https://finance.eastmoney.com/a/202610223903065147.html"
+            "title": "美股齐涨，SpaceX涨超7%；我国成功发射谷神星一号海射型遥八运载火箭；10月27日—29日，2026卫星互联网产业生态大会将在上海举行；英伟达推出自动驾驶安全评估框架，奔驰、沃尔沃等车企加速布局L3及L4自动驾驶——《投资早参》",
+            "source": "每日经济新闻",
+            "time": "2026-10-22 07:54",
+            "link": "https://finance.eastmoney.com/a/202610223903255261.html"
           },
           {
-            "title": "美股三大指数集体收涨 SpaceX涨超7%",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-22 04:00",
-            "link": "https://finance.eastmoney.com/a/202610223903057664.html"
+            "title": "美芯片股大涨！超威半导体升涨3.36%，阿斯麦、ARM均涨超2%",
+            "source": "证券时报",
+            "time": "2026-10-22 07:52",
+            "link": "https://finance.eastmoney.com/a/202610223903247891.html"
           },
           {
-            "title": "美股三大指数集体收涨 纳指涨超1% SpaceX涨超7%",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-22 04:00",
-            "link": "https://finance.eastmoney.com/a/202610213902919169.html"
+            "title": "美股收盘：纳指涨1.05%；科技股多数上涨，SpaceX涨超7%；半导体股全线拉升，存储概念股反弹，SK海力士涨超2%",
+            "source": "经纬科创",
+            "time": "2026-10-22 07:46",
+            "link": "https://finance.eastmoney.com/a/202610223903211368.html"
           }
         ]
       },
@@ -1090,22 +1090,22 @@
         "name": "Meta",
         "news": [
           {
-            "title": "Meta将资本支出预期上调50亿美元",
-            "source": "第一财经",
-            "time": "2026-10-22 04:52",
-            "link": "https://finance.eastmoney.com/a/202610223903071260.html"
+            "title": "美芯片股大涨！超威半导体升涨3.36%，阿斯麦、ARM均涨超2%",
+            "source": "证券时报",
+            "time": "2026-10-22 07:52",
+            "link": "https://finance.eastmoney.com/a/202610223903247891.html"
           },
           {
-            "title": "Meta Platforms公司CEO扎克伯格表示 Muse将从下个月开始登陆Meta智能眼镜",
-            "source": "财联社",
-            "time": "2026-10-22 04:49",
-            "link": "https://finance.eastmoney.com/a/202610223903068212.html"
+            "title": "特斯拉Q3财报：营收同比持平，毛利率回升，Robotaxi无监督里程接近200万英里，Optimus开始生产；Meta Q3营收与Q4指引双超预期，上调AI资本开支下限至1350亿美元，拟发行无投票权新股｜全球科技早参",
+            "source": "每日经济新闻",
+            "time": "2026-10-22 07:50",
+            "link": "https://finance.eastmoney.com/a/202610223903226614.html"
           },
           {
-            "title": "扎克伯格：Muse将从下个月开始登陆Meta智能眼镜，Muse是Meta智能眼镜商业模式的核心",
-            "source": "财联社",
-            "time": "2026-10-22 04:43",
-            "link": "https://finance.eastmoney.com/a/202610223903068328.html"
+            "title": "美股全线上涨，META盘后一度涨逾6%",
+            "source": "中国证券报",
+            "time": "2026-10-22 07:38",
+            "link": "https://finance.eastmoney.com/a/202610223903193523.html"
           }
         ]
       },
@@ -1114,22 +1114,22 @@
         "name": "Coherent",
         "news": [
           {
-            "title": "SpaceX狂飙超12%，总市值超越台积电",
+            "title": "美股存储半导体股大反弹，科技股大涨，Meta盘后涨超6%，中概股、黄金白银下跌",
             "source": "21世纪经济报道",
-            "time": "2026-10-21 22:55",
-            "link": "https://finance.eastmoney.com/a/202610213903012439.html"
+            "time": "2026-10-22 07:32",
+            "link": "https://finance.eastmoney.com/a/202610223903144795.html"
           },
           {
-            "title": "热门中概股深夜下跌，美股太空、AI服务器概念爆发，SpaceX狂飙超12%",
-            "source": "21世纪经济报道",
-            "time": "2026-10-21 22:41",
-            "link": "https://finance.eastmoney.com/a/202610213903006172.html"
+            "title": "科技股发力道指涨超300点，马斯克点燃AI交易，Meta财报出炉盘后涨超3%",
+            "source": "第一财经",
+            "time": "2026-10-22 07:00",
+            "link": "https://finance.eastmoney.com/a/202610223903096614.html"
           },
           {
-            "title": "深夜，美股太空、AI服务器概念爆发，SpaceX狂飙超12%，市值超台积电，超微电脑涨超12%；热门中概股下挫，好未来跌超6%、小鹏跌超5%",
-            "source": "中新经纬",
-            "time": "2026-10-21 22:40",
-            "link": "https://finance.eastmoney.com/a/202610213903006275.html"
+            "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
+            "source": "财联社",
+            "time": "2026-10-22 05:57",
+            "link": "https://finance.eastmoney.com/a/202610223903080284.html"
           }
         ]
       },
@@ -1138,22 +1138,22 @@
         "name": "Lumentum",
         "news": [
           {
-            "title": "今夜，拉升！又暴涨了",
-            "source": "中国基金报",
-            "time": "2026-10-22 00:04",
-            "link": "https://finance.eastmoney.com/a/202610223903039484.html"
-          },
-          {
-            "title": "深夜，美股太空概念股“起飞”",
-            "source": "上海证券报",
-            "time": "2026-10-21 23:47",
-            "link": "https://finance.eastmoney.com/a/202610213903035746.html"
-          },
-          {
-            "title": "SpaceX狂飙超12%，总市值超越台积电",
+            "title": "美股存储半导体股大反弹，科技股大涨，Meta盘后涨超6%，中概股、黄金白银下跌",
             "source": "21世纪经济报道",
-            "time": "2026-10-21 22:55",
-            "link": "https://finance.eastmoney.com/a/202610213903012439.html"
+            "time": "2026-10-22 07:32",
+            "link": "https://finance.eastmoney.com/a/202610223903144795.html"
+          },
+          {
+            "title": "科技股发力道指涨超300点，马斯克点燃AI交易，Meta财报出炉盘后涨超3%",
+            "source": "第一财经",
+            "time": "2026-10-22 07:00",
+            "link": "https://finance.eastmoney.com/a/202610223903096614.html"
+          },
+          {
+            "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
+            "source": "财联社",
+            "time": "2026-10-22 05:57",
+            "link": "https://finance.eastmoney.com/a/202610223903080284.html"
           }
         ]
       }
@@ -1164,22 +1164,22 @@
         "name": "腾讯控股",
         "news": [
           {
-            "title": "深夜，美股太空概念股“起飞”",
-            "source": "上海证券报",
-            "time": "2026-10-21 23:47",
-            "link": "https://finance.eastmoney.com/a/202610213903035746.html"
+            "title": "腾讯控股：完成发行18亿美元及260亿元人民币票据",
+            "source": "南方财经网",
+            "time": "2026-10-22 07:47",
+            "link": "https://bond.eastmoney.com/a/202610223903227270.html"
           },
           {
-            "title": "SpaceX狂飙超12%，总市值超越台积电",
-            "source": "21世纪经济报道",
-            "time": "2026-10-21 22:55",
-            "link": "https://finance.eastmoney.com/a/202610213903012439.html"
+            "title": "腾讯控股：完成发行18亿美元及人民币260亿元票据",
+            "source": "第一财经",
+            "time": "2026-10-22 07:42",
+            "link": "https://finance.eastmoney.com/a/202610223903206285.html"
           },
           {
-            "title": "热门中概股深夜下跌，美股太空、AI服务器概念爆发，SpaceX狂飙超12%",
-            "source": "21世纪经济报道",
-            "time": "2026-10-21 22:41",
-            "link": "https://finance.eastmoney.com/a/202610213903006172.html"
+            "title": "腾讯控股：完成发行18亿美元及人民币260亿元票据",
+            "source": "财联社",
+            "time": "2026-10-22 07:39",
+            "link": "https://bond.eastmoney.com/a/202610223903163544.html"
           }
         ]
       },
@@ -1188,22 +1188,22 @@
         "name": "阿里巴巴",
         "news": [
           {
-            "title": "纳斯达克中国金龙指数收跌2.35%",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-22 04:02",
-            "link": "https://hk.eastmoney.com/a/202610223903058751.html"
-          },
-          {
-            "title": "美股三大指数集体收涨 纳指涨超1% SpaceX涨超7%",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-22 04:00",
-            "link": "https://finance.eastmoney.com/a/202610213902919169.html"
+            "title": "美股齐涨，SpaceX涨超7%；我国成功发射谷神星一号海射型遥八运载火箭；10月27日—29日，2026卫星互联网产业生态大会将在上海举行；英伟达推出自动驾驶安全评估框架，奔驰、沃尔沃等车企加速布局L3及L4自动驾驶——《投资早参》",
+            "source": "每日经济新闻",
+            "time": "2026-10-22 07:54",
+            "link": "https://finance.eastmoney.com/a/202610223903255261.html"
           },
           {
             "title": "聚力开源“芯”生态 国产算力谋破局",
             "source": "证券日报",
-            "time": "2026-10-22 02:46",
+            "time": "2026-10-22 07:47",
             "link": "https://finance.eastmoney.com/a/202610223903054072.html"
+          },
+          {
+            "title": "美股全线上涨，META盘后一度涨逾6%",
+            "source": "中国证券报",
+            "time": "2026-10-22 07:38",
+            "link": "https://finance.eastmoney.com/a/202610223903193523.html"
           }
         ]
       },
@@ -1214,7 +1214,7 @@
           {
             "title": "红利基金跑赢科技基金 公募资金加速“转战”低配赛道",
             "source": "证券时报",
-            "time": "2026-10-22 01:17",
+            "time": "2026-10-22 07:30",
             "link": "https://stock.eastmoney.com/a/202610223903047743.html"
           },
           {
@@ -1238,7 +1238,7 @@
           {
             "title": "红利基金跑赢科技基金 公募资金加速“转战”低配赛道",
             "source": "证券时报",
-            "time": "2026-10-22 01:17",
+            "time": "2026-10-22 07:30",
             "link": "https://stock.eastmoney.com/a/202610223903047743.html"
           },
           {
@@ -1262,7 +1262,7 @@
           {
             "title": "红利基金跑赢科技基金 公募资金加速“转战”低配赛道",
             "source": "证券时报",
-            "time": "2026-10-22 01:17",
+            "time": "2026-10-22 07:30",
             "link": "https://stock.eastmoney.com/a/202610223903047743.html"
           },
           {
@@ -1284,22 +1284,22 @@
         "name": "小米集团",
         "news": [
           {
-            "title": "纳斯达克中国金龙指数收跌2.35%",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-22 04:02",
-            "link": "https://hk.eastmoney.com/a/202610223903058751.html"
+            "title": "美股齐涨，SpaceX涨超7%；我国成功发射谷神星一号海射型遥八运载火箭；10月27日—29日，2026卫星互联网产业生态大会将在上海举行；英伟达推出自动驾驶安全评估框架，奔驰、沃尔沃等车企加速布局L3及L4自动驾驶——《投资早参》",
+            "source": "每日经济新闻",
+            "time": "2026-10-22 07:54",
+            "link": "https://finance.eastmoney.com/a/202610223903255261.html"
           },
           {
-            "title": "美股三大指数集体收涨 纳指涨超1% SpaceX涨超7%",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-22 04:00",
-            "link": "https://finance.eastmoney.com/a/202610213902919169.html"
+            "title": "美芯片股大涨！超威半导体升涨3.36%，阿斯麦、ARM均涨超2%",
+            "source": "证券时报",
+            "time": "2026-10-22 07:52",
+            "link": "https://finance.eastmoney.com/a/202610223903247891.html"
           },
           {
-            "title": "规范筑基 效率赋能 专业拓界 消费市场扩容升级 迈向60万亿元规模",
+            "title": "广告营销类上市公司迎技术变革与业务升级窗口期",
             "source": "证券日报",
-            "time": "2026-10-22 02:46",
-            "link": "https://finance.eastmoney.com/a/202610223903057020.html"
+            "time": "2026-10-22 07:52",
+            "link": "https://finance.eastmoney.com/a/202610223903053164.html"
           }
         ]
       }
@@ -1310,9 +1310,9 @@
         "name": "三星电子",
         "news": [
           {
-            "title": "押注杠杆ETF，韩国散户巨亏逾6万亿韩元",
+            "title": "押注杠杆ETF 韩国散户巨亏逾6万亿韩元",
             "source": "上海证券报",
-            "time": "2026-10-21 23:44",
+            "time": "2026-10-22 00:04",
             "link": "https://finance.eastmoney.com/a/202610213903035626.html"
           },
           {
@@ -1334,22 +1334,22 @@
         "name": "SK海力士",
         "news": [
           {
-            "title": "美股三大指数集体收涨 SpaceX涨超7%",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-22 04:00",
-            "link": "https://finance.eastmoney.com/a/202610223903057664.html"
+            "title": "美股齐涨，SpaceX涨超7%；我国成功发射谷神星一号海射型遥八运载火箭；10月27日—29日，2026卫星互联网产业生态大会将在上海举行；英伟达推出自动驾驶安全评估框架，奔驰、沃尔沃等车企加速布局L3及L4自动驾驶——《投资早参》",
+            "source": "每日经济新闻",
+            "time": "2026-10-22 07:54",
+            "link": "https://finance.eastmoney.com/a/202610223903255261.html"
           },
           {
-            "title": "美股三大指数集体收涨 纳指涨超1% SpaceX涨超7%",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-22 04:00",
-            "link": "https://finance.eastmoney.com/a/202610213902919169.html"
+            "title": "美股收盘：纳指涨1.05%；科技股多数上涨，SpaceX涨超7%；半导体股全线拉升，存储概念股反弹，SK海力士涨超2%",
+            "source": "经纬科创",
+            "time": "2026-10-22 07:46",
+            "link": "https://finance.eastmoney.com/a/202610223903211368.html"
           },
           {
-            "title": "一块磷矿石的“芯片级”蜕变——兴福电子探路半导体材料高端化、平台化、国际化",
-            "source": "上海证券报",
-            "time": "2026-10-22 01:51",
-            "link": "https://finance.eastmoney.com/a/202610223903050360.html"
+            "title": "美股全线上涨，META盘后一度涨逾6%",
+            "source": "中国证券报",
+            "time": "2026-10-22 07:38",
+            "link": "https://finance.eastmoney.com/a/202610223903193523.html"
           }
         ]
       },
@@ -1358,22 +1358,22 @@
         "name": "韩美半导体",
         "news": [
           {
-            "title": "美股三大指数集体收涨 SpaceX涨超7%",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-22 04:00",
-            "link": "https://finance.eastmoney.com/a/202610223903057664.html"
+            "title": "聚焦集成电路装备 上海金桥持续完善芯片产业链",
+            "source": "经济参考报",
+            "time": "2026-10-22 08:03",
+            "link": "https://finance.eastmoney.com/a/202610223903073786.html"
           },
           {
-            "title": "美股三大指数集体收涨 纳指涨超1% SpaceX涨超7%",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-22 04:00",
-            "link": "https://finance.eastmoney.com/a/202610213902919169.html"
+            "title": "ETF规模速报 | 创业板ETF易方达周三净流入近51亿元，沪深300ETF华泰柏瑞净流入超33.5亿元",
+            "source": "每日经济新闻",
+            "time": "2026-10-22 07:54",
+            "link": "https://finance.eastmoney.com/a/202610223903281591.html"
           },
           {
-            "title": "开渠引水 港股IPO市场火热",
-            "source": "证券日报",
-            "time": "2026-10-22 02:46",
-            "link": "https://finance.eastmoney.com/a/202610223903053272.html"
+            "title": "美股齐涨，SpaceX涨超7%；我国成功发射谷神星一号海射型遥八运载火箭；10月27日—29日，2026卫星互联网产业生态大会将在上海举行；英伟达推出自动驾驶安全评估框架，奔驰、沃尔沃等车企加速布局L3及L4自动驾驶——《投资早参》",
+            "source": "每日经济新闻",
+            "time": "2026-10-22 07:54",
+            "link": "https://finance.eastmoney.com/a/202610223903255261.html"
           }
         ]
       },
@@ -1408,22 +1408,22 @@
         "name": "中际旭创",
         "news": [
           {
+            "title": "谷歌CEO警示算力紧缺！算力租赁高景气 多股业绩倍增可期(名单)",
+            "source": "东方财富研究中心",
+            "time": "2026-10-22 07:15",
+            "link": "https://finance.eastmoney.com/a/202610223903098472.html"
+          },
+          {
+            "title": "刚募资21亿元又要赴港IPO 联讯仪器为何如此着急？",
+            "source": "21世纪经济报道",
+            "time": "2026-10-22 07:00",
+            "link": "https://finance.eastmoney.com/a/202610223903096094.html"
+          },
+          {
             "title": "开渠引水 港股IPO市场火热",
             "source": "证券日报",
             "time": "2026-10-22 02:46",
             "link": "https://finance.eastmoney.com/a/202610223903053272.html"
-          },
-          {
-            "title": "基金三季报来了！权益基金调仓路径显现",
-            "source": "中国基金报",
-            "time": "2026-10-21 23:13",
-            "link": "https://finance.eastmoney.com/a/202610213903025542.html"
-          },
-          {
-            "title": "缩量冲高回落，A股离底部还有多远？",
-            "source": "国际金融报",
-            "time": "2026-10-21 22:41",
-            "link": "https://finance.eastmoney.com/a/202610213903007178.html"
           }
         ]
       },
@@ -1432,22 +1432,22 @@
         "name": "新易盛",
         "news": [
           {
+            "title": "【读财报】逾30家A股公司10月披露回购预案 东阳光、三环集团拟回购额居前",
+            "source": "新华财经",
+            "time": "2026-10-22 07:35",
+            "link": "https://finance.eastmoney.com/a/202610223903144817.html"
+          },
+          {
             "title": "从“有法可依”到“有尺可量” 违规减持精准执法更进一步",
             "source": "证券时报",
-            "time": "2026-10-22 01:17",
+            "time": "2026-10-22 07:28",
             "link": "https://finance.eastmoney.com/a/202610223903046923.html"
           },
           {
-            "title": "回购潮！规模已超千亿元",
-            "source": "大河财立方",
-            "time": "2026-10-21 22:48",
-            "link": "https://finance.eastmoney.com/a/202610213903030970.html"
-          },
-          {
-            "title": "缩量冲高回落，A股离底部还有多远？",
-            "source": "国际金融报",
-            "time": "2026-10-21 22:41",
-            "link": "https://finance.eastmoney.com/a/202610213903007178.html"
+            "title": "谷歌CEO警示算力紧缺！算力租赁高景气 多股业绩倍增可期(名单)",
+            "source": "东方财富研究中心",
+            "time": "2026-10-22 07:15",
+            "link": "https://finance.eastmoney.com/a/202610223903098472.html"
           }
         ]
       },
@@ -1528,6 +1528,12 @@
         "name": "长鑫科技",
         "news": [
           {
+            "title": "【读财报】逾30家A股公司10月披露回购预案 东阳光、三环集团拟回购额居前",
+            "source": "新华财经",
+            "time": "2026-10-22 07:35",
+            "link": "https://finance.eastmoney.com/a/202610223903144817.html"
+          },
+          {
             "title": "基金三季报来了！权益基金调仓路径显现",
             "source": "中国基金报",
             "time": "2026-10-21 23:13",
@@ -1538,12 +1544,6 @@
             "source": "大河财立方",
             "time": "2026-10-21 22:48",
             "link": "https://finance.eastmoney.com/a/202610213903030970.html"
-          },
-          {
-            "title": "长鑫科技发生3笔大宗交易 合计成交1492.13万元",
-            "source": "证券时报网",
-            "time": "2026-10-21 22:13",
-            "link": "https://finance.eastmoney.com/a/202610213902990220.html"
           }
         ]
       },
@@ -1551,6 +1551,12 @@
         "symbol": "002230.SZ",
         "name": "科大讯飞",
         "news": [
+          {
+            "title": "10月22日投资日历|国家外汇管理局举办2026金融街论坛年会专场活动",
+            "source": "东方财富研究中心",
+            "time": "2026-10-22 08:00",
+            "link": "https://finance.eastmoney.com/a/202610223903280977.html"
+          },
           {
             "title": "深市三季报预增面近七成 大市值绩优股与先进制造、机器人赛道集中报喜",
             "source": "央广财经",
@@ -1562,12 +1568,6 @@
             "source": "经济参考报",
             "time": "2026-10-21 21:13",
             "link": "https://finance.eastmoney.com/a/202610213903027175.html"
-          },
-          {
-            "title": "深市三季报密集披露 先进制造领域业绩表现亮眼",
-            "source": "经济参考网",
-            "time": "2026-10-21 18:31",
-            "link": "https://finance.eastmoney.com/a/202610213902772488.html"
           }
         ]
       },
@@ -1576,22 +1576,22 @@
         "name": "寒武纪",
         "news": [
           {
+            "title": "算力租赁：2600亿赛道量价齐升 这是一场“租金与折旧”的赛跑",
+            "source": "东方财富AI妙想",
+            "time": "2026-10-22 07:16",
+            "link": "https://finance.eastmoney.com/a/202610223903099184.html"
+          },
+          {
+            "title": "谷歌CEO警示算力紧缺！算力租赁高景气 多股业绩倍增可期(名单)",
+            "source": "东方财富研究中心",
+            "time": "2026-10-22 07:15",
+            "link": "https://finance.eastmoney.com/a/202610223903098472.html"
+          },
+          {
             "title": "百亿基金经理“踩坑”，换掉宠物股转头买AI，高位布局结果“精准”站岗……这些基金年内收益腰斩",
             "source": "中新经纬",
             "time": "2026-10-21 19:11",
             "link": "https://finance.eastmoney.com/a/202610213902959963.html"
-          },
-          {
-            "title": "电子行业10月21日资金流向日报",
-            "source": "证券时报网",
-            "time": "2026-10-21 16:52",
-            "link": "https://finance.eastmoney.com/a/202610213902692180.html"
-          },
-          {
-            "title": "深沪北百元股数量达171只，科创板股票占46.78%",
-            "source": "证券时报网",
-            "time": "2026-10-21 16:41",
-            "link": "https://finance.eastmoney.com/a/202610213902678477.html"
           }
         ]
       }
