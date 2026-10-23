@@ -54,15 +54,27 @@ def fetch_yf_batch(symbols):
     out = {}
     for s in symbols:
         try:
-            c = df[s]["Close"].dropna()
+            raw = df[s]["Close"]
+            c = raw.dropna()
             if len(c) < 2:
                 continue
             last, prev = float(c.iloc[-1]), float(c.iloc[-2])
+            last_date = c.index[-1]
+            # Yahoo 有时最新一根日线已出现但 Close 为 NaN（数据延迟入库），dropna 后就落后一天。
+            # 此时用 fast_info 的最新价补上最新交易日，前收用上一根有效收盘。
+            rows_after = raw.loc[raw.index > last_date]
+            if len(rows_after):
+                try:
+                    lp = float(yf.Ticker(s).fast_info.last_price)
+                    if lp > 0 and not math.isnan(lp) and abs(lp - last) > 1e-9:
+                        prev, last, last_date = last, lp, rows_after.index[-1]
+                except Exception as e:
+                    print("fast_info 补价失败", s, e)
             if math.isnan(last) or prev == 0:
                 continue
             chg = last - prev
             out[s] = {"close": round(last, 2), "change": round(chg, 2),
-                      "change_pct": round(chg / prev * 100, 2), "date": c.index[-1].strftime("%Y-%m-%d"), "source": "yfinance"}
+                      "change_pct": round(chg / prev * 100, 2), "date": last_date.strftime("%Y-%m-%d"), "source": "yfinance"}
         except Exception:
             continue
     return out

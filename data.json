@@ -1,6 +1,11 @@
 {
+<<<<<<< Updated upstream
   "updated": "2026-10-23 08:05:14",
   "updated_iso": "2026-10-23T08:05:14+08:00",
+=======
+  "updated": "2026-10-23 08:11:33",
+  "updated_iso": "2026-10-23T08:11:33+08:00",
+>>>>>>> Stashed changes
   "timezone": "Asia/Shanghai",
   "markets": [
     {
@@ -52,10 +57,17 @@
           "type": "stock",
           "category": "AI芯片",
           "available": true,
+<<<<<<< Updated upstream
           "close": 221.97,
           "change": 5.5,
           "change_pct": 2.54,
           "date": "2026-10-21",
+=======
+          "close": 212.21,
+          "change": -9.76,
+          "change_pct": -4.4,
+          "date": "2026-10-22",
+>>>>>>> Stashed changes
           "source": "yfinance"
         },
         {
@@ -64,10 +76,17 @@
           "type": "stock",
           "category": "AI芯片",
           "available": true,
+<<<<<<< Updated upstream
           "close": 337.8,
           "change": 3.43,
           "change_pct": 1.03,
           "date": "2026-10-21",
+=======
+          "close": 323.24,
+          "change": -14.56,
+          "change_pct": -4.31,
+          "date": "2026-10-22",
+>>>>>>> Stashed changes
           "source": "yfinance"
         },
         {
@@ -76,10 +95,17 @@
           "type": "stock",
           "category": "存储",
           "available": true,
+<<<<<<< Updated upstream
           "close": 913.67,
           "change": 17.6,
           "change_pct": 1.96,
           "date": "2026-10-21",
+=======
+          "close": 856.49,
+          "change": -57.18,
+          "change_pct": -6.26,
+          "date": "2026-10-22",
+>>>>>>> Stashed changes
           "source": "yfinance"
         },
         {
@@ -88,10 +114,17 @@
           "type": "stock",
           "category": "存储",
           "available": true,
+<<<<<<< Updated upstream
           "close": 378.51,
           "change": 14.19,
           "change_pct": 3.89,
           "date": "2026-10-21",
+=======
+          "close": 354.19,
+          "change": -24.32,
+          "change_pct": -6.43,
+          "date": "2026-10-22",
+>>>>>>> Stashed changes
           "source": "yfinance"
         },
         {
@@ -100,10 +133,17 @@
           "type": "stock",
           "category": "存储",
           "available": true,
+<<<<<<< Updated upstream
           "close": 1378.22,
           "change": 12.84,
           "change_pct": 0.94,
           "date": "2026-10-21",
+=======
+          "close": 1260.93,
+          "change": -117.29,
+          "change_pct": -8.51,
+          "date": "2026-10-22",
+>>>>>>> Stashed changes
           "source": "yfinance"
         },
         {
@@ -112,10 +152,17 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
+<<<<<<< Updated upstream
           "close": 532.95,
           "change": 1.08,
           "change_pct": 0.2,
           "date": "2026-10-21",
+=======
+          "close": 521.08,
+          "change": -11.87,
+          "change_pct": -2.23,
+          "date": "2026-10-22",
+>>>>>>> Stashed changes
           "source": "yfinance"
         },
         {
@@ -124,10 +171,17 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
+<<<<<<< Updated upstream
           "close": 334.76,
           "change": -5.52,
           "change_pct": -1.62,
           "date": "2026-10-21",
+=======
+          "close": 324.22,
+          "change": -10.54,
+          "change_pct": -3.15,
+          "date": "2026-10-22",
+>>>>>>> Stashed changes
           "source": "yfinance"
         },
         {
@@ -136,10 +190,17 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
+<<<<<<< Updated upstream
           "close": 697.52,
           "change": 3.27,
           "change_pct": 0.47,
           "date": "2026-10-21",
+=======
+          "close": 648.85,
+          "change": -48.67,
+          "change_pct": -6.98,
+          "date": "2026-10-22",
+>>>>>>> Stashed changes
           "source": "yfinance"
         },
         {
@@ -148,10 +209,17 @@
           "type": "stock",
           "category": "光模块",
           "available": true,
+<<<<<<< Updated upstream
           "close": 237.53,
           "change": 5.73,
           "change_pct": 2.47,
           "date": "2026-10-21",
+=======
+          "close": 207.82,
+          "change": -29.71,
+          "change_pct": -12.51,
+          "date": "2026-10-22",
+>>>>>>> Stashed changes
           "source": "yfinance"
         },
         {
@@ -160,10 +228,17 @@
           "type": "stock",
           "category": "光模块",
           "available": true,
+<<<<<<< Updated upstream
           "close": 850.7,
           "change": 28.19,
           "change_pct": 3.43,
           "date": "2026-10-21",
+=======
+          "close": 752.54,
+          "change": -98.16,
+          "change_pct": -11.54,
+          "date": "2026-10-22",
+>>>>>>> Stashed changes
           "source": "yfinance"
         }
       ]
@@ -286,10 +361,17 @@
           "type": "index",
           "category": "",
           "available": true,
+<<<<<<< Updated upstream
           "close": 5735.66,
           "change": 182.92,
           "change_pct": 3.29,
           "date": "2026-10-21",
+=======
+          "close": 5533.77,
+          "change": -201.89,
+          "change_pct": -3.52,
+          "date": "2026-10-22",
+>>>>>>> Stashed changes
           "source": "yfinance"
         },
         {
@@ -298,10 +380,17 @@
           "type": "index",
           "category": "",
           "available": true,
+<<<<<<< Updated upstream
           "close": 792.76,
           "change": 10.79,
           "change_pct": 1.38,
           "date": "2026-10-21",
+=======
+          "close": 764.1,
+          "change": -28.66,
+          "change_pct": -3.62,
+          "date": "2026-10-22",
+>>>>>>> Stashed changes
           "source": "yfinance"
         },
         {
@@ -648,12 +737,25 @@
       "symbol": "JPY=X",
       "name": "美元/日元",
       "pair": "USD/JPY",
+<<<<<<< Updated upstream
       "rate": 156.34,
       "change": -1.794,
       "change_pct": -1.13,
       "date": "2026-10-23",
       "history": [
         [
+=======
+      "rate": 158.13,
+      "change": -0.136,
+      "change_pct": -0.09,
+      "date": "2026-10-22",
+      "history": [
+        [
+          "2026-09-10",
+          153.57
+        ],
+        [
+>>>>>>> Stashed changes
           "2026-09-11",
           154.48
         ],
@@ -772,10 +874,13 @@
         [
           "2026-10-22",
           158.13
+<<<<<<< Updated upstream
         ],
         [
           "2026-10-23",
           156.34
+=======
+>>>>>>> Stashed changes
         ]
       ]
     },
@@ -783,9 +888,15 @@
       "symbol": "KRW=X",
       "name": "美元/韩元",
       "pair": "USD/KRW",
+<<<<<<< Updated upstream
       "rate": 1325.28,
       "change": -0.31,
       "change_pct": -0.02,
+=======
+      "rate": 1324.37,
+      "change": -1.22,
+      "change_pct": -0.09,
+>>>>>>> Stashed changes
       "date": "2026-10-23",
       "history": [
         [
@@ -910,7 +1021,11 @@
         ],
         [
           "2026-10-23",
+<<<<<<< Updated upstream
           1325.28
+=======
+          1324.37
+>>>>>>> Stashed changes
         ]
       ]
     }
@@ -922,6 +1037,7 @@
         "name": "英伟达",
         "news": [
           {
+<<<<<<< Updated upstream
             "title": "中国电信词元日调用量高速增长",
             "source": "证券日报",
             "time": "2026-10-23 07:59",
@@ -938,6 +1054,24 @@
             "source": "东方财富研究中心",
             "time": "2026-10-23 07:57",
             "link": "https://finance.eastmoney.com/a/202610233904866545.html"
+=======
+            "title": "AI需求拉动 PCB企业三季度利润大增",
+            "source": "经济参考报",
+            "time": "2026-10-23 08:09",
+            "link": "https://finance.eastmoney.com/a/202610233904662435.html"
+          },
+          {
+            "title": "内存市场将从“芯荒”变“红海”？黄仁勋发声：2029年过剩可能性不大",
+            "source": "财联社",
+            "time": "2026-10-23 08:06",
+            "link": "https://finance.eastmoney.com/a/202610233904892125.html"
+          },
+          {
+            "title": "10月23日早间新闻精选",
+            "source": "财联社",
+            "time": "2026-10-23 08:00",
+            "link": "https://finance.eastmoney.com/a/202610233904890039.html"
+>>>>>>> Stashed changes
           }
         ]
       },
@@ -970,10 +1104,26 @@
         "name": "美光科技",
         "news": [
           {
+<<<<<<< Updated upstream
+=======
+            "title": "内存市场将从“芯荒”变“红海”？黄仁勋发声：2029年过剩可能性不大",
+            "source": "财联社",
+            "time": "2026-10-23 08:06",
+            "link": "https://finance.eastmoney.com/a/202610233904892125.html"
+          },
+          {
+            "title": "10月23日早间新闻精选",
+            "source": "财联社",
+            "time": "2026-10-23 08:00",
+            "link": "https://finance.eastmoney.com/a/202610233904890039.html"
+          },
+          {
+>>>>>>> Stashed changes
             "title": "美股三大指数收盘分化，国际油价飙升超4%，黄金跌破4050美元",
             "source": "21世纪经济报道",
             "time": "2026-10-23 07:40",
             "link": "https://finance.eastmoney.com/a/202610233904850568.html"
+<<<<<<< Updated upstream
           },
           {
             "title": "清晨，美股大规模异动！",
@@ -986,6 +1136,8 @@
             "source": "经纬科创",
             "time": "2026-10-23 07:19",
             "link": "https://finance.eastmoney.com/a/202610233904690437.html"
+=======
+>>>>>>> Stashed changes
           }
         ]
       },
@@ -994,6 +1146,7 @@
         "name": "西部数据",
         "news": [
           {
+<<<<<<< Updated upstream
             "title": "马斯克力争2027年上半年宣布特斯拉与SpaceX合并计划；莫德纳癌症疫苗试验数据意外泄露，股价盘中一度大跌26% ｜全球科技早参",
             "source": "每日经济新闻",
             "time": "2026-10-23 07:53",
@@ -1010,6 +1163,24 @@
             "source": "第一财经",
             "time": "2026-10-23 07:37",
             "link": "https://finance.eastmoney.com/a/202610233904770235.html"
+=======
+            "title": "内存市场将从“芯荒”变“红海”？黄仁勋发声：2029年过剩可能性不大",
+            "source": "财联社",
+            "time": "2026-10-23 08:06",
+            "link": "https://finance.eastmoney.com/a/202610233904892125.html"
+          },
+          {
+            "title": "10月23日早间新闻精选",
+            "source": "财联社",
+            "time": "2026-10-23 08:00",
+            "link": "https://finance.eastmoney.com/a/202610233904890039.html"
+          },
+          {
+            "title": "马斯克力争2027年上半年宣布特斯拉与SpaceX合并计划；莫德纳癌症疫苗试验数据意外泄露，股价盘中一度大跌26% ｜全球科技早参",
+            "source": "每日经济新闻",
+            "time": "2026-10-23 07:53",
+            "link": "https://finance.eastmoney.com/a/202610233904850150.html"
+>>>>>>> Stashed changes
           }
         ]
       },
@@ -1018,10 +1189,26 @@
         "name": "闪迪",
         "news": [
           {
+<<<<<<< Updated upstream
+=======
+            "title": "内存市场将从“芯荒”变“红海”？黄仁勋发声：2029年过剩可能性不大",
+            "source": "财联社",
+            "time": "2026-10-23 08:06",
+            "link": "https://finance.eastmoney.com/a/202610233904892125.html"
+          },
+          {
+            "title": "10月23日早间新闻精选",
+            "source": "财联社",
+            "time": "2026-10-23 08:00",
+            "link": "https://finance.eastmoney.com/a/202610233904890039.html"
+          },
+          {
+>>>>>>> Stashed changes
             "title": "美股三大指数收盘分化，国际油价飙升超4%，黄金跌破4050美元",
             "source": "21世纪经济报道",
             "time": "2026-10-23 07:40",
             "link": "https://finance.eastmoney.com/a/202610233904850568.html"
+<<<<<<< Updated upstream
           },
           {
             "title": "昨夜今晨重大事件汇总",
@@ -1034,6 +1221,8 @@
             "source": "财联社",
             "time": "2026-10-23 07:33",
             "link": "https://finance.eastmoney.com/a/202610233904755888.html"
+=======
+>>>>>>> Stashed changes
           }
         ]
       },
@@ -1090,6 +1279,7 @@
         "name": "Meta",
         "news": [
           {
+<<<<<<< Updated upstream
             "title": "牛市早报｜产业基础能力提升“十五五”规划发布",
             "source": "澎湃新闻",
             "time": "2026-10-23 07:54",
@@ -1106,6 +1296,24 @@
             "source": "21世纪经济报道",
             "time": "2026-10-23 07:40",
             "link": "https://finance.eastmoney.com/a/202610233904850568.html"
+=======
+            "title": "内存市场将从“芯荒”变“红海”？黄仁勋发声：2029年过剩可能性不大",
+            "source": "财联社",
+            "time": "2026-10-23 08:06",
+            "link": "https://finance.eastmoney.com/a/202610233904892125.html"
+          },
+          {
+            "title": "10月23日早间新闻精选",
+            "source": "财联社",
+            "time": "2026-10-23 08:00",
+            "link": "https://finance.eastmoney.com/a/202610233904890039.html"
+          },
+          {
+            "title": "牛市早报｜产业基础能力提升“十五五”规划发布",
+            "source": "澎湃新闻",
+            "time": "2026-10-23 07:54",
+            "link": "https://finance.eastmoney.com/a/202610233904869375.html"
+>>>>>>> Stashed changes
           }
         ]
       },
@@ -1212,6 +1420,7 @@
         "name": "智谱",
         "news": [
           {
+<<<<<<< Updated upstream
             "title": "首进“双11”购物车，AI算力走进大众消费｜经济周刊·焦点",
             "source": "广州日报",
             "time": "2026-10-22 23:49",
@@ -1228,6 +1437,24 @@
             "source": "证券时报网",
             "time": "2026-10-22 21:42",
             "link": "https://finance.eastmoney.com/a/202610223904468857.html"
+=======
+            "title": "卖吆喝大于销售，不打折的token为何急着上架电商双11？",
+            "source": "第一财经",
+            "time": "2026-10-23 08:02",
+            "link": "https://finance.eastmoney.com/a/202610233904892548.html"
+          },
+          {
+            "title": "首进“双11”购物车，AI算力走进大众消费｜经济周刊·焦点",
+            "source": "广州日报",
+            "time": "2026-10-22 23:49",
+            "link": "https://finance.eastmoney.com/a/202610223904614762.html"
+          },
+          {
+            "title": "解码前三季度首都经济：稳底盘、育新质",
+            "source": "北京商报",
+            "time": "2026-10-22 22:47",
+            "link": "https://finance.eastmoney.com/a/202610223904555944.html"
+>>>>>>> Stashed changes
           }
         ]
       },
@@ -1236,6 +1463,7 @@
         "name": "MiniMax",
         "news": [
           {
+<<<<<<< Updated upstream
             "title": "昨夜今晨重大事件汇总",
             "source": "第一财经",
             "time": "2026-10-23 07:37",
@@ -1252,6 +1480,24 @@
             "source": "广州日报",
             "time": "2026-10-22 23:49",
             "link": "https://finance.eastmoney.com/a/202610223904614762.html"
+=======
+            "title": "卖吆喝大于销售，不打折的token为何急着上架电商双11？",
+            "source": "第一财经",
+            "time": "2026-10-23 08:02",
+            "link": "https://finance.eastmoney.com/a/202610233904892548.html"
+          },
+          {
+            "title": "昨夜今晨重大事件汇总",
+            "source": "第一财经",
+            "time": "2026-10-23 07:37",
+            "link": "https://finance.eastmoney.com/a/202610233904770235.html"
+          },
+          {
+            "title": "DeepSeek、MiniMax已完成开源和海外授权使用",
+            "source": "第一财经",
+            "time": "2026-10-22 23:58",
+            "link": "https://finance.eastmoney.com/a/202610223904619165.html"
+>>>>>>> Stashed changes
           }
         ]
       },
@@ -1284,6 +1530,7 @@
         "name": "小米集团",
         "news": [
           {
+<<<<<<< Updated upstream
             "title": "单月渗透率突破50% 新能源重卡驶入生态竞争新阶段",
             "source": "证券日报",
             "time": "2026-10-23 07:59",
@@ -1300,6 +1547,24 @@
             "source": "证券日报",
             "time": "2026-10-23 07:58",
             "link": "https://finance.eastmoney.com/a/202610233904646680.html"
+=======
+            "title": "AI需求拉动 PCB企业三季度利润大增",
+            "source": "经济参考报",
+            "time": "2026-10-23 08:09",
+            "link": "https://finance.eastmoney.com/a/202610233904662435.html"
+          },
+          {
+            "title": "10月23日早间新闻精选",
+            "source": "财联社",
+            "time": "2026-10-23 08:00",
+            "link": "https://finance.eastmoney.com/a/202610233904890039.html"
+          },
+          {
+            "title": "单月渗透率突破50% 新能源重卡驶入生态竞争新阶段",
+            "source": "证券日报",
+            "time": "2026-10-23 07:59",
+            "link": "https://finance.eastmoney.com/a/202610233904646433.html"
+>>>>>>> Stashed changes
           }
         ]
       }
@@ -1310,6 +1575,7 @@
         "name": "三星电子",
         "news": [
           {
+<<<<<<< Updated upstream
             "title": "韩国KOSPI指数跌幅扩大至3% 三星电子跌近4%",
             "source": "东方财富Choice数据",
             "time": "2026-10-23 08:04",
@@ -1326,6 +1592,24 @@
             "source": "证券时报网",
             "time": "2026-10-22 21:30",
             "link": "https://finance.eastmoney.com/a/202610223904451830.html"
+=======
+            "title": "韩国综指跌幅扩大至4%",
+            "source": "东方财富Choice数据",
+            "time": "2026-10-23 08:09",
+            "link": "https://finance.eastmoney.com/a/202610233904887045.html"
+          },
+          {
+            "title": "韩国KOSPI指数跌幅扩大至3% 三星电子跌近4%",
+            "source": "东方财富Choice数据",
+            "time": "2026-10-23 08:04",
+            "link": "https://finance.eastmoney.com/a/202610233904869811.html"
+          },
+          {
+            "title": "产能不足！力积电预计明年逻辑代工再涨价10%至20%，有A股存储企业称四季度售价或继续上调",
+            "source": "每日经济新闻",
+            "time": "2026-10-23 00:02",
+            "link": "https://finance.eastmoney.com/a/202610233904618534.html"
+>>>>>>> Stashed changes
           }
         ]
       },
@@ -1334,6 +1618,7 @@
         "name": "SK海力士",
         "news": [
           {
+<<<<<<< Updated upstream
             "title": "韩国KOSPI指数跌幅扩大至3% 三星电子跌近4%",
             "source": "东方财富Choice数据",
             "time": "2026-10-23 08:04",
@@ -1350,6 +1635,24 @@
             "source": "第一财经",
             "time": "2026-10-23 07:37",
             "link": "https://finance.eastmoney.com/a/202610233904770235.html"
+=======
+            "title": "韩国综指跌幅扩大至4%",
+            "source": "东方财富Choice数据",
+            "time": "2026-10-23 08:09",
+            "link": "https://finance.eastmoney.com/a/202610233904887045.html"
+          },
+          {
+            "title": "内存市场将从“芯荒”变“红海”？黄仁勋发声：2029年过剩可能性不大",
+            "source": "财联社",
+            "time": "2026-10-23 08:06",
+            "link": "https://finance.eastmoney.com/a/202610233904892125.html"
+          },
+          {
+            "title": "韩国KOSPI指数跌幅扩大至3% 三星电子跌近4%",
+            "source": "东方财富Choice数据",
+            "time": "2026-10-23 08:04",
+            "link": "https://finance.eastmoney.com/a/202610233904869811.html"
+>>>>>>> Stashed changes
           }
         ]
       },
@@ -1358,6 +1661,7 @@
         "name": "韩美半导体",
         "news": [
           {
+<<<<<<< Updated upstream
             "title": "扣非净利润同比增99.17% 封测龙头长电科技三季报成色足",
             "source": "上海证券报·中国证券网",
             "time": "2026-10-23 07:55",
@@ -1374,6 +1678,24 @@
             "source": "证券时报",
             "time": "2026-10-23 07:47",
             "link": "https://finance.eastmoney.com/a/202610233904828286.html"
+=======
+            "title": "内存市场将从“芯荒”变“红海”？黄仁勋发声：2029年过剩可能性不大",
+            "source": "财联社",
+            "time": "2026-10-23 08:06",
+            "link": "https://finance.eastmoney.com/a/202610233904892125.html"
+          },
+          {
+            "title": "10月23日早间新闻精选",
+            "source": "财联社",
+            "time": "2026-10-23 08:00",
+            "link": "https://finance.eastmoney.com/a/202610233904890039.html"
+          },
+          {
+            "title": "透视22份半导体成绩单：存储独占九成利润，涨价边际效应退潮",
+            "source": "21世纪经济报道",
+            "time": "2026-10-23 07:59",
+            "link": "https://finance.eastmoney.com/a/202610233904895324.html"
+>>>>>>> Stashed changes
           }
         ]
       },
@@ -1408,6 +1730,7 @@
         "name": "中际旭创",
         "news": [
           {
+<<<<<<< Updated upstream
             "title": "早新闻｜八部门发布重要文件",
             "source": "数据宝",
             "time": "2026-10-23 07:39",
@@ -1424,6 +1747,24 @@
             "source": "21世纪经济报道",
             "time": "2026-10-23 07:00",
             "link": "https://finance.eastmoney.com/a/202610233904685217.html"
+=======
+            "title": "牛市早报｜产业基础能力提升“十五五”规划发布",
+            "source": "澎湃新闻",
+            "time": "2026-10-23 07:54",
+            "link": "https://finance.eastmoney.com/a/202610233904869375.html"
+          },
+          {
+            "title": "早新闻｜八部门发布重要文件",
+            "source": "数据宝",
+            "time": "2026-10-23 07:39",
+            "link": "https://finance.eastmoney.com/a/202610233904832771.html"
+          },
+          {
+            "title": "“易中天”、东山精密，最新发声！",
+            "source": "数据宝",
+            "time": "2026-10-23 07:38",
+            "link": "https://finance.eastmoney.com/a/202610233904831229.html"
+>>>>>>> Stashed changes
           }
         ]
       },
@@ -1456,6 +1797,7 @@
         "name": "天孚通信",
         "news": [
           {
+<<<<<<< Updated upstream
             "title": "牛市早报｜产业基础能力提升“十五五”规划发布",
             "source": "澎湃新闻",
             "time": "2026-10-23 07:54",
@@ -1472,6 +1814,24 @@
             "source": "21世纪经济报道",
             "time": "2026-10-23 07:00",
             "link": "https://finance.eastmoney.com/a/202610233904685217.html"
+=======
+            "title": "10月23日早间新闻精选",
+            "source": "财联社",
+            "time": "2026-10-23 08:00",
+            "link": "https://finance.eastmoney.com/a/202610233904890039.html"
+          },
+          {
+            "title": "牛市早报｜产业基础能力提升“十五五”规划发布",
+            "source": "澎湃新闻",
+            "time": "2026-10-23 07:54",
+            "link": "https://finance.eastmoney.com/a/202610233904869375.html"
+          },
+          {
+            "title": "“易中天”、东山精密，最新发声！",
+            "source": "数据宝",
+            "time": "2026-10-23 07:38",
+            "link": "https://finance.eastmoney.com/a/202610233904831229.html"
+>>>>>>> Stashed changes
           }
         ]
       },
@@ -1528,6 +1888,7 @@
         "name": "长鑫科技",
         "news": [
           {
+<<<<<<< Updated upstream
             "title": "A股回购增持潮起 硬科技公司密集出手",
             "source": "上海证券报",
             "time": "2026-10-23 06:14",
@@ -1544,6 +1905,24 @@
             "source": "国际金融报",
             "time": "2026-10-22 23:14",
             "link": "https://finance.eastmoney.com/a/202610223904595741.html"
+=======
+            "title": "透视22份半导体成绩单：存储独占九成利润，涨价边际效应退潮",
+            "source": "21世纪经济报道",
+            "time": "2026-10-23 07:59",
+            "link": "https://finance.eastmoney.com/a/202610233904895324.html"
+          },
+          {
+            "title": "A股回购增持潮起 硬科技公司密集出手",
+            "source": "上海证券报",
+            "time": "2026-10-23 06:14",
+            "link": "https://finance.eastmoney.com/a/202610233904643354.html"
+          },
+          {
+            "title": "东吴证券大股东增持破亿！券业并购重组再迎政策催化",
+            "source": "21世纪经济报道",
+            "time": "2026-10-23 00:03",
+            "link": "https://finance.eastmoney.com/a/202610223904511827.html"
+>>>>>>> Stashed changes
           }
         ]
       },
