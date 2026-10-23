@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24 04:40:31",
-  "updated_iso": "2026-10-24T04:40:31+08:00",
+  "updated": "2026-10-24 07:34:20",
+  "updated_iso": "2026-10-24T07:34:20+08:00",
   "timezone": "Asia/Shanghai",
   "markets": [
     {
@@ -513,9 +513,9 @@
       "symbol": "CNY=X",
       "name": "美元/人民币",
       "pair": "USD/CNY",
-      "rate": 6.6697,
-      "change": -0.0082,
-      "change_pct": -0.12,
+      "rate": 6.6606,
+      "change": -0.0173,
+      "change_pct": -0.26,
       "date": "2026-10-23",
       "history": [
         [
@@ -640,7 +640,7 @@
         ],
         [
           "2026-10-23",
-          6.6697
+          6.6606
         ]
       ]
     },
@@ -648,9 +648,9 @@
       "symbol": "JPY=X",
       "name": "美元/日元",
       "pair": "USD/JPY",
-      "rate": 156.86,
-      "change": -1.274,
-      "change_pct": -0.81,
+      "rate": 156.81,
+      "change": -1.318,
+      "change_pct": -0.83,
       "date": "2026-10-23",
       "history": [
         [
@@ -775,7 +775,7 @@
         ],
         [
           "2026-10-23",
-          156.86
+          156.81
         ]
       ]
     },
@@ -783,8 +783,8 @@
       "symbol": "KRW=X",
       "name": "美元/韩元",
       "pair": "USD/KRW",
-      "rate": 1323.63,
-      "change": -1.96,
+      "rate": 1323.66,
+      "change": -1.93,
       "change_pct": -0.15,
       "date": "2026-10-23",
       "history": [
@@ -910,7 +910,7 @@
         ],
         [
           "2026-10-23",
-          1323.63
+          1323.66
         ]
       ]
     }
@@ -922,22 +922,22 @@
         "name": "英伟达",
         "news": [
           {
-            "title": "杰普特定增募资13.83亿元 欲打造新增长曲线",
-            "source": "中国经营网",
-            "time": "2026-10-24 04:04",
-            "link": "https://finance.eastmoney.com/a/202610243906829911.html"
+            "title": "美军“钢铁之墙”满百日，布油冲破115美元，石油石化景气成色如何（附股）",
+            "source": "东方财富研究中心",
+            "time": "2026-10-24 07:30",
+            "link": "https://finance.eastmoney.com/a/202610243906861723.html"
           },
           {
-            "title": "东山精密赴港上市 “收购+扩张”已致负债上升",
-            "source": "中国经营网",
-            "time": "2026-10-24 04:02",
-            "link": "https://finance.eastmoney.com/a/202610243906830049.html"
+            "title": "QFII三季度持股动向曝光 业绩报喜股受追捧",
+            "source": "证券时报",
+            "time": "2026-10-24 07:28",
+            "link": "https://finance.eastmoney.com/a/202610243906815078.html"
           },
           {
-            "title": "美股三大指数集体收跌 油气股大涨 雪佛龙、埃克森美孚、壳牌股价均创历史新高",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-24 04:00",
-            "link": "https://finance.eastmoney.com/a/202610233906603626.html"
+            "title": "产业资本积极布局 北交所上市公司增持回购升温",
+            "source": "证券时报",
+            "time": "2026-10-24 07:27",
+            "link": "https://finance.eastmoney.com/a/202610243906815341.html"
           }
         ]
       },
@@ -946,22 +946,22 @@
         "name": "博通",
         "news": [
           {
-            "title": "美股光通信股开盘普涨，Lumentum涨0.68%，康宁跌0.04%",
-            "source": "每日经济新闻",
-            "time": "2026-10-23 21:35",
-            "link": "https://finance.eastmoney.com/a/202610233906637875.html"
+            "title": "21评论丨本轮AI投资热潮能持续多久？",
+            "source": "21世纪经济报道",
+            "time": "2026-10-24 07:00",
+            "link": "https://finance.eastmoney.com/a/202610243906859398.html"
           },
           {
-            "title": "美股三大股指集体低开 三大电信股齐跌4%",
+            "title": "美股收盘：三大指数全线收跌 道指下挫1.23%；存储芯片股分化 海力士涨超4% 美光涨超2% 希捷、闪迪跌近2%；油价狂飙超3% 金银下跌",
+            "source": "中新经纬",
+            "time": "2026-10-24 06:30",
+            "link": "https://finance.eastmoney.com/a/202610243906854185.html"
+          },
+          {
+            "title": "美股收盘：油价暴涨压制市场情绪 三大指数集体收低",
             "source": "财联社",
-            "time": "2026-10-23 21:30",
-            "link": "https://finance.eastmoney.com/a/202610233906638044.html"
-          },
-          {
-            "title": "美股三大股指集体低开 三大电信股齐跌4%",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-23 21:30",
-            "link": "https://finance.eastmoney.com/a/202610233906605811.html"
+            "time": "2026-10-24 06:22",
+            "link": "https://finance.eastmoney.com/a/202610243906851690.html"
           }
         ]
       },
@@ -970,22 +970,22 @@
         "name": "美光科技",
         "news": [
           {
-            "title": "美股三大指数集体收跌 热门科技股多数下跌",
-            "source": "财联社",
-            "time": "2026-10-24 04:01",
-            "link": "https://stock.eastmoney.com/a/202610243906829870.html"
+            "title": "道指跌超650点！美股主要股指全线收跌 芯片股反弹 油价大涨 现货黄金失守4000美元关口",
+            "source": "第一财经",
+            "time": "2026-10-24 07:24",
+            "link": "https://finance.eastmoney.com/a/202610243906861425.html"
           },
           {
-            "title": "美股三大指数集体收跌 油气股大涨 雪佛龙、埃克森美孚、壳牌股价均创历史新高",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-24 04:00",
-            "link": "https://finance.eastmoney.com/a/202610233906603626.html"
+            "title": "美股AI产业链股震荡背后：算账式回调后 市场不再轻易买单",
+            "source": "21世纪经济报道",
+            "time": "2026-10-24 07:00",
+            "link": "https://finance.eastmoney.com/a/202610243906858616.html"
           },
           {
-            "title": "美股三大指数集体收跌 油气股大涨",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-24 04:00",
-            "link": "https://finance.eastmoney.com/a/202610243906828844.html"
+            "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动；油价大涨超3%，黄金跌破4000美元；恒大清盘进展丨每经早参",
+            "source": "每日经济新闻",
+            "time": "2026-10-24 06:53",
+            "link": "https://finance.eastmoney.com/a/202610243906857257.html"
           }
         ]
       },
@@ -994,22 +994,22 @@
         "name": "西部数据",
         "news": [
           {
-            "title": "全球市值“股王” 盘中易位！",
-            "source": "证券时报",
-            "time": "2026-10-23 22:32",
-            "link": "https://finance.eastmoney.com/a/202610233906712238.html"
+            "title": "道指跌超650点！美股主要股指全线收跌 芯片股反弹 油价大涨 现货黄金失守4000美元关口",
+            "source": "第一财经",
+            "time": "2026-10-24 07:24",
+            "link": "https://finance.eastmoney.com/a/202610243906861425.html"
           },
           {
-            "title": "美股低开，三大电信股齐跌4%；国办：减缓人工智能应用就业替代影响；花旗证券中国获批设立；三安光电实控人林秀成被批捕丨每经晚参",
-            "source": "每日经济新闻",
-            "time": "2026-10-23 22:07",
-            "link": "https://finance.eastmoney.com/a/202610233906694517.html"
+            "title": "美股收盘：三大指数全线收跌 道指下挫1.23%；存储芯片股分化 海力士涨超4% 美光涨超2% 希捷、闪迪跌近2%；油价狂飙超3% 金银下跌",
+            "source": "中新经纬",
+            "time": "2026-10-24 06:30",
+            "link": "https://finance.eastmoney.com/a/202610243906854185.html"
           },
           {
-            "title": "美股集体低开，三大电信股齐跌4%；国办：减缓人工智能应用就业替代影响；花旗证券中国获批设立；三安光电实控人林秀成被批捕丨每经晚参",
-            "source": "每日经济新闻",
-            "time": "2026-10-23 21:38",
-            "link": "https://finance.eastmoney.com/a/202610233906642412.html"
+            "title": "美股收盘：油价暴涨压制市场情绪 三大指数集体收低",
+            "source": "财联社",
+            "time": "2026-10-24 06:22",
+            "link": "https://finance.eastmoney.com/a/202610243906851690.html"
           }
         ]
       },
@@ -1018,22 +1018,22 @@
         "name": "闪迪",
         "news": [
           {
-            "title": "深夜，大涨！马斯克，突然引爆！",
-            "source": "券商中国",
-            "time": "2026-10-23 22:49",
-            "link": "https://finance.eastmoney.com/a/202610233906733538.html"
+            "title": "道指跌超650点！美股主要股指全线收跌 芯片股反弹 油价大涨 现货黄金失守4000美元关口",
+            "source": "第一财经",
+            "time": "2026-10-24 07:24",
+            "link": "https://finance.eastmoney.com/a/202610243906861425.html"
           },
           {
-            "title": "国际油价大幅拉升 布油涨破116美元 美股芯片、光通信概念股反弹 SK海力士涨超3%",
-            "source": "21世纪经济报道",
-            "time": "2026-10-23 22:37",
-            "link": "https://finance.eastmoney.com/a/202610233906717562.html"
+            "title": "美股收盘：三大指数全线收跌 道指下挫1.23%；存储芯片股分化 海力士涨超4% 美光涨超2% 希捷、闪迪跌近2%；油价狂飙超3% 金银下跌",
+            "source": "中新经纬",
+            "time": "2026-10-24 06:30",
+            "link": "https://finance.eastmoney.com/a/202610243906854185.html"
           },
           {
-            "title": "美股部分存储芯片概念股超跌反弹",
-            "source": "每日经济新闻",
-            "time": "2026-10-23 22:15",
-            "link": "https://finance.eastmoney.com/a/202610233906699263.html"
+            "title": "美股收盘：油价暴涨压制市场情绪 三大指数集体收低",
+            "source": "财联社",
+            "time": "2026-10-24 06:22",
+            "link": "https://finance.eastmoney.com/a/202610243906851690.html"
           }
         ]
       },
@@ -1042,22 +1042,22 @@
         "name": "微软",
         "news": [
           {
+            "title": "道指跌超650点！美股主要股指全线收跌 芯片股反弹 油价大涨 现货黄金失守4000美元关口",
+            "source": "第一财经",
+            "time": "2026-10-24 07:24",
+            "link": "https://finance.eastmoney.com/a/202610243906861425.html"
+          },
+          {
             "title": "从全球视野看A股硬科技产业景气度",
             "source": "上海证券报",
-            "time": "2026-10-24 02:12",
+            "time": "2026-10-24 07:12",
             "link": "https://finance.eastmoney.com/a/202610243906817592.html"
           },
           {
-            "title": "科技巨头，盘中股价再创新高，总市值超越英伟达",
-            "source": "中国证券报",
-            "time": "2026-10-23 23:24",
-            "link": "https://finance.eastmoney.com/a/202610233906773513.html"
-          },
-          {
-            "title": "深夜，大涨！马斯克，突然引爆！",
-            "source": "券商中国",
-            "time": "2026-10-23 22:49",
-            "link": "https://finance.eastmoney.com/a/202610233906733538.html"
+            "title": "美股AI产业链股震荡背后：算账式回调后 市场不再轻易买单",
+            "source": "21世纪经济报道",
+            "time": "2026-10-24 07:00",
+            "link": "https://finance.eastmoney.com/a/202610243906858616.html"
           }
         ]
       },
@@ -1066,22 +1066,22 @@
         "name": "谷歌",
         "news": [
           {
-            "title": "美股三大指数集体收跌 热门科技股多数下跌",
-            "source": "财联社",
-            "time": "2026-10-24 04:01",
-            "link": "https://stock.eastmoney.com/a/202610243906829870.html"
+            "title": "道指跌超650点！美股主要股指全线收跌 芯片股反弹 油价大涨 现货黄金失守4000美元关口",
+            "source": "第一财经",
+            "time": "2026-10-24 07:24",
+            "link": "https://finance.eastmoney.com/a/202610243906861425.html"
           },
           {
-            "title": "美股三大指数集体收跌 油气股大涨 雪佛龙、埃克森美孚、壳牌股价均创历史新高",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-24 04:00",
-            "link": "https://finance.eastmoney.com/a/202610233906603626.html"
+            "title": "21评论丨黄金和纳指缘何同步回调？",
+            "source": "21世纪经济报道",
+            "time": "2026-10-24 07:00",
+            "link": "https://bond.eastmoney.com/a/202610243906857927.html"
           },
           {
-            "title": "美股三大指数集体收跌 油气股大涨",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-24 04:00",
-            "link": "https://finance.eastmoney.com/a/202610243906828844.html"
+            "title": "美股AI产业链股震荡背后：算账式回调后 市场不再轻易买单",
+            "source": "21世纪经济报道",
+            "time": "2026-10-24 07:00",
+            "link": "https://finance.eastmoney.com/a/202610243906858616.html"
           }
         ]
       },
@@ -1090,22 +1090,22 @@
         "name": "Meta",
         "news": [
           {
-            "title": "美股三大指数集体收跌 热门科技股多数下跌",
-            "source": "财联社",
-            "time": "2026-10-24 04:01",
-            "link": "https://stock.eastmoney.com/a/202610243906829870.html"
+            "title": "道指跌超650点！美股主要股指全线收跌 芯片股反弹 油价大涨 现货黄金失守4000美元关口",
+            "source": "第一财经",
+            "time": "2026-10-24 07:24",
+            "link": "https://finance.eastmoney.com/a/202610243906861425.html"
           },
           {
-            "title": "美股三大指数集体收跌 油气股大涨 雪佛龙、埃克森美孚、壳牌股价均创历史新高",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-24 04:00",
-            "link": "https://finance.eastmoney.com/a/202610233906603626.html"
+            "title": "国际金融要情 |（周六 2026.10.24）",
+            "source": "国际金融报",
+            "time": "2026-10-24 07:14",
+            "link": "https://finance.eastmoney.com/a/202610243906860231.html"
           },
           {
-            "title": "美股三大指数集体收跌 油气股大涨",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-24 04:00",
-            "link": "https://finance.eastmoney.com/a/202610243906828844.html"
+            "title": "美股AI产业链股震荡背后：算账式回调后 市场不再轻易买单",
+            "source": "21世纪经济报道",
+            "time": "2026-10-24 07:00",
+            "link": "https://finance.eastmoney.com/a/202610243906858616.html"
           }
         ]
       },
@@ -1114,6 +1114,12 @@
         "name": "Coherent",
         "news": [
           {
+            "title": "美股收盘：油价暴涨压制市场情绪 三大指数集体收低",
+            "source": "财联社",
+            "time": "2026-10-24 06:22",
+            "link": "https://finance.eastmoney.com/a/202610243906851690.html"
+          },
+          {
             "title": "上市不足半年启动H股发行 联讯仪器全球化提速",
             "source": "中国经营网",
             "time": "2026-10-24 04:08",
@@ -1124,12 +1130,6 @@
             "source": "每日经济新闻",
             "time": "2026-10-23 21:35",
             "link": "https://finance.eastmoney.com/a/202610233906637875.html"
-          },
-          {
-            "title": "科技股试图喘口气 原油市场又传来压力 | 今夜看点",
-            "source": "财联社",
-            "time": "2026-10-23 21:21",
-            "link": "https://finance.eastmoney.com/a/202610233906598726.html"
           }
         ]
       },
@@ -1138,6 +1138,12 @@
         "name": "Lumentum",
         "news": [
           {
+            "title": "美股收盘：油价暴涨压制市场情绪 三大指数集体收低",
+            "source": "财联社",
+            "time": "2026-10-24 06:22",
+            "link": "https://finance.eastmoney.com/a/202610243906851690.html"
+          },
+          {
             "title": "上市不足半年启动H股发行 联讯仪器全球化提速",
             "source": "中国经营网",
             "time": "2026-10-24 04:08",
@@ -1148,12 +1154,6 @@
             "source": "每日经济新闻",
             "time": "2026-10-23 21:35",
             "link": "https://finance.eastmoney.com/a/202610233906637875.html"
-          },
-          {
-            "title": "科技股试图喘口气 原油市场又传来压力 | 今夜看点",
-            "source": "财联社",
-            "time": "2026-10-23 21:21",
-            "link": "https://finance.eastmoney.com/a/202610233906598726.html"
           }
         ]
       }
@@ -1163,6 +1163,12 @@
         "symbol": "0700.HK",
         "name": "腾讯控股",
         "news": [
+          {
+            "title": "南向资金今日成交活跃股名单（10月23日）",
+            "source": "证券时报网",
+            "time": "2026-10-23 22:35",
+            "link": "https://finance.eastmoney.com/a/202610233906722923.html"
+          },
           {
             "title": "五一视界近一个月首次上榜港股通成交活跃榜",
             "source": "证券时报网",
@@ -1174,12 +1180,6 @@
             "source": "证券时报网",
             "time": "2026-10-23 22:35",
             "link": "https://finance.eastmoney.com/a/202610233906725672.html"
-          },
-          {
-            "title": "港股通（深）净买入9.29亿港元",
-            "source": "证券时报网",
-            "time": "2026-10-23 22:35",
-            "link": "https://finance.eastmoney.com/a/202610233906727180.html"
           }
         ]
       },
@@ -1188,22 +1188,22 @@
         "name": "阿里巴巴",
         "news": [
           {
-            "title": "美股三大指数集体收跌 油气股大涨 雪佛龙、埃克森美孚、壳牌股价均创历史新高",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-24 04:00",
-            "link": "https://finance.eastmoney.com/a/202610233906603626.html"
+            "title": "道指跌超650点！美股主要股指全线收跌 芯片股反弹 油价大涨 现货黄金失守4000美元关口",
+            "source": "第一财经",
+            "time": "2026-10-24 07:24",
+            "link": "https://finance.eastmoney.com/a/202610243906861425.html"
           },
           {
-            "title": "国产AI芯片份额攀升 市场竞争转向系统级能力",
-            "source": "中国经营网",
-            "time": "2026-10-24 03:59",
-            "link": "https://finance.eastmoney.com/a/202610243906828991.html"
+            "title": "新石器创始人余恩源 北京无人物流车队拿下100亿融资",
+            "source": "21世纪经济报道",
+            "time": "2026-10-24 07:00",
+            "link": "https://finance.eastmoney.com/a/202610243906858895.html"
           },
           {
-            "title": "新石器完成近4亿美元E轮融资 无人配送车市场加速迈向规模商业化",
-            "source": "中国经营报",
-            "time": "2026-10-23 23:41",
-            "link": "https://finance.eastmoney.com/a/202610233906790756.html"
+            "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动；油价大涨超3%，黄金跌破4000美元；恒大清盘进展丨每经早参",
+            "source": "每日经济新闻",
+            "time": "2026-10-24 06:53",
+            "link": "https://finance.eastmoney.com/a/202610243906857257.html"
           }
         ]
       },
@@ -1211,6 +1211,12 @@
         "symbol": "2513.HK",
         "name": "智谱",
         "news": [
+          {
+            "title": "游戏公司掀起AI投资潮：上半年投资数量超过去年全年",
+            "source": "中国经营网",
+            "time": "2026-10-24 04:44",
+            "link": "https://finance.eastmoney.com/a/202610243906831968.html"
+          },
           {
             "title": "A股探底回升 科技股涨幅居前",
             "source": "证券时报",
@@ -1222,12 +1228,6 @@
             "source": "上海证券报·中国证券网",
             "time": "2026-10-23 22:38",
             "link": "https://finance.eastmoney.com/a/202610233906728735.html"
-          },
-          {
-            "title": "南向资金今日成交活跃股名单（10月23日）",
-            "source": "证券时报网",
-            "time": "2026-10-23 22:35",
-            "link": "https://finance.eastmoney.com/a/202610233906722923.html"
           }
         ]
       },
@@ -1235,6 +1235,12 @@
         "symbol": "0100.HK",
         "name": "MiniMax",
         "news": [
+          {
+            "title": "游戏公司掀起AI投资潮：上半年投资数量超过去年全年",
+            "source": "中国经营网",
+            "time": "2026-10-24 04:44",
+            "link": "https://finance.eastmoney.com/a/202610243906831968.html"
+          },
           {
             "title": "MiniMax：完成若干模型的开源及海外授权使用所需商务部技术出口登记手续",
             "source": "证券时报网",
@@ -1246,12 +1252,6 @@
             "source": "界面新闻",
             "time": "2026-10-23 22:40",
             "link": "https://finance.eastmoney.com/a/202610233906730032.html"
-          },
-          {
-            "title": "MINIMAX：完成近期已发布及预期将发布模型的商务部技术出口登记手续",
-            "source": "财联社",
-            "time": "2026-10-23 22:36",
-            "link": "https://finance.eastmoney.com/a/202610233906715632.html"
           }
         ]
       },
@@ -1284,22 +1284,22 @@
         "name": "小米集团",
         "news": [
           {
-            "title": "上市不足半年启动H股发行 联讯仪器全球化提速",
-            "source": "中国经营网",
-            "time": "2026-10-24 04:08",
-            "link": "https://finance.eastmoney.com/a/202610243906830155.html"
+            "title": "QFII三季度持股动向曝光 业绩报喜股受追捧",
+            "source": "证券时报",
+            "time": "2026-10-24 07:28",
+            "link": "https://finance.eastmoney.com/a/202610243906815078.html"
           },
           {
-            "title": "东山精密赴港上市 “收购+扩张”已致负债上升",
-            "source": "中国经营网",
-            "time": "2026-10-24 04:02",
-            "link": "https://finance.eastmoney.com/a/202610243906830049.html"
+            "title": "猪企告别“赌周期” 消费分层驱动产业全链路价值重构",
+            "source": "证券时报",
+            "time": "2026-10-24 07:25",
+            "link": "https://finance.eastmoney.com/a/202610243906815456.html"
           },
           {
-            "title": "Anthropic进军欧洲咨询业 加速抢食传统IT咨询市场",
-            "source": "财联社",
-            "time": "2026-10-24 03:47",
-            "link": "https://finance.eastmoney.com/a/202610243906827074.html"
+            "title": "道指跌超650点！美股主要股指全线收跌 芯片股反弹 油价大涨 现货黄金失守4000美元关口",
+            "source": "第一财经",
+            "time": "2026-10-24 07:24",
+            "link": "https://finance.eastmoney.com/a/202610243906861425.html"
           }
         ]
       }
@@ -1309,6 +1309,12 @@
         "symbol": "005930.KS",
         "name": "三星电子",
         "news": [
+          {
+            "title": "美股AI产业链股震荡背后：算账式回调后 市场不再轻易买单",
+            "source": "21世纪经济报道",
+            "time": "2026-10-24 07:00",
+            "link": "https://finance.eastmoney.com/a/202610243906858616.html"
+          },
           {
             "title": "深夜，大涨！马斯克，突然引爆！",
             "source": "券商中国",
@@ -1320,12 +1326,6 @@
             "source": "21世纪经济报道",
             "time": "2026-10-23 20:42",
             "link": "https://finance.eastmoney.com/a/202610233906560284.html"
-          },
-          {
-            "title": "美光、长鑫现技术路线分歧？业内专家研判",
-            "source": "上海证券报",
-            "time": "2026-10-23 18:21",
-            "link": "https://finance.eastmoney.com/a/202610233906457163.html"
           }
         ]
       },
@@ -1334,22 +1334,22 @@
         "name": "SK海力士",
         "news": [
           {
-            "title": "美股三大指数集体收跌 热门科技股多数下跌",
-            "source": "财联社",
-            "time": "2026-10-24 04:01",
-            "link": "https://stock.eastmoney.com/a/202610243906829870.html"
+            "title": "美股AI产业链股震荡背后：算账式回调后 市场不再轻易买单",
+            "source": "21世纪经济报道",
+            "time": "2026-10-24 07:00",
+            "link": "https://finance.eastmoney.com/a/202610243906858616.html"
           },
           {
-            "title": "美股三大指数集体收跌 油气股大涨 雪佛龙、埃克森美孚、壳牌股价均创历史新高",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-24 04:00",
-            "link": "https://finance.eastmoney.com/a/202610233906603626.html"
+            "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动；油价大涨超3%，黄金跌破4000美元；恒大清盘进展丨每经早参",
+            "source": "每日经济新闻",
+            "time": "2026-10-24 06:53",
+            "link": "https://finance.eastmoney.com/a/202610243906857257.html"
           },
           {
-            "title": "美股三大指数集体收跌 油气股大涨",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-24 04:00",
-            "link": "https://finance.eastmoney.com/a/202610243906828844.html"
+            "title": "美股收盘：三大指数全线收跌 道指下挫1.23%；存储芯片股分化 海力士涨超4% 美光涨超2% 希捷、闪迪跌近2%；油价狂飙超3% 金银下跌",
+            "source": "中新经纬",
+            "time": "2026-10-24 06:30",
+            "link": "https://finance.eastmoney.com/a/202610243906854185.html"
           }
         ]
       },
@@ -1358,22 +1358,22 @@
         "name": "韩美半导体",
         "news": [
           {
-            "title": "上市不足半年启动H股发行 联讯仪器全球化提速",
-            "source": "中国经营网",
-            "time": "2026-10-24 04:08",
-            "link": "https://finance.eastmoney.com/a/202610243906830155.html"
+            "title": "多家知名私募产品回撤",
+            "source": "券商中国",
+            "time": "2026-10-24 07:25",
+            "link": "https://fund.eastmoney.com/a/202610243906861184.html"
           },
           {
-            "title": "美股三大指数集体收跌 油气股大涨 雪佛龙、埃克森美孚、壳牌股价均创历史新高",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-24 04:00",
-            "link": "https://finance.eastmoney.com/a/202610233906603626.html"
+            "title": "道指跌超650点！美股主要股指全线收跌 芯片股反弹 油价大涨 现货黄金失守4000美元关口",
+            "source": "第一财经",
+            "time": "2026-10-24 07:24",
+            "link": "https://finance.eastmoney.com/a/202610243906861425.html"
           },
           {
-            "title": "国产AI芯片份额攀升 市场竞争转向系统级能力",
-            "source": "中国经营网",
-            "time": "2026-10-24 03:59",
-            "link": "https://finance.eastmoney.com/a/202610243906828991.html"
+            "title": "从全球视野看A股硬科技产业景气度",
+            "source": "上海证券报",
+            "time": "2026-10-24 07:12",
+            "link": "https://finance.eastmoney.com/a/202610243906817592.html"
           }
         ]
       },
@@ -1408,22 +1408,22 @@
         "name": "中际旭创",
         "news": [
           {
+            "title": "A股反弹 逾4500只个股上涨 机构：多重积极因素将支撑市场逐步企稳",
+            "source": "上海证券报",
+            "time": "2026-10-24 07:05",
+            "link": "https://finance.eastmoney.com/a/202610243906817652.html"
+          },
+          {
+            "title": "“易中天”集体回应 光通信板块“深V反转”",
+            "source": "21世纪经济报道",
+            "time": "2026-10-24 07:00",
+            "link": "https://finance.eastmoney.com/a/202610243906857530.html"
+          },
+          {
             "title": "上市不足半年启动H股发行 联讯仪器全球化提速",
             "source": "中国经营网",
             "time": "2026-10-24 04:08",
             "link": "https://finance.eastmoney.com/a/202610243906830155.html"
-          },
-          {
-            "title": "A股反弹 逾4500只个股上涨 机构：多重积极因素将支撑市场逐步企稳",
-            "source": "上海证券报",
-            "time": "2026-10-24 02:12",
-            "link": "https://finance.eastmoney.com/a/202610243906817652.html"
-          },
-          {
-            "title": "A股探底回升 科技股涨幅居前",
-            "source": "证券时报",
-            "time": "2026-10-24 01:40",
-            "link": "https://finance.eastmoney.com/a/202610243906815123.html"
           }
         ]
       },
@@ -1432,22 +1432,22 @@
         "name": "新易盛",
         "news": [
           {
-            "title": "上市不足半年启动H股发行 联讯仪器全球化提速",
-            "source": "中国经营网",
-            "time": "2026-10-24 04:08",
-            "link": "https://finance.eastmoney.com/a/202610243906830155.html"
-          },
-          {
             "title": "A股反弹 逾4500只个股上涨 机构：多重积极因素将支撑市场逐步企稳",
             "source": "上海证券报",
-            "time": "2026-10-24 02:12",
+            "time": "2026-10-24 07:05",
             "link": "https://finance.eastmoney.com/a/202610243906817652.html"
           },
           {
-            "title": "多家公司披露回购方案或提议 新易盛拟回购最高十亿元",
-            "source": "证券时报",
-            "time": "2026-10-24 01:39",
-            "link": "https://finance.eastmoney.com/a/202610243906814623.html"
+            "title": "“易中天”集体回应 光通信板块“深V反转”",
+            "source": "21世纪经济报道",
+            "time": "2026-10-24 07:00",
+            "link": "https://finance.eastmoney.com/a/202610243906857530.html"
+          },
+          {
+            "title": "注销式回购成主线 多家上市企业披露增持回购公告",
+            "source": "中国证券报",
+            "time": "2026-10-24 06:56",
+            "link": "https://finance.eastmoney.com/a/202610243906856056.html"
           }
         ]
       },
@@ -1456,22 +1456,22 @@
         "name": "天孚通信",
         "news": [
           {
-            "title": "上市不足半年启动H股发行 联讯仪器全球化提速",
-            "source": "中国经营网",
-            "time": "2026-10-24 04:08",
-            "link": "https://finance.eastmoney.com/a/202610243906830155.html"
-          },
-          {
             "title": "A股反弹 逾4500只个股上涨 机构：多重积极因素将支撑市场逐步企稳",
             "source": "上海证券报",
-            "time": "2026-10-24 02:12",
+            "time": "2026-10-24 07:05",
             "link": "https://finance.eastmoney.com/a/202610243906817652.html"
           },
           {
-            "title": "三季报预告密集披露 公募调研聚焦业绩确定性",
-            "source": "经济参考报",
-            "time": "2026-10-23 23:05",
-            "link": "https://finance.eastmoney.com/a/202610233906750251.html"
+            "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
+            "source": "财联社",
+            "time": "2026-10-24 07:00",
+            "link": "https://forex.eastmoney.com/a/202610243906859757.html"
+          },
+          {
+            "title": "“易中天”集体回应 光通信板块“深V反转”",
+            "source": "21世纪经济报道",
+            "time": "2026-10-24 07:00",
+            "link": "https://finance.eastmoney.com/a/202610243906857530.html"
           }
         ]
       },
@@ -1506,20 +1506,20 @@
           {
             "title": "从全球视野看A股硬科技产业景气度",
             "source": "上海证券报",
-            "time": "2026-10-24 02:12",
+            "time": "2026-10-24 07:12",
             "link": "https://finance.eastmoney.com/a/202610243906817592.html"
+          },
+          {
+            "title": "透视半导体成绩单",
+            "source": "21世纪经济报道",
+            "time": "2026-10-24 07:00",
+            "link": "https://finance.eastmoney.com/a/202610243906859221.html"
           },
           {
             "title": "物奇微冲刺科创板IPO背后：三年累计亏损超7亿元，主营业务毛利率缩水近7个百分点",
             "source": "每日经济新闻",
             "time": "2026-10-23 17:44",
             "link": "https://finance.eastmoney.com/a/202610233906772744.html"
-          },
-          {
-            "title": "百元股数量达169只，电子、机械设备、通信行业占比均超10%",
-            "source": "证券时报网",
-            "time": "2026-10-23 17:40",
-            "link": "https://finance.eastmoney.com/a/202610233906652779.html"
           }
         ]
       },
@@ -1528,22 +1528,22 @@
         "name": "长鑫科技",
         "news": [
           {
-            "title": "长期配置成共识 险资涌入算力产业上下游",
-            "source": "中国经营网",
-            "time": "2026-10-24 02:37",
-            "link": "https://insurance.eastmoney.com/a/202610243906823545.html"
-          },
-          {
-            "title": "A股反弹 逾4500只个股上涨 机构：多重积极因素将支撑市场逐步企稳",
+            "title": "上市银行三季报启幕 业绩改善趋势料延续",
             "source": "上海证券报",
-            "time": "2026-10-24 02:12",
-            "link": "https://finance.eastmoney.com/a/202610243906817652.html"
+            "time": "2026-10-24 07:13",
+            "link": "https://bank.eastmoney.com/a/202610243906817492.html"
           },
           {
             "title": "从全球视野看A股硬科技产业景气度",
             "source": "上海证券报",
-            "time": "2026-10-24 02:12",
+            "time": "2026-10-24 07:12",
             "link": "https://finance.eastmoney.com/a/202610243906817592.html"
+          },
+          {
+            "title": "A股反弹 逾4500只个股上涨 机构：多重积极因素将支撑市场逐步企稳",
+            "source": "上海证券报",
+            "time": "2026-10-24 07:05",
+            "link": "https://finance.eastmoney.com/a/202610243906817652.html"
           }
         ]
       },
@@ -1551,6 +1551,12 @@
         "symbol": "002230.SZ",
         "name": "科大讯飞",
         "news": [
+          {
+            "title": "广西“软硬联通”：让过境货落地，让中国标准出海",
+            "source": "21世纪经济报道",
+            "time": "2026-10-24 07:00",
+            "link": "https://finance.eastmoney.com/a/202610243906858549.html"
+          },
           {
             "title": "科大讯飞刘庆峰：国产算力的差距有望在未来两年拉平",
             "source": "蓝鲸财经",
@@ -1562,12 +1568,6 @@
             "source": "证券日报",
             "time": "2026-10-23 19:49",
             "link": "https://finance.eastmoney.com/a/202610233906518212.html"
-          },
-          {
-            "title": "2026科大讯飞AI文娱论坛在北京举办",
-            "source": "北京商报",
-            "time": "2026-10-23 19:45",
-            "link": "https://finance.eastmoney.com/a/202610233906508532.html"
           }
         ]
       },
@@ -1576,22 +1576,22 @@
         "name": "寒武纪",
         "news": [
           {
+            "title": "寒武纪前三季度营收利润双双倍增",
+            "source": "上海证券报",
+            "time": "2026-10-24 07:22",
+            "link": "https://finance.eastmoney.com/a/202610243906816917.html"
+          },
+          {
+            "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
+            "source": "财联社",
+            "time": "2026-10-24 07:00",
+            "link": "https://forex.eastmoney.com/a/202610243906859757.html"
+          },
+          {
             "title": "国产AI芯片份额攀升 市场竞争转向系统级能力",
             "source": "中国经营网",
             "time": "2026-10-24 03:59",
             "link": "https://finance.eastmoney.com/a/202610243906828991.html"
-          },
-          {
-            "title": "寒武纪前三季度营收利润双双倍增",
-            "source": "上海证券报",
-            "time": "2026-10-24 02:11",
-            "link": "https://finance.eastmoney.com/a/202610243906816917.html"
-          },
-          {
-            "title": "A股探底回升 科技股涨幅居前",
-            "source": "证券时报",
-            "time": "2026-10-24 01:40",
-            "link": "https://finance.eastmoney.com/a/202610243906815123.html"
           }
         ]
       }
