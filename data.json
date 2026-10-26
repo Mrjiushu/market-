@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-26 17:54:21",
-  "updated_iso": "2026-10-26T17:54:21+08:00",
+  "updated": "2026-10-27 03:01:28",
+  "updated_iso": "2026-10-27T03:01:28+08:00",
   "timezone": "Asia/Shanghai",
   "markets": [
     {
       "key": "us",
       "name": "美股",
-      "data_date": "2026-10-23",
+      "data_date": "2026-10-26",
       "expected_date": "2026-10-23",
       "stale": false,
       "items": [
@@ -16,10 +16,10 @@
           "type": "index",
           "category": "",
           "available": true,
-          "close": 7623.68,
-          "change": -39.75,
-          "change_pct": -0.52,
-          "date": "2026-10-23",
+          "close": 7669.47,
+          "change": 45.79,
+          "change_pct": 0.6,
+          "date": "2026-10-26",
           "source": "yfinance"
         },
         {
@@ -28,10 +28,10 @@
           "type": "index",
           "category": "",
           "available": true,
-          "close": 25955.34,
-          "change": -53.52,
-          "change_pct": -0.21,
-          "date": "2026-10-23",
+          "close": 26154.16,
+          "change": 198.82,
+          "change_pct": 0.77,
+          "date": "2026-10-26",
           "source": "yfinance"
         },
         {
@@ -40,10 +40,10 @@
           "type": "index",
           "category": "",
           "available": true,
-          "close": 52215.16,
-          "change": -652.82,
-          "change_pct": -1.23,
-          "date": "2026-10-23",
+          "close": 52294.37,
+          "change": 79.21,
+          "change_pct": 0.15,
+          "date": "2026-10-26",
           "source": "yfinance"
         },
         {
@@ -52,10 +52,10 @@
           "type": "stock",
           "category": "AI芯片",
           "available": true,
-          "close": 210.96,
-          "change": -1.25,
-          "change_pct": -0.59,
-          "date": "2026-10-23",
+          "close": 215.93,
+          "change": 4.97,
+          "change_pct": 2.36,
+          "date": "2026-10-26",
           "source": "yfinance"
         },
         {
@@ -64,10 +64,10 @@
           "type": "stock",
           "category": "AI芯片",
           "available": true,
-          "close": 321.68,
-          "change": -1.56,
-          "change_pct": -0.48,
-          "date": "2026-10-23",
+          "close": 330.02,
+          "change": 8.35,
+          "change_pct": 2.59,
+          "date": "2026-10-26",
           "source": "yfinance"
         },
         {
@@ -76,10 +76,10 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 877.55,
-          "change": 21.06,
-          "change_pct": 2.46,
-          "date": "2026-10-23",
+          "close": 909.11,
+          "change": 31.56,
+          "change_pct": 3.6,
+          "date": "2026-10-26",
           "source": "yfinance"
         },
         {
@@ -88,10 +88,10 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 343.67,
-          "change": -10.52,
-          "change_pct": -2.97,
-          "date": "2026-10-23",
+          "close": 361.17,
+          "change": 17.5,
+          "change_pct": 5.09,
+          "date": "2026-10-26",
           "source": "yfinance"
         },
         {
@@ -100,10 +100,10 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 1238.03,
-          "change": -22.9,
-          "change_pct": -1.82,
-          "date": "2026-10-23",
+          "close": 1263.36,
+          "change": 25.33,
+          "change_pct": 2.05,
+          "date": "2026-10-26",
           "source": "yfinance"
         },
         {
@@ -111,7 +111,12 @@
           "name": "微软",
           "type": "stock",
           "category": "大模型",
-          "available": false
+          "available": true,
+          "close": 531.34,
+          "change": 6.83,
+          "change_pct": 1.3,
+          "date": "2026-10-26",
+          "source": "yfinance"
         },
         {
           "symbol": "GOOGL",
@@ -119,10 +124,10 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 320.21,
-          "change": -4.01,
-          "change_pct": -1.24,
-          "date": "2026-10-23",
+          "close": 316.61,
+          "change": -3.6,
+          "change_pct": -1.12,
+          "date": "2026-10-26",
           "source": "yfinance"
         },
         {
@@ -131,10 +136,10 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 642.62,
-          "change": -6.23,
-          "change_pct": -0.96,
-          "date": "2026-10-23",
+          "close": 631.86,
+          "change": -10.76,
+          "change_pct": -1.67,
+          "date": "2026-10-26",
           "source": "yfinance"
         },
         {
@@ -143,10 +148,10 @@
           "type": "stock",
           "category": "光模块",
           "available": true,
-          "close": 209.29,
-          "change": 1.47,
-          "change_pct": 0.71,
-          "date": "2026-10-23",
+          "close": 223.07,
+          "change": 13.78,
+          "change_pct": 6.58,
+          "date": "2026-10-26",
           "source": "yfinance"
         },
         {
@@ -155,10 +160,10 @@
           "type": "stock",
           "category": "光模块",
           "available": true,
-          "close": 756.17,
-          "change": 3.63,
-          "change_pct": 0.48,
-          "date": "2026-10-23",
+          "close": 827.94,
+          "change": 71.77,
+          "change_pct": 9.49,
+          "date": "2026-10-26",
           "source": "yfinance"
         }
       ]
@@ -508,9 +513,9 @@
       "symbol": "CNY=X",
       "name": "美元/人民币",
       "pair": "USD/CNY",
-      "rate": 6.6564,
-      "change": -0.0215,
-      "change_pct": -0.32,
+      "rate": 6.6593,
+      "change": -0.0186,
+      "change_pct": -0.28,
       "date": "2026-10-26",
       "history": [
         [
@@ -635,7 +640,7 @@
         ],
         [
           "2026-10-26",
-          6.6564
+          6.6593
         ]
       ]
     },
@@ -643,9 +648,9 @@
       "symbol": "JPY=X",
       "name": "美元/日元",
       "pair": "USD/JPY",
-      "rate": 157.32,
-      "change": 0.83,
-      "change_pct": 0.53,
+      "rate": 157.45,
+      "change": 0.956,
+      "change_pct": 0.61,
       "date": "2026-10-26",
       "history": [
         [
@@ -770,7 +775,7 @@
         ],
         [
           "2026-10-26",
-          157.32
+          157.45
         ]
       ]
     },
@@ -778,9 +783,9 @@
       "symbol": "KRW=X",
       "name": "美元/韩元",
       "pair": "USD/KRW",
-      "rate": 1323.93,
-      "change": -2.06,
-      "change_pct": -0.16,
+      "rate": 1325.74,
+      "change": -0.25,
+      "change_pct": -0.02,
       "date": "2026-10-26",
       "history": [
         [
@@ -905,7 +910,7 @@
         ],
         [
           "2026-10-26",
-          1323.93
+          1325.74
         ]
       ]
     }
@@ -917,22 +922,22 @@
         "name": "英伟达",
         "news": [
           {
-            "title": "加拿大养老基金投资公司据悉考虑出售香港一处仓储设施的50%股权",
-            "source": "财联社",
-            "time": "2026-10-26 17:50",
-            "link": "https://finance.eastmoney.com/a/202610263908144462.html"
+            "title": "美股三大指数集体上涨 科技股多数回暖 巴西在美股上市的公司股价重挫",
+            "source": "东方财富Choice数据",
+            "time": "2026-10-27 02:16",
+            "link": "https://finance.eastmoney.com/a/202610263908527763.html"
           },
           {
-            "title": "泉阳泉第三季度归母净利润813万元，同比增长575%",
-            "source": "财中社",
-            "time": "2026-10-26 17:49",
-            "link": "https://finance.eastmoney.com/a/202610263908144790.html"
+            "title": "11省份前三季度经济增速超5% 新动能从“亮点”变“支撑”",
+            "source": "证券时报",
+            "time": "2026-10-27 02:15",
+            "link": "https://finance.eastmoney.com/a/202610273908704944.html"
           },
           {
-            "title": "九号公司：前三季度营收219.43亿元，持续加码研发",
-            "source": "南方财经网",
-            "time": "2026-10-26 17:46",
-            "link": "https://finance.eastmoney.com/a/202610263908140886.html"
+            "title": "打破AI参数比拼 智能体重构云边端算力分配",
+            "source": "证券时报",
+            "time": "2026-10-27 02:14",
+            "link": "https://finance.eastmoney.com/a/202610273908704559.html"
           }
         ]
       },
@@ -941,22 +946,22 @@
         "name": "博通",
         "news": [
           {
-            "title": "美股盘前速递：存储芯片板块多数下跌，美光科技、闪迪齐跌；光通信集体下跌，应用光电跌2.7%，康宁跌1.14%",
-            "source": "中新经纬",
-            "time": "2026-10-26 16:49",
-            "link": "https://finance.eastmoney.com/a/202610263908040871.html"
+            "title": "美股三大指数集体上涨 科技股多数回暖 巴西在美股上市的公司股价重挫",
+            "source": "东方财富Choice数据",
+            "time": "2026-10-27 02:16",
+            "link": "https://finance.eastmoney.com/a/202610263908527763.html"
           },
           {
-            "title": "卖出芯片股，苹果做波段！一图速览但斌三季度美股调仓",
-            "source": "东方财富研究中心",
-            "time": "2026-10-26 10:13",
-            "link": "https://finance.eastmoney.com/a/202610263907712398.html"
-          },
-          {
-            "title": "港股早报｜港交所推出人工智能及半导体指数 紫金矿业前三季度净利润同比增超50%",
+            "title": "小K快评：Anthropic冲刺IPO 两个反差一场赌局",
             "source": "财联社",
-            "time": "2026-10-26 08:47",
-            "link": "https://finance.eastmoney.com/a/202610263907444311.html"
+            "time": "2026-10-26 23:39",
+            "link": "https://finance.eastmoney.com/a/202610263908672235.html"
+          },
+          {
+            "title": "美股人工智能相关股票上涨，英伟达涨超3%",
+            "source": "证券时报网",
+            "time": "2026-10-26 23:13",
+            "link": "https://finance.eastmoney.com/a/202610263908648296.html"
           }
         ]
       },
@@ -965,22 +970,22 @@
         "name": "美光科技",
         "news": [
           {
-            "title": "美股盘前速递：存储芯片板块多数下跌，美光科技、闪迪齐跌；光通信集体下跌，应用光电跌2.7%，康宁跌1.14%",
-            "source": "中新经纬",
-            "time": "2026-10-26 16:49",
-            "link": "https://finance.eastmoney.com/a/202610263908040871.html"
+            "title": "美股三大指数集体上涨 科技股多数回暖 巴西在美股上市的公司股价重挫",
+            "source": "东方财富Choice数据",
+            "time": "2026-10-27 02:16",
+            "link": "https://finance.eastmoney.com/a/202610263908527763.html"
           },
           {
-            "title": "段永平重仓泡泡玛特浮亏超18亿港元 仍表示“会再买一些”",
-            "source": "界面新闻",
-            "time": "2026-10-26 13:27",
-            "link": "https://finance.eastmoney.com/a/202610263907862490.html"
+            "title": "特斯拉市值飙升5700亿元 美股半导体、光通信股上涨 Lumentum涨超5%",
+            "source": "21世纪经济报道",
+            "time": "2026-10-26 23:15",
+            "link": "https://finance.eastmoney.com/a/202610263908650087.html"
           },
           {
-            "title": "长鑫科技震荡 存储板块被严重低估？",
-            "source": "上海证券报",
-            "time": "2026-10-26 10:41",
-            "link": "https://stock.eastmoney.com/a/202610263907756439.html"
+            "title": "标普500指数涨幅扩大至1% 费城半导体指数涨3%",
+            "source": "财联社",
+            "time": "2026-10-26 23:03",
+            "link": "https://stock.eastmoney.com/a/202610263908641285.html"
           }
         ]
       },
@@ -989,22 +994,22 @@
         "name": "西部数据",
         "news": [
           {
-            "title": "美股盘前速递：存储芯片板块多数下跌，美光科技、闪迪齐跌；光通信集体下跌，应用光电跌2.7%，康宁跌1.14%",
-            "source": "中新经纬",
-            "time": "2026-10-26 16:49",
-            "link": "https://finance.eastmoney.com/a/202610263908040871.html"
+            "title": "特斯拉市值飙升5700亿元 美股半导体、光通信股上涨 Lumentum涨超5%",
+            "source": "21世纪经济报道",
+            "time": "2026-10-26 23:15",
+            "link": "https://finance.eastmoney.com/a/202610263908650087.html"
           },
           {
-            "title": "【风口研报】海外机构密集发声！业绩端验证行业景气  存储芯片或迎估值修复窗口",
-            "source": "东方财富研究中心",
-            "time": "2026-10-26 15:20",
-            "link": "https://stock.eastmoney.com/a/202610263907932969.html"
+            "title": "美股存储板块盘初普涨，美光涨1.49%",
+            "source": "每日经济新闻",
+            "time": "2026-10-26 21:34",
+            "link": "https://finance.eastmoney.com/a/202610263908551421.html"
           },
           {
-            "title": "港股早报｜港交所推出人工智能及半导体指数 紫金矿业前三季度净利润同比增超50%",
+            "title": "伯恩斯坦将西部数据目标价从770美元下调至600美元",
             "source": "财联社",
-            "time": "2026-10-26 08:47",
-            "link": "https://finance.eastmoney.com/a/202610263907444311.html"
+            "time": "2026-10-26 18:24",
+            "link": "https://finance.eastmoney.com/a/202610263908207684.html"
           }
         ]
       },
@@ -1013,22 +1018,22 @@
         "name": "闪迪",
         "news": [
           {
-            "title": "美股盘前速递：存储芯片板块多数下跌，美光科技、闪迪齐跌；光通信集体下跌，应用光电跌2.7%，康宁跌1.14%",
-            "source": "中新经纬",
-            "time": "2026-10-26 16:49",
-            "link": "https://finance.eastmoney.com/a/202610263908040871.html"
+            "title": "特斯拉市值飙升5700亿元 美股半导体、光通信股上涨 Lumentum涨超5%",
+            "source": "21世纪经济报道",
+            "time": "2026-10-26 23:15",
+            "link": "https://finance.eastmoney.com/a/202610263908650087.html"
           },
           {
-            "title": "卖出芯片股，苹果做波段！一图速览但斌三季度美股调仓",
-            "source": "东方财富研究中心",
-            "time": "2026-10-26 10:13",
-            "link": "https://finance.eastmoney.com/a/202610263907712398.html"
+            "title": "美股存储板块盘初普涨，美光涨1.49%",
+            "source": "每日经济新闻",
+            "time": "2026-10-26 21:34",
+            "link": "https://finance.eastmoney.com/a/202610263908551421.html"
           },
           {
-            "title": "10月26日国际晨讯 | 巴西总统卢拉赢得连任 “超级央行周”来袭",
-            "source": "上海证券报·中国证券网",
-            "time": "2026-10-26 09:22",
-            "link": "https://forex.eastmoney.com/a/202610263907463246.html"
+            "title": "美股期指集体回暖 SK海力士据报将推巨额股东回报 | 今夜看点",
+            "source": "财联社",
+            "time": "2026-10-26 20:56",
+            "link": "https://finance.eastmoney.com/a/202610263908473654.html"
           }
         ]
       },
@@ -1037,22 +1042,22 @@
         "name": "微软",
         "news": [
           {
-            "title": "美银：微软企业级AI优势进一步巩固 Azure需求或持续超过供给",
-            "source": "财联社",
-            "time": "2026-10-26 17:25",
-            "link": "https://finance.eastmoney.com/a/202610263908108934.html"
+            "title": "美股三大指数集体上涨 科技股多数回暖 巴西在美股上市的公司股价重挫",
+            "source": "东方财富Choice数据",
+            "time": "2026-10-27 02:16",
+            "link": "https://finance.eastmoney.com/a/202610263908527763.html"
           },
           {
-            "title": "业内人士：AI不止帮员工提效，更帮企业降本增收",
-            "source": "上观新闻",
-            "time": "2026-10-26 17:19",
-            "link": "https://finance.eastmoney.com/a/202610263908109339.html"
+            "title": "微软向约6万名员工开放自愿离职方案 AI巨额投入挤压人力预算",
+            "source": "财联社",
+            "time": "2026-10-27 01:56",
+            "link": "https://finance.eastmoney.com/a/202610273908701869.html"
           },
           {
-            "title": "海外研选日报1026 | 荷兰合作银行：美联储12月料再加息 2028年才启动降息",
-            "source": "财联社",
-            "time": "2026-10-26 17:17",
-            "link": "https://stock.eastmoney.com/a/202610263908095660.html"
+            "title": "红利资产走势强劲 沪指企稳回升收盘飘红",
+            "source": "上海证券报",
+            "time": "2026-10-27 01:31",
+            "link": "https://finance.eastmoney.com/a/202610273908699665.html"
           }
         ]
       },
@@ -1061,22 +1066,22 @@
         "name": "谷歌",
         "news": [
           {
-            "title": "海外研选日报1026 | 荷兰合作银行：美联储12月料再加息 2028年才启动降息",
-            "source": "财联社",
-            "time": "2026-10-26 17:17",
-            "link": "https://stock.eastmoney.com/a/202610263908095660.html"
+            "title": "打破AI参数比拼 智能体重构云边端算力分配",
+            "source": "证券时报",
+            "time": "2026-10-27 02:14",
+            "link": "https://finance.eastmoney.com/a/202610273908704559.html"
           },
           {
-            "title": "美股盘前速递：存储芯片板块多数下跌，美光科技、闪迪齐跌；光通信集体下跌，应用光电跌2.7%，康宁跌1.14%",
-            "source": "中新经纬",
-            "time": "2026-10-26 16:49",
-            "link": "https://finance.eastmoney.com/a/202610263908040871.html"
+            "title": "一块印制电路板牵动AI算力产业链",
+            "source": "证券日报",
+            "time": "2026-10-27 01:44",
+            "link": "https://finance.eastmoney.com/a/202610273908703052.html"
           },
           {
-            "title": "iPhone Duo问题频发难挡需求火爆！业内人士：苹果要求赶工增产",
-            "source": "红星资本局",
-            "time": "2026-10-26 15:52",
-            "link": "https://finance.eastmoney.com/a/202610263907950940.html"
+            "title": "红利资产走势强劲 沪指企稳回升收盘飘红",
+            "source": "上海证券报",
+            "time": "2026-10-27 01:31",
+            "link": "https://finance.eastmoney.com/a/202610273908699665.html"
           }
         ]
       },
@@ -1085,22 +1090,22 @@
         "name": "Meta",
         "news": [
           {
-            "title": "海外研选日报1026 | 荷兰合作银行：美联储12月料再加息 2028年才启动降息",
-            "source": "财联社",
-            "time": "2026-10-26 17:17",
-            "link": "https://stock.eastmoney.com/a/202610263908095660.html"
+            "title": "美股三大指数集体上涨 科技股多数回暖 巴西在美股上市的公司股价重挫",
+            "source": "东方财富Choice数据",
+            "time": "2026-10-27 02:16",
+            "link": "https://finance.eastmoney.com/a/202610263908527763.html"
           },
           {
-            "title": "美股盘前速递：存储芯片板块多数下跌，美光科技、闪迪齐跌；光通信集体下跌，应用光电跌2.7%，康宁跌1.14%",
-            "source": "中新经纬",
-            "time": "2026-10-26 16:49",
-            "link": "https://finance.eastmoney.com/a/202610263908040871.html"
+            "title": "微软向约6万名员工开放自愿离职方案 AI巨额投入挤压人力预算",
+            "source": "财联社",
+            "time": "2026-10-27 01:56",
+            "link": "https://finance.eastmoney.com/a/202610273908701869.html"
           },
           {
-            "title": "摩根大通：上调Meta目标价至940美元 预期Muse将更早推进变现",
-            "source": "财联社",
-            "time": "2026-10-26 16:17",
-            "link": "https://finance.eastmoney.com/a/202610263907982048.html"
+            "title": "希荻微陶海：以并购拓宽赛道 用AI重塑基因",
+            "source": "上海证券报",
+            "time": "2026-10-27 01:31",
+            "link": "https://finance.eastmoney.com/a/202610273908699856.html"
           }
         ]
       },
@@ -1109,22 +1114,22 @@
         "name": "Coherent",
         "news": [
           {
-            "title": "美股盘前速递：存储芯片板块多数下跌，美光科技、闪迪齐跌；光通信集体下跌，应用光电跌2.7%，康宁跌1.14%",
-            "source": "中新经纬",
-            "time": "2026-10-26 16:49",
-            "link": "https://finance.eastmoney.com/a/202610263908040871.html"
+            "title": "特斯拉市值飙升5700亿元 美股半导体、光通信股上涨 Lumentum涨超5%",
+            "source": "21世纪经济报道",
+            "time": "2026-10-26 23:15",
+            "link": "https://finance.eastmoney.com/a/202610263908650087.html"
           },
           {
-            "title": "港股早报｜港交所推出人工智能及半导体指数 紫金矿业前三季度净利润同比增超50%",
-            "source": "财联社",
-            "time": "2026-10-26 08:47",
-            "link": "https://finance.eastmoney.com/a/202610263907444311.html"
+            "title": "美股光通信股开盘普涨，Lumentum涨0.94%",
+            "source": "每日经济新闻",
+            "time": "2026-10-26 21:33",
+            "link": "https://finance.eastmoney.com/a/202610263908548475.html"
           },
           {
-            "title": "美股三大指数集体收跌！存储龙头逆势走高，SK海力士涨超4%，美光科技涨超2%",
-            "source": "中国经营报",
-            "time": "2026-10-24 14:52",
-            "link": "https://stock.eastmoney.com/a/202610243907090276.html"
+            "title": "美股盘前：三大股指期货上涨 Meta寻求高达950亿美元的股权融资 巴西概念股盘前重挫",
+            "source": "哈富证券",
+            "time": "2026-10-26 19:58",
+            "link": "https://stock.eastmoney.com/a/202610263908373854.html"
           }
         ]
       },
@@ -1133,22 +1138,22 @@
         "name": "Lumentum",
         "news": [
           {
-            "title": "美股盘前速递：存储芯片板块多数下跌，美光科技、闪迪齐跌；光通信集体下跌，应用光电跌2.7%，康宁跌1.14%",
-            "source": "中新经纬",
-            "time": "2026-10-26 16:49",
-            "link": "https://finance.eastmoney.com/a/202610263908040871.html"
+            "title": "特斯拉市值飙升5700亿元 美股半导体、光通信股上涨 Lumentum涨超5%",
+            "source": "21世纪经济报道",
+            "time": "2026-10-26 23:15",
+            "link": "https://finance.eastmoney.com/a/202610263908650087.html"
           },
           {
-            "title": "卖出芯片股，苹果做波段！一图速览但斌三季度美股调仓",
-            "source": "东方财富研究中心",
-            "time": "2026-10-26 10:13",
-            "link": "https://finance.eastmoney.com/a/202610263907712398.html"
+            "title": "美股光通信股开盘普涨，Lumentum涨0.94%",
+            "source": "每日经济新闻",
+            "time": "2026-10-26 21:33",
+            "link": "https://finance.eastmoney.com/a/202610263908548475.html"
           },
           {
-            "title": "港股早报｜港交所推出人工智能及半导体指数 紫金矿业前三季度净利润同比增超50%",
-            "source": "财联社",
-            "time": "2026-10-26 08:47",
-            "link": "https://finance.eastmoney.com/a/202610263907444311.html"
+            "title": "美股盘前：三大股指期货上涨 Meta寻求高达950亿美元的股权融资 巴西概念股盘前重挫",
+            "source": "哈富证券",
+            "time": "2026-10-26 19:58",
+            "link": "https://stock.eastmoney.com/a/202610263908373854.html"
           }
         ]
       }
@@ -1159,22 +1164,22 @@
         "name": "腾讯控股",
         "news": [
           {
-            "title": "恒指全周跌4.52%，南向资金净流出170.46亿港元",
-            "source": "界面新闻",
-            "time": "2026-10-26 14:26",
-            "link": "https://finance.eastmoney.com/a/202610263907909412.html"
+            "title": "港股通（沪）净卖出7.32亿港元",
+            "source": "证券时报网",
+            "time": "2026-10-26 21:47",
+            "link": "https://finance.eastmoney.com/a/202610263908566510.html"
           },
           {
-            "title": "恒生互联网ETF华夏（513330）午前转涨，指数估值低至近十年17%分位",
-            "source": "每日经济新闻",
-            "time": "2026-10-26 13:10",
-            "link": "https://stock.eastmoney.com/a/202610263907858966.html"
+            "title": "南向资金今日净卖出20.75亿港元 阿里巴巴-W净卖出6.02亿港元",
+            "source": "证券时报网",
+            "time": "2026-10-26 21:47",
+            "link": "https://finance.eastmoney.com/a/202610263908566812.html"
           },
           {
-            "title": "港股午评：恒生指数涨0.44%，恒生科技指数跌0.37%",
-            "source": "南方财经网",
-            "time": "2026-10-26 12:02",
-            "link": "https://hk.eastmoney.com/a/202610263907815282.html"
+            "title": "2只股近一个月首次上榜港股通成交活跃榜",
+            "source": "证券时报网",
+            "time": "2026-10-26 21:44",
+            "link": "https://finance.eastmoney.com/a/202610263908564723.html"
           }
         ]
       },
@@ -1183,22 +1188,22 @@
         "name": "阿里巴巴",
         "news": [
           {
-            "title": "南向资金今日净卖出近21亿港元 阿里巴巴遭卖出居前",
-            "source": "财联社",
-            "time": "2026-10-26 17:43",
-            "link": "https://finance.eastmoney.com/a/202610263908143572.html"
-          },
-          {
-            "title": "晶泰控股入选港交所人工智能指数首批成份股",
-            "source": "上海证券报·中国证券网",
-            "time": "2026-10-26 14:15",
-            "link": "https://finance.eastmoney.com/a/202610263907905220.html"
-          },
-          {
-            "title": "港交所正式推出人工智能指数及半导体指数，恒生科技ETF天弘（520920）标的指数小幅下跌，连续3日累计净流入超1.3亿元",
+            "title": "从通信设备到AI算力，中兴通讯2026年前三季度实现营收1168亿元：算力业务占比升至38%",
             "source": "每日经济新闻",
-            "time": "2026-10-26 13:44",
-            "link": "https://stock.eastmoney.com/a/202610263907879384.html"
+            "time": "2026-10-27 00:27",
+            "link": "https://finance.eastmoney.com/a/202610273908693031.html"
+          },
+          {
+            "title": "晚间重大事件汇总",
+            "source": "第一财经",
+            "time": "2026-10-26 21:55",
+            "link": "https://finance.eastmoney.com/a/202610263908576857.html"
+          },
+          {
+            "title": "港股通（沪）净卖出7.32亿港元",
+            "source": "证券时报网",
+            "time": "2026-10-26 21:47",
+            "link": "https://finance.eastmoney.com/a/202610263908566510.html"
           }
         ]
       },
@@ -1207,22 +1212,22 @@
         "name": "智谱",
         "news": [
           {
-            "title": "南向资金今日净卖出近21亿港元 阿里巴巴遭卖出居前",
-            "source": "财联社",
-            "time": "2026-10-26 17:43",
-            "link": "https://finance.eastmoney.com/a/202610263908143572.html"
+            "title": "谁在拉动北京经济？AI释放新增量 机器人、集成电路踩满油门",
+            "source": "21世纪经济报道",
+            "time": "2026-10-26 22:05",
+            "link": "https://finance.eastmoney.com/a/202610263908615191.html"
           },
           {
-            "title": "大模型公司排队道歉，轮到Kimi了",
-            "source": "北京商报",
-            "time": "2026-10-26 17:42",
-            "link": "https://finance.eastmoney.com/a/202610263908137169.html"
+            "title": "晚间重大事件汇总",
+            "source": "第一财经",
+            "time": "2026-10-26 21:55",
+            "link": "https://finance.eastmoney.com/a/202610263908576857.html"
           },
           {
-            "title": "DeepSeek新版模型单周调用量登顶全球首位，环比暴增801%",
-            "source": "界面新闻",
-            "time": "2026-10-26 16:37",
-            "link": "https://finance.eastmoney.com/a/202610263908029337.html"
+            "title": "南向资金今日净卖出20.75亿港元 阿里巴巴-W净卖出6.02亿港元",
+            "source": "证券时报网",
+            "time": "2026-10-26 21:47",
+            "link": "https://finance.eastmoney.com/a/202610263908566812.html"
           }
         ]
       },
@@ -1231,22 +1236,22 @@
         "name": "MiniMax",
         "news": [
           {
-            "title": "大模型公司排队道歉，轮到Kimi了",
-            "source": "北京商报",
-            "time": "2026-10-26 17:42",
-            "link": "https://finance.eastmoney.com/a/202610263908137169.html"
+            "title": "陈天石辟谣百万颗芯片出货传闻，寒武纪规划多卡算力系统",
+            "source": "21世纪经济报道",
+            "time": "2026-10-26 20:46",
+            "link": "https://finance.eastmoney.com/a/202610263908467033.html"
           },
           {
-            "title": "DeepSeek新版模型单周调用量登顶全球首位，环比暴增801%",
-            "source": "界面新闻",
-            "time": "2026-10-26 16:37",
-            "link": "https://finance.eastmoney.com/a/202610263908029337.html"
+            "title": "直击寒武纪业绩会：陈天石回应存货与市场传言",
+            "source": "科创板日报",
+            "time": "2026-10-26 20:33",
+            "link": "https://finance.eastmoney.com/a/202610263908457976.html"
           },
           {
-            "title": "港股收盘 | 科技指数微跌0.36% 算力硬件及黄金股重挫",
-            "source": "财联社",
-            "time": "2026-10-26 16:36",
-            "link": "https://finance.eastmoney.com/a/202610263908029744.html"
+            "title": "明年芯片出货量超百万颗？寒武纪董事长回应",
+            "source": "上海证券报",
+            "time": "2026-10-26 20:16",
+            "link": "https://finance.eastmoney.com/a/202610263908382648.html"
           }
         ]
       },
@@ -1255,22 +1260,22 @@
         "name": "中芯国际",
         "news": [
           {
-            "title": "科技股不香了？有基金经理止损科技 转身重仓银行股",
-            "source": "财闻",
-            "time": "2026-10-26 17:46",
-            "link": "https://finance.eastmoney.com/a/202610263908137494.html"
+            "title": "晚间重大事件汇总",
+            "source": "第一财经",
+            "time": "2026-10-26 21:55",
+            "link": "https://finance.eastmoney.com/a/202610263908576857.html"
           },
           {
-            "title": "百元股数量达163只 ，较上一日减少6只",
-            "source": "证券时报网",
-            "time": "2026-10-26 16:52",
-            "link": "https://stock.eastmoney.com/a/202610263908068819.html"
+            "title": "知名基金经理，最新调仓",
+            "source": "中国证券报",
+            "time": "2026-10-26 21:54",
+            "link": "https://finance.eastmoney.com/a/202610263908569639.html"
           },
           {
-            "title": "科创板百元股达80只，联讯仪器股价最高",
+            "title": "南向资金今日净卖出20.75亿港元 阿里巴巴-W净卖出6.02亿港元",
             "source": "证券时报网",
-            "time": "2026-10-26 16:52",
-            "link": "https://finance.eastmoney.com/a/202610263908056945.html"
+            "time": "2026-10-26 21:47",
+            "link": "https://finance.eastmoney.com/a/202610263908566812.html"
           }
         ]
       },
@@ -1279,22 +1284,22 @@
         "name": "小米集团",
         "news": [
           {
-            "title": "【调研快报】金风科技接待长江证券等8家机构调研",
+            "title": "美股三大指数集体上涨 科技股多数回暖 巴西在美股上市的公司股价重挫",
             "source": "东方财富Choice数据",
-            "time": "2026-10-26 17:54",
-            "link": "https://stock.eastmoney.com/a/202610263908145728.html"
+            "time": "2026-10-27 02:16",
+            "link": "https://finance.eastmoney.com/a/202610263908527763.html"
           },
           {
-            "title": "泉阳泉第三季度归母净利润813万元，同比增长575%",
-            "source": "财中社",
-            "time": "2026-10-26 17:49",
-            "link": "https://finance.eastmoney.com/a/202610263908144790.html"
+            "title": "打破AI参数比拼 智能体重构云边端算力分配",
+            "source": "证券时报",
+            "time": "2026-10-27 02:14",
+            "link": "https://finance.eastmoney.com/a/202610273908704559.html"
           },
           {
-            "title": "沈鼓集团换手率24.81%，上榜营业部合计净卖出1045.79万元",
-            "source": "证券时报网",
-            "time": "2026-10-26 17:46",
-            "link": "https://finance.eastmoney.com/a/202610263908144877.html"
+            "title": "国产矿井装备的全球首创——一套“常水液压支架”如何实现“以水代油”",
+            "source": "证券时报",
+            "time": "2026-10-27 02:14",
+            "link": "https://finance.eastmoney.com/a/202610273908704672.html"
           }
         ]
       }
@@ -1305,22 +1310,22 @@
         "name": "三星电子",
         "news": [
           {
-            "title": "什么信号？在美上市仅3个月后 两只SK海力士杠杆ETF面临清盘",
-            "source": "财联社",
-            "time": "2026-10-26 17:18",
-            "link": "https://stock.eastmoney.com/a/202610263908096736.html"
+            "title": "暴增1386%！一芯片公司董事长发声：紧缺格局大概率持续至2028年",
+            "source": "中国基金报",
+            "time": "2026-10-26 22:54",
+            "link": "https://finance.eastmoney.com/a/202610263908632942.html"
           },
           {
-            "title": "海外研选日报1026 | 荷兰合作银行：美联储12月料再加息 2028年才启动降息",
-            "source": "财联社",
-            "time": "2026-10-26 17:17",
-            "link": "https://stock.eastmoney.com/a/202610263908095660.html"
+            "title": "存储巨头，净利大增近14倍！董事长最新发声",
+            "source": "证券时报网",
+            "time": "2026-10-26 21:55",
+            "link": "https://finance.eastmoney.com/a/202610263908606876.html"
           },
           {
-            "title": "什么信号？在美上市仅3个月后 两只SK海力士杠杆ETF面临清盘",
+            "title": "美股期指集体回暖 SK海力士据报将推巨额股东回报 | 今夜看点",
             "source": "财联社",
-            "time": "2026-10-26 16:48",
-            "link": "https://finance.eastmoney.com/a/202610263908039442.html"
+            "time": "2026-10-26 20:56",
+            "link": "https://finance.eastmoney.com/a/202610263908473654.html"
           }
         ]
       },
@@ -1329,22 +1334,22 @@
         "name": "SK海力士",
         "news": [
           {
-            "title": "SK海力士拟推出50-60万亿韩元的额外股东回报计划",
-            "source": "第一财经",
-            "time": "2026-10-26 17:26",
-            "link": "https://finance.eastmoney.com/a/202610263908128144.html"
+            "title": "美股三大指数集体上涨 科技股多数回暖 巴西在美股上市的公司股价重挫",
+            "source": "东方财富Choice数据",
+            "time": "2026-10-27 02:16",
+            "link": "https://finance.eastmoney.com/a/202610263908527763.html"
           },
           {
-            "title": "SK海力士拟追加最高60万亿韩元股东回报 全年规模或达100万亿韩元",
-            "source": "界面新闻",
-            "time": "2026-10-26 17:24",
-            "link": "https://finance.eastmoney.com/a/202610263908107919.html"
+            "title": "特斯拉市值飙升5700亿元 美股半导体、光通信股上涨 Lumentum涨超5%",
+            "source": "21世纪经济报道",
+            "time": "2026-10-26 23:15",
+            "link": "https://finance.eastmoney.com/a/202610263908650087.html"
           },
           {
-            "title": "什么信号？在美上市仅3个月后 两只SK海力士杠杆ETF面临清盘",
+            "title": "标普500指数涨幅扩大至1% 费城半导体指数涨3%",
             "source": "财联社",
-            "time": "2026-10-26 17:18",
-            "link": "https://stock.eastmoney.com/a/202610263908096736.html"
+            "time": "2026-10-26 23:03",
+            "link": "https://stock.eastmoney.com/a/202610263908641285.html"
           }
         ]
       },
@@ -1353,22 +1358,22 @@
         "name": "韩美半导体",
         "news": [
           {
-            "title": "科技股不香了？有基金经理止损科技 转身重仓银行股",
-            "source": "财闻",
-            "time": "2026-10-26 17:46",
-            "link": "https://finance.eastmoney.com/a/202610263908137494.html"
+            "title": "太保资产殷春平：夯实固收配置压舱石 多元产品精准服务实体经济",
+            "source": "证券时报",
+            "time": "2026-10-27 02:14",
+            "link": "https://insurance.eastmoney.com/a/202610273908703728.html"
           },
           {
-            "title": "3.74亿资金抢筹万向钱潮，机构狂买粤芯半导体|龙虎榜",
-            "source": "21世纪经济报道",
-            "time": "2026-10-26 17:39",
-            "link": "https://finance.eastmoney.com/a/202610263908135442.html"
+            "title": "一块印制电路板牵动AI算力产业链",
+            "source": "证券日报",
+            "time": "2026-10-27 01:44",
+            "link": "https://finance.eastmoney.com/a/202610273908703052.html"
           },
           {
-            "title": "VC/PE周报｜政策加码国际级创投中心；AI芯片与超导材料持续吸金",
-            "source": "每日经济新闻",
-            "time": "2026-10-26 17:35",
-            "link": "https://finance.eastmoney.com/a/202610263908130751.html"
+            "title": "希荻微陶海：以并购拓宽赛道 用AI重塑基因",
+            "source": "上海证券报",
+            "time": "2026-10-27 01:31",
+            "link": "https://finance.eastmoney.com/a/202610273908699856.html"
           }
         ]
       },
@@ -1403,22 +1408,22 @@
         "name": "中际旭创",
         "news": [
           {
-            "title": "光模块二次下探！挤干“涨价”水分，谁在裸泳？",
-            "source": "理财周刊-财事汇",
-            "time": "2026-10-26 17:32",
-            "link": "https://finance.eastmoney.com/a/202610263908128046.html"
+            "title": "科技股回调银行猛涨，这轮避险行情“肥”了谁？",
+            "source": "第一财经",
+            "time": "2026-10-26 22:54",
+            "link": "https://finance.eastmoney.com/a/202610263908636481.html"
           },
           {
-            "title": "百元股数量达163只 ，较上一日减少6只",
-            "source": "证券时报网",
-            "time": "2026-10-26 16:52",
-            "link": "https://stock.eastmoney.com/a/202610263908068819.html"
+            "title": "三季度，朱少醒重仓买入长鑫科技、加仓中际旭创",
+            "source": "中国证券报·中证金牛座",
+            "time": "2026-10-26 22:47",
+            "link": "https://finance.eastmoney.com/a/202610263908628150.html"
           },
           {
-            "title": "10月26日14只股盘后交易额超500万元",
-            "source": "证券时报网",
-            "time": "2026-10-26 16:52",
-            "link": "https://finance.eastmoney.com/a/202610263908055386.html"
+            "title": "知名基金经理，最新调仓",
+            "source": "中国证券报",
+            "time": "2026-10-26 21:54",
+            "link": "https://finance.eastmoney.com/a/202610263908569639.html"
           }
         ]
       },
@@ -1427,22 +1432,22 @@
         "name": "新易盛",
         "news": [
           {
-            "title": "光模块二次下探！挤干“涨价”水分，谁在裸泳？",
-            "source": "理财周刊-财事汇",
-            "time": "2026-10-26 17:32",
-            "link": "https://finance.eastmoney.com/a/202610263908128046.html"
+            "title": "科技股回调银行猛涨，这轮避险行情“肥”了谁？",
+            "source": "第一财经",
+            "time": "2026-10-26 22:54",
+            "link": "https://finance.eastmoney.com/a/202610263908636481.html"
           },
           {
-            "title": "百元股数量达163只 ，较上一日减少6只",
-            "source": "证券时报网",
-            "time": "2026-10-26 16:52",
-            "link": "https://stock.eastmoney.com/a/202610263908068819.html"
+            "title": "年内超1200家公司出手回购！国海证券赵阳：A股“重回报”生态加速成型",
+            "source": "券商中国",
+            "time": "2026-10-26 22:34",
+            "link": "https://finance.eastmoney.com/a/202610263908619723.html"
           },
           {
-            "title": "10月26日14只股盘后交易额超500万元",
-            "source": "证券时报网",
-            "time": "2026-10-26 16:52",
-            "link": "https://finance.eastmoney.com/a/202610263908055386.html"
+            "title": "深市回购增持热度延续 多家公司回应经营情况",
+            "source": "证券日报",
+            "time": "2026-10-26 21:56",
+            "link": "https://finance.eastmoney.com/a/202610263908604648.html"
           }
         ]
       },
@@ -1451,22 +1456,22 @@
         "name": "天孚通信",
         "news": [
           {
-            "title": "光模块二次下探！挤干“涨价”水分，谁在裸泳？",
-            "source": "理财周刊-财事汇",
-            "time": "2026-10-26 17:32",
-            "link": "https://finance.eastmoney.com/a/202610263908128046.html"
+            "title": "科技股回调银行猛涨，这轮避险行情“肥”了谁？",
+            "source": "第一财经",
+            "time": "2026-10-26 22:54",
+            "link": "https://finance.eastmoney.com/a/202610263908636481.html"
           },
           {
-            "title": "百元股数量达163只 ，较上一日减少6只",
-            "source": "证券时报网",
-            "time": "2026-10-26 16:52",
-            "link": "https://stock.eastmoney.com/a/202610263908068819.html"
+            "title": "年内超1200家公司出手回购！国海证券赵阳：A股“重回报”生态加速成型",
+            "source": "券商中国",
+            "time": "2026-10-26 22:34",
+            "link": "https://finance.eastmoney.com/a/202610263908619723.html"
           },
           {
-            "title": "近日海外机构调研股名单",
-            "source": "证券时报网",
-            "time": "2026-10-26 16:51",
-            "link": "https://finance.eastmoney.com/a/202610263908055270.html"
+            "title": "电子通信市值大幅回撤，千亿热门股因何集体滑落",
+            "source": "第一财经",
+            "time": "2026-10-26 20:39",
+            "link": "https://finance.eastmoney.com/a/202610263908468118.html"
           }
         ]
       },
@@ -1475,22 +1480,22 @@
         "name": "兆易创新",
         "news": [
           {
-            "title": "10月26日14只股盘后交易额超500万元",
-            "source": "证券时报网",
-            "time": "2026-10-26 16:52",
-            "link": "https://finance.eastmoney.com/a/202610263908055386.html"
+            "title": "10股特大单净流入超2亿元",
+            "source": "第一财经",
+            "time": "2026-10-26 22:28",
+            "link": "https://finance.eastmoney.com/a/202610263908618080.html"
           },
           {
-            "title": "百元股数量达163只 ，较上一日减少6只",
-            "source": "证券时报网",
-            "time": "2026-10-26 16:52",
-            "link": "https://stock.eastmoney.com/a/202610263908068819.html"
+            "title": "积极信号密集释放 机构：A股结构性机会与长期投资价值进一步凸显",
+            "source": "央广财经",
+            "time": "2026-10-26 20:57",
+            "link": "https://finance.eastmoney.com/a/202610263908488532.html"
           },
           {
-            "title": "两市主力资金净流出219.25亿元，科创板资金净流入",
-            "source": "证券时报网",
-            "time": "2026-10-26 16:50",
-            "link": "https://finance.eastmoney.com/a/202610263908055684.html"
+            "title": "港股公告精选｜中信证券三季度盈利同比下滑约两成 药明康德前三季净赚超190亿元",
+            "source": "财联社",
+            "time": "2026-10-26 20:46",
+            "link": "https://finance.eastmoney.com/a/202610263908472744.html"
           }
         ]
       },
@@ -1499,22 +1504,22 @@
         "name": "江波龙",
         "news": [
           {
-            "title": "百元股数量达163只 ，较上一日减少6只",
-            "source": "证券时报网",
-            "time": "2026-10-26 16:52",
-            "link": "https://stock.eastmoney.com/a/202610263908068819.html"
+            "title": "打破AI参数比拼 智能体重构云边端算力分配",
+            "source": "证券时报",
+            "time": "2026-10-27 02:14",
+            "link": "https://finance.eastmoney.com/a/202610273908704559.html"
           },
           {
-            "title": "国家大基金持股概念下跌3.90%，主力资金净流出37股",
-            "source": "证券时报网",
-            "time": "2026-10-26 16:48",
-            "link": "https://finance.eastmoney.com/a/202610263908062090.html"
+            "title": "存储上市企业多措并举稳定供应链",
+            "source": "证券日报",
+            "time": "2026-10-27 01:44",
+            "link": "https://finance.eastmoney.com/a/202610273908706789.html"
           },
           {
-            "title": "存储芯片概念下跌3.62%，23股主力资金净流出超亿元",
-            "source": "证券时报网",
-            "time": "2026-10-26 16:48",
-            "link": "https://stock.eastmoney.com/a/202610263908069814.html"
+            "title": "海量财经 | 德明利87亿利润与70%股价跌幅之间 只隔了一份财报？",
+            "source": "海报新闻",
+            "time": "2026-10-26 22:30",
+            "link": "https://finance.eastmoney.com/a/202610263908623372.html"
           }
         ]
       },
@@ -1523,22 +1528,22 @@
         "name": "长鑫科技",
         "news": [
           {
-            "title": "股价创18年来新高、融资余额近12年新低！中石油市值跃居A股第四",
-            "source": "财联社",
-            "time": "2026-10-26 17:35",
-            "link": "https://finance.eastmoney.com/a/202610263908133148.html"
+            "title": "三季度，朱少醒重仓买入长鑫科技、加仓中际旭创",
+            "source": "中国证券报·中证金牛座",
+            "time": "2026-10-26 22:47",
+            "link": "https://finance.eastmoney.com/a/202610263908628150.html"
           },
           {
-            "title": "首批券商三季报：行业增长降速，东方财富仍实现业绩“双增”",
-            "source": "南方都市报",
-            "time": "2026-10-26 17:19",
-            "link": "https://finance.eastmoney.com/a/202610263908119510.html"
+            "title": "【中证快报】10月26日中证投资资讯",
+            "source": "中国证券报·中证金牛座",
+            "time": "2026-10-26 22:30",
+            "link": "https://finance.eastmoney.com/a/202610263908617752.html"
           },
           {
-            "title": "长鑫、中微、源杰发声！半导体龙头解读AI景气传导链",
-            "source": "21世纪经济报道",
-            "time": "2026-10-26 17:17",
-            "link": "https://finance.eastmoney.com/a/202610263908100811.html"
+            "title": "10股特大单净流入超2亿元",
+            "source": "第一财经",
+            "time": "2026-10-26 22:28",
+            "link": "https://finance.eastmoney.com/a/202610263908618080.html"
           }
         ]
       },
@@ -1547,22 +1552,22 @@
         "name": "科大讯飞",
         "news": [
           {
-            "title": "近日海外机构调研股名单",
+            "title": "科大讯飞现2笔大宗交易 合计成交14.66万股",
             "source": "证券时报网",
-            "time": "2026-10-26 16:51",
-            "link": "https://finance.eastmoney.com/a/202610263908055270.html"
+            "time": "2026-10-26 19:21",
+            "link": "https://finance.eastmoney.com/a/202610263908285274.html"
           },
           {
-            "title": "大宗交易：科大讯飞成交568.95万元，溢价0.03%（10-26）",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-26 16:38",
-            "link": "https://stock.eastmoney.com/a/202610263908015363.html"
+            "title": "算力约束下，科大讯飞押注“端云一体”",
+            "source": "大河财立方",
+            "time": "2026-10-26 19:06",
+            "link": "https://finance.eastmoney.com/a/202610263908277989.html"
           },
           {
-            "title": "从“拼规模”到“重价值”：AI开发者生态加速进阶",
-            "source": "人民网",
-            "time": "2026-10-26 14:59",
-            "link": "https://finance.eastmoney.com/a/202610263907927255.html"
+            "title": "灵机N9000笔记本正式发布 科大讯飞携手生态伙伴加速AIPC价值落地",
+            "source": "经济参考网",
+            "time": "2026-10-26 18:19",
+            "link": "https://finance.eastmoney.com/a/202610263908196970.html"
           }
         ]
       },
@@ -1571,22 +1576,22 @@
         "name": "寒武纪",
         "news": [
           {
-            "title": "寒武纪陈天石：公司新一代智能处理器微架构将针对推训场景重点优化",
-            "source": "科创板日报",
-            "time": "2026-10-26 17:26",
-            "link": "https://finance.eastmoney.com/a/202610263908109538.html"
+            "title": "【中证快报】10月26日中证投资资讯",
+            "source": "中国证券报·中证金牛座",
+            "time": "2026-10-26 22:30",
+            "link": "https://finance.eastmoney.com/a/202610263908617752.html"
           },
           {
-            "title": "10月26日14只股盘后交易额超500万元",
-            "source": "证券时报网",
-            "time": "2026-10-26 16:52",
-            "link": "https://finance.eastmoney.com/a/202610263908055386.html"
+            "title": "10股特大单净流入超2亿元",
+            "source": "第一财经",
+            "time": "2026-10-26 22:28",
+            "link": "https://finance.eastmoney.com/a/202610263908618080.html"
           },
           {
-            "title": "百元股数量达163只 ，较上一日减少6只",
-            "source": "证券时报网",
-            "time": "2026-10-26 16:52",
-            "link": "https://stock.eastmoney.com/a/202610263908068819.html"
+            "title": "在美上市的巴西公司股票 集体重挫；特斯拉深夜大涨5.8%；海南：平稳推进2030年禁售燃油车；苹果或于2028年推出大屏折叠ipad丨每经晚参",
+            "source": "每日经济新闻",
+            "time": "2026-10-26 22:25",
+            "link": "https://finance.eastmoney.com/a/202610263908616523.html"
           }
         ]
       }
