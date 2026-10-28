@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-29 02:39:23",
-  "updated_iso": "2026-10-29T02:39:23+08:00",
+  "updated": "2026-10-29 06:52:14",
+  "updated_iso": "2026-10-29T06:52:14+08:00",
   "timezone": "Asia/Shanghai",
   "markets": [
     {
       "key": "us",
       "name": "美股",
       "data_date": "2026-10-28",
-      "expected_date": "2026-10-27",
+      "expected_date": "2026-10-28",
       "stale": false,
       "items": [
         {
@@ -16,9 +16,9 @@
           "type": "index",
           "category": "",
           "available": true,
-          "close": 7743.78,
-          "change": 21.18,
-          "change_pct": 0.27,
+          "close": 7743.98,
+          "change": 21.38,
+          "change_pct": 0.28,
           "date": "2026-10-28",
           "source": "yfinance"
         },
@@ -28,9 +28,9 @@
           "type": "index",
           "category": "",
           "available": true,
-          "close": 26531.98,
-          "change": 54.17,
-          "change_pct": 0.2,
+          "close": 26549.85,
+          "change": 72.04,
+          "change_pct": 0.27,
           "date": "2026-10-28",
           "source": "yfinance"
         },
@@ -40,9 +40,9 @@
           "type": "index",
           "category": "",
           "available": true,
-          "close": 52498.32,
-          "change": 120.75,
-          "change_pct": 0.23,
+          "close": 52475.1,
+          "change": 97.53,
+          "change_pct": 0.19,
           "date": "2026-10-28",
           "source": "yfinance"
         },
@@ -52,9 +52,9 @@
           "type": "stock",
           "category": "AI芯片",
           "available": true,
-          "close": 217.24,
-          "change": -0.7,
-          "change_pct": -0.32,
+          "close": 215.38,
+          "change": -2.56,
+          "change_pct": -1.17,
           "date": "2026-10-28",
           "source": "yfinance"
         },
@@ -64,9 +64,9 @@
           "type": "stock",
           "category": "AI芯片",
           "available": true,
-          "close": 350.54,
-          "change": 8.21,
-          "change_pct": 2.4,
+          "close": 351.81,
+          "change": 9.48,
+          "change_pct": 2.77,
           "date": "2026-10-28",
           "source": "yfinance"
         },
@@ -76,9 +76,9 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 975.64,
-          "change": 46.88,
-          "change_pct": 5.05,
+          "close": 983.23,
+          "change": 54.47,
+          "change_pct": 5.86,
           "date": "2026-10-28",
           "source": "yfinance"
         },
@@ -88,9 +88,9 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 394.9,
-          "change": 14.02,
-          "change_pct": 3.68,
+          "close": 396.42,
+          "change": 15.54,
+          "change_pct": 4.08,
           "date": "2026-10-28",
           "source": "yfinance"
         },
@@ -100,9 +100,9 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 1397.05,
-          "change": 92.21,
-          "change_pct": 7.07,
+          "close": 1404.77,
+          "change": 99.93,
+          "change_pct": 7.66,
           "date": "2026-10-28",
           "source": "yfinance"
         },
@@ -112,9 +112,9 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 528.84,
-          "change": -2.49,
-          "change_pct": -0.47,
+          "close": 531.01,
+          "change": -0.32,
+          "change_pct": -0.06,
           "date": "2026-10-28",
           "source": "yfinance"
         },
@@ -124,9 +124,9 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 324.61,
-          "change": 4.04,
-          "change_pct": 1.26,
+          "close": 324.89,
+          "change": 4.31,
+          "change_pct": 1.34,
           "date": "2026-10-28",
           "source": "yfinance"
         },
@@ -136,9 +136,9 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 611.67,
-          "change": -8.52,
-          "change_pct": -1.37,
+          "close": 612.49,
+          "change": -7.7,
+          "change_pct": -1.24,
           "date": "2026-10-28",
           "source": "yfinance"
         },
@@ -148,9 +148,9 @@
           "type": "stock",
           "category": "光模块",
           "available": true,
-          "close": 237.46,
-          "change": 1.67,
-          "change_pct": 0.71,
+          "close": 239.59,
+          "change": 3.8,
+          "change_pct": 1.61,
           "date": "2026-10-28",
           "source": "yfinance"
         },
@@ -160,9 +160,9 @@
           "type": "stock",
           "category": "光模块",
           "available": true,
-          "close": 910.14,
-          "change": 43.96,
-          "change_pct": 5.08,
+          "close": 913.95,
+          "change": 47.77,
+          "change_pct": 5.52,
           "date": "2026-10-28",
           "source": "yfinance"
         }
@@ -513,8 +513,8 @@
       "symbol": "CNY=X",
       "name": "美元/人民币",
       "pair": "USD/CNY",
-      "rate": 6.6544,
-      "change": -0.0156,
+      "rate": 6.6549,
+      "change": -0.0151,
       "change_pct": -0.23,
       "date": "2026-10-28",
       "history": [
@@ -640,7 +640,7 @@
         ],
         [
           "2026-10-28",
-          6.6544
+          6.6549
         ]
       ]
     },
@@ -648,9 +648,9 @@
       "symbol": "JPY=X",
       "name": "美元/日元",
       "pair": "USD/JPY",
-      "rate": 158.11,
-      "change": 0.586,
-      "change_pct": 0.37,
+      "rate": 157.78,
+      "change": 0.253,
+      "change_pct": 0.16,
       "date": "2026-10-28",
       "history": [
         [
@@ -775,7 +775,7 @@
         ],
         [
           "2026-10-28",
-          158.11
+          157.78
         ]
       ]
     },
@@ -783,9 +783,9 @@
       "symbol": "KRW=X",
       "name": "美元/韩元",
       "pair": "USD/KRW",
-      "rate": 1343.2,
-      "change": 18.43,
-      "change_pct": 1.39,
+      "rate": 1341.66,
+      "change": 16.89,
+      "change_pct": 1.27,
       "date": "2026-10-28",
       "history": [
         [
@@ -910,7 +910,7 @@
         ],
         [
           "2026-10-28",
-          1343.2
+          1341.66
         ]
       ]
     }
@@ -922,22 +922,22 @@
         "name": "英伟达",
         "news": [
           {
-            "title": "苏宁易购2026年前三季度实现归母净利润5411.7万元",
-            "source": "央广财经",
-            "time": "2026-10-29 02:27",
-            "link": "https://finance.eastmoney.com/a/202610293912767992.html"
+            "title": "上证早知道｜002913，拟投60亿扩产高端PCB；688795，三季度营收大增近18倍，扭亏为盈；688698，机构净买入9525.99万元",
+            "source": "上海证券报",
+            "time": "2026-10-29 06:50",
+            "link": "https://finance.eastmoney.com/a/202610293912806761.html"
           },
           {
-            "title": "胡塞武装称沙特主导联军对也门多地发动101次空袭",
-            "source": "央视新闻",
-            "time": "2026-10-29 02:21",
-            "link": "https://finance.eastmoney.com/a/202610293912767315.html"
+            "title": "美联储重要改革！",
+            "source": "上海证券报",
+            "time": "2026-10-29 06:48",
+            "link": "https://forex.eastmoney.com/a/202610293912806640.html"
           },
           {
-            "title": "美国联邦贸易委员会据悉已要求多公司提供关于个性化定价与工资设定策略的信息",
-            "source": "财联社",
-            "time": "2026-10-29 02:18",
-            "link": "https://finance.eastmoney.com/a/202610293912767212.html"
+            "title": "影响市场重大事件：美国联邦通信委员会批准了亚马逊Leo以115亿美元收购Globalstar的计划；百度将披露世界模型研发进展，或先用于自动驾驶",
+            "source": "每日经济新闻",
+            "time": "2026-10-29 06:43",
+            "link": "https://finance.eastmoney.com/a/202610293912806189.html"
           }
         ]
       },
@@ -946,22 +946,22 @@
         "name": "博通",
         "news": [
           {
-            "title": "赎回到账提至次日8时前 银行理财从“卷收益”转向“拼服务”",
-            "source": "上海证券报",
-            "time": "2026-10-29 02:06",
-            "link": "https://bank.eastmoney.com/a/202610293912761774.html"
+            "title": "凌晨，突发跳水！美联储，重大宣布！",
+            "source": "券商中国",
+            "time": "2026-10-29 06:38",
+            "link": "https://forex.eastmoney.com/a/202610293912805732.html"
           },
           {
-            "title": "美联储利率决议，即将公布",
-            "source": "中国证券报",
-            "time": "2026-10-28 23:48",
-            "link": "https://forex.eastmoney.com/a/202610283912742267.html"
-          },
-          {
-            "title": "AI烧钱潮撞上融资瓶颈 华尔街买家开始退缩了",
+            "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
             "source": "财联社",
-            "time": "2026-10-28 22:43",
-            "link": "https://bond.eastmoney.com/a/202610283912704965.html"
+            "time": "2026-10-29 06:00",
+            "link": "https://forex.eastmoney.com/a/202610293912795461.html"
+          },
+          {
+            "title": "美股收盘：美联储“按兵不动”，三大股指三连涨；存储芯片股飙涨，SK海力士涨超13%",
+            "source": "中新经纬",
+            "time": "2026-10-29 05:52",
+            "link": "https://forex.eastmoney.com/a/202610293912795340.html"
           }
         ]
       },
@@ -970,22 +970,22 @@
         "name": "美光科技",
         "news": [
           {
-            "title": "美股三大指数震荡整理 SK海力士涨近13% 国际油价走高",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-29 02:07",
-            "link": "https://finance.eastmoney.com/a/202610283912521923.html"
+            "title": "美联储重要改革！",
+            "source": "上海证券报",
+            "time": "2026-10-29 06:48",
+            "link": "https://forex.eastmoney.com/a/202610293912806640.html"
           },
           {
-            "title": "美联储利率决议，即将公布",
-            "source": "中国证券报",
-            "time": "2026-10-28 23:48",
-            "link": "https://forex.eastmoney.com/a/202610283912742267.html"
+            "title": "凌晨，突发跳水！美联储，重大宣布！",
+            "source": "券商中国",
+            "time": "2026-10-29 06:38",
+            "link": "https://forex.eastmoney.com/a/202610293912805732.html"
           },
           {
-            "title": "美股存储芯片股集体走强 SK海力士股价涨幅扩大至12%",
+            "title": "周四你需要知道的隔夜全球要闻",
             "source": "财联社",
-            "time": "2026-10-28 23:21",
-            "link": "https://finance.eastmoney.com/a/202610283912729881.html"
+            "time": "2026-10-29 06:15",
+            "link": "https://forex.eastmoney.com/a/202610293912801295.html"
           }
         ]
       },
@@ -994,22 +994,22 @@
         "name": "西部数据",
         "news": [
           {
+            "title": "凌晨，突发跳水！美联储，重大宣布！",
+            "source": "券商中国",
+            "time": "2026-10-29 06:38",
+            "link": "https://forex.eastmoney.com/a/202610293912805732.html"
+          },
+          {
+            "title": "美股收盘：美联储“按兵不动”，三大股指三连涨；存储芯片股飙涨，SK海力士涨超13%",
+            "source": "中新经纬",
+            "time": "2026-10-29 05:52",
+            "link": "https://forex.eastmoney.com/a/202610293912795340.html"
+          },
+          {
             "title": "美股存储芯片股集体走强 SK海力士股价涨幅扩大至12%",
             "source": "财联社",
             "time": "2026-10-28 23:21",
             "link": "https://finance.eastmoney.com/a/202610283912729881.html"
-          },
-          {
-            "title": "美股三大指数涨跌不一，SK海力士涨超8%；8000亿元新型政策性金融工具投放完成；宇树科技交出上市后首份业绩报告；小度科技CEO李莹离职传闻不属实丨每经晚参",
-            "source": "每日经济新闻",
-            "time": "2026-10-28 21:38",
-            "link": "https://forex.eastmoney.com/a/202610283912640616.html"
-          },
-          {
-            "title": "美股三大指数集体高开 存储股多数上涨",
-            "source": "证券时报网",
-            "time": "2026-10-28 21:34",
-            "link": "https://finance.eastmoney.com/a/202610283912648663.html"
           }
         ]
       },
@@ -1018,22 +1018,22 @@
         "name": "闪迪",
         "news": [
           {
-            "title": "美股三大指数震荡整理 SK海力士涨近13% 国际油价走高",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-29 02:07",
-            "link": "https://finance.eastmoney.com/a/202610283912521923.html"
+            "title": "美联储重要改革！",
+            "source": "上海证券报",
+            "time": "2026-10-29 06:48",
+            "link": "https://forex.eastmoney.com/a/202610293912806640.html"
           },
           {
-            "title": "美联储利率决议，即将公布",
-            "source": "中国证券报",
-            "time": "2026-10-28 23:48",
-            "link": "https://forex.eastmoney.com/a/202610283912742267.html"
+            "title": "凌晨，突发跳水！美联储，重大宣布！",
+            "source": "券商中国",
+            "time": "2026-10-29 06:38",
+            "link": "https://forex.eastmoney.com/a/202610293912805732.html"
           },
           {
-            "title": "美股存储芯片股集体走强 SK海力士股价涨幅扩大至12%",
+            "title": "周四你需要知道的隔夜全球要闻",
             "source": "财联社",
-            "time": "2026-10-28 23:21",
-            "link": "https://finance.eastmoney.com/a/202610283912729881.html"
+            "time": "2026-10-29 06:15",
+            "link": "https://forex.eastmoney.com/a/202610293912801295.html"
           }
         ]
       },
@@ -1042,22 +1042,22 @@
         "name": "微软",
         "news": [
           {
-            "title": "微软宣布：已通过Microsoft Foundry平台提供Copilot Harness",
+            "title": "美联储重要改革！",
+            "source": "上海证券报",
+            "time": "2026-10-29 06:48",
+            "link": "https://forex.eastmoney.com/a/202610293912806640.html"
+          },
+          {
+            "title": "周四你需要知道的隔夜全球要闻",
             "source": "财联社",
-            "time": "2026-10-29 01:06",
-            "link": "https://finance.eastmoney.com/a/202610293912756152.html"
+            "time": "2026-10-29 06:15",
+            "link": "https://forex.eastmoney.com/a/202610293912801295.html"
           },
           {
-            "title": "暴涨！今夜，不平静",
-            "source": "中国基金报",
-            "time": "2026-10-28 23:55",
-            "link": "https://forex.eastmoney.com/a/202610283912742773.html"
-          },
-          {
-            "title": "美联储利率决议，即将公布",
-            "source": "中国证券报",
-            "time": "2026-10-28 23:48",
-            "link": "https://forex.eastmoney.com/a/202610283912742267.html"
+            "title": "美联储维持利率不变，沃什宣布将减少议息频次；至少68人死亡，西班牙披露高铁相撞原因；山下有松回应被造谣；宇树上市后首份业绩出炉丨每经早参",
+            "source": "每日经济新闻",
+            "time": "2026-10-29 06:06",
+            "link": "https://forex.eastmoney.com/a/202610293912796839.html"
           }
         ]
       },
@@ -1066,22 +1066,22 @@
         "name": "谷歌",
         "news": [
           {
-            "title": "美股三大指数震荡整理 SK海力士涨近13% 国际油价走高",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-29 02:07",
-            "link": "https://finance.eastmoney.com/a/202610283912521923.html"
+            "title": "上证早知道｜002913，拟投60亿扩产高端PCB；688795，三季度营收大增近18倍，扭亏为盈；688698，机构净买入9525.99万元",
+            "source": "上海证券报",
+            "time": "2026-10-29 06:50",
+            "link": "https://finance.eastmoney.com/a/202610293912806761.html"
           },
           {
-            "title": "谷歌推出Gemini 4碳前沿模型",
-            "source": "财联社",
-            "time": "2026-10-29 01:06",
-            "link": "https://finance.eastmoney.com/a/202610293912756234.html"
+            "title": "美联储重要改革！",
+            "source": "上海证券报",
+            "time": "2026-10-29 06:48",
+            "link": "https://forex.eastmoney.com/a/202610293912806640.html"
           },
           {
-            "title": "暴涨！今夜，不平静",
-            "source": "中国基金报",
-            "time": "2026-10-28 23:55",
-            "link": "https://forex.eastmoney.com/a/202610283912742773.html"
+            "title": "影响市场重大事件：美国联邦通信委员会批准了亚马逊Leo以115亿美元收购Globalstar的计划；百度将披露世界模型研发进展，或先用于自动驾驶",
+            "source": "每日经济新闻",
+            "time": "2026-10-29 06:43",
+            "link": "https://finance.eastmoney.com/a/202610293912806189.html"
           }
         ]
       },
@@ -1090,22 +1090,22 @@
         "name": "Meta",
         "news": [
           {
-            "title": "国际避险资金大迁徙 美股AI板块与美债上演跷跷板行情",
-            "source": "证券时报",
-            "time": "2026-10-29 02:07",
-            "link": "https://forex.eastmoney.com/a/202610293912762849.html"
+            "title": "美联储重要改革！",
+            "source": "上海证券报",
+            "time": "2026-10-29 06:48",
+            "link": "https://forex.eastmoney.com/a/202610293912806640.html"
           },
           {
-            "title": "美联储利率决议，即将公布",
-            "source": "中国证券报",
-            "time": "2026-10-28 23:48",
-            "link": "https://forex.eastmoney.com/a/202610283912742267.html"
+            "title": "美联储维持利率不变，沃什宣布将减少议息频次；至少68人死亡，西班牙披露高铁相撞原因；山下有松回应被造谣；宇树上市后首份业绩出炉丨每经早参",
+            "source": "每日经济新闻",
+            "time": "2026-10-29 06:06",
+            "link": "https://forex.eastmoney.com/a/202610293912796839.html"
           },
           {
-            "title": "Meta股价连续5日下跌 从9月份高点回调超20%",
+            "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
             "source": "财联社",
-            "time": "2026-10-28 23:33",
-            "link": "https://finance.eastmoney.com/a/202610283912734970.html"
+            "time": "2026-10-29 06:00",
+            "link": "https://forex.eastmoney.com/a/202610293912795461.html"
           }
         ]
       },
@@ -1138,22 +1138,22 @@
         "name": "Lumentum",
         "news": [
           {
-            "title": "美股光通信股开盘普涨，Lumentum涨1.40%，康宁涨1.57%",
-            "source": "每日经济新闻",
-            "time": "2026-10-28 21:54",
-            "link": "https://finance.eastmoney.com/a/202610283912647712.html"
+            "title": "周四你需要知道的隔夜全球要闻",
+            "source": "财联社",
+            "time": "2026-10-29 06:15",
+            "link": "https://forex.eastmoney.com/a/202610293912801295.html"
           },
           {
-            "title": "美股开盘：科技股多数上涨，谷歌涨超1%；存储芯片股暴涨，SK海力士涨超8%，闪迪涨超4%；光通信股普涨，迈威尔科技涨超2%",
-            "source": "中新经纬",
-            "time": "2026-10-28 21:45",
-            "link": "https://finance.eastmoney.com/a/202610283912646133.html"
+            "title": "东方财富财经早餐 10月29日周四",
+            "source": "东方财富Choice数据",
+            "time": "2026-10-29 06:00",
+            "link": "https://finance.eastmoney.com/a/202610283912698183.html"
           },
           {
-            "title": "主力资金丨尾盘资金追捧这些科技股",
-            "source": "证券时报网",
-            "time": "2026-10-28 19:00",
-            "link": "https://finance.eastmoney.com/a/202610283912289526.html"
+            "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
+            "source": "财联社",
+            "time": "2026-10-29 06:00",
+            "link": "https://forex.eastmoney.com/a/202610293912795461.html"
           }
         ]
       }
@@ -1170,16 +1170,16 @@
             "link": "https://finance.eastmoney.com/a/202610283912686740.html"
           },
           {
-            "title": "港股通成交活跃股追踪 脑动极光-B近一个月首次上榜",
-            "source": "证券时报网",
-            "time": "2026-10-28 21:59",
-            "link": "https://finance.eastmoney.com/a/202610283912675234.html"
-          },
-          {
             "title": "2只个股获南向资金连续净买入",
             "source": "证券时报网",
             "time": "2026-10-28 21:59",
             "link": "https://finance.eastmoney.com/a/202610283912687226.html"
+          },
+          {
+            "title": "港股通成交活跃股追踪 脑动极光-B近一个月首次上榜",
+            "source": "证券时报网",
+            "time": "2026-10-28 21:59",
+            "link": "https://finance.eastmoney.com/a/202610283912675234.html"
           }
         ]
       },
@@ -1188,22 +1188,22 @@
         "name": "阿里巴巴",
         "news": [
           {
-            "title": "头部企业获资本重仓押注 无人配送商业化落地提速",
-            "source": "证券时报",
-            "time": "2026-10-29 02:07",
-            "link": "https://finance.eastmoney.com/a/202610293912763230.html"
+            "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
+            "source": "财联社",
+            "time": "2026-10-29 06:00",
+            "link": "https://forex.eastmoney.com/a/202610293912795461.html"
           },
           {
-            "title": "提案里的徐汇跃迁！他们的一次次建言连接发展大逻辑和民生小确幸",
+            "title": "从美景到产线，5年来，外国领导人的“长三角时间”有何改变？",
             "source": "上观新闻",
-            "time": "2026-10-28 22:43",
-            "link": "https://finance.eastmoney.com/a/202610283912705823.html"
+            "time": "2026-10-29 05:07",
+            "link": "https://finance.eastmoney.com/a/202610293912787692.html"
           },
           {
-            "title": "脑虎科技完成7亿元B轮融资 深创投等多家机构投资",
-            "source": "科创板日报",
-            "time": "2026-10-28 22:20",
-            "link": "https://finance.eastmoney.com/a/202610283912691539.html"
+            "title": "中外合作持续深化 推动全球智能网联汽车产业升级",
+            "source": "经济参考报",
+            "time": "2026-10-29 04:19",
+            "link": "https://finance.eastmoney.com/a/202610293912778851.html"
           }
         ]
       },
@@ -1266,16 +1266,16 @@
             "link": "https://finance.eastmoney.com/a/202610293912761224.html"
           },
           {
+            "title": "存储超级周期延续！多股业绩倍增可期(名单)",
+            "source": "东方财富研究中心",
+            "time": "2026-10-29 00:16",
+            "link": "https://insurance.eastmoney.com/a/202610283912723253.html"
+          },
+          {
             "title": "江丰电子Q3净利同比增83%：一次性收益“退潮” 主业加速增长｜财报解读",
             "source": "财联社",
             "time": "2026-10-28 23:57",
             "link": "https://finance.eastmoney.com/a/202610283912743249.html"
-          },
-          {
-            "title": "存储超级周期延续！多股业绩倍增可期(名单)",
-            "source": "东方财富研究中心",
-            "time": "2026-10-28 23:16",
-            "link": "https://insurance.eastmoney.com/a/202610283912723253.html"
           }
         ]
       },
@@ -1284,22 +1284,22 @@
         "name": "小米集团",
         "news": [
           {
-            "title": "国泰海通拟联合多方设立总规模200亿元上海领航科创基金",
-            "source": "央广财经",
-            "time": "2026-10-29 02:27",
-            "link": "https://finance.eastmoney.com/a/202610293912767875.html"
+            "title": "上证早知道｜002913，拟投60亿扩产高端PCB；688795，三季度营收大增近18倍，扭亏为盈；688698，机构净买入9525.99万元",
+            "source": "上海证券报",
+            "time": "2026-10-29 06:50",
+            "link": "https://finance.eastmoney.com/a/202610293912806761.html"
           },
           {
-            "title": "头部企业获资本重仓押注 无人配送商业化落地提速",
-            "source": "证券时报",
-            "time": "2026-10-29 02:07",
-            "link": "https://finance.eastmoney.com/a/202610293912763230.html"
+            "title": "IMF总裁提议廖岷担任副总裁，自12月1日起生效",
+            "source": "澎湃新闻",
+            "time": "2026-10-29 06:47",
+            "link": "https://finance.eastmoney.com/a/202610293912806531.html"
           },
           {
-            "title": "中工国际：从二次创业到价值跃升 “十五五”勾勒进阶新路径",
-            "source": "证券时报",
-            "time": "2026-10-29 02:07",
-            "link": "https://finance.eastmoney.com/a/202610293912763034.html"
+            "title": "影响市场重大事件：美国联邦通信委员会批准了亚马逊Leo以115亿美元收购Globalstar的计划；百度将披露世界模型研发进展，或先用于自动驾驶",
+            "source": "每日经济新闻",
+            "time": "2026-10-29 06:43",
+            "link": "https://finance.eastmoney.com/a/202610293912806189.html"
           }
         ]
       }
@@ -1310,9 +1310,9 @@
         "name": "三星电子",
         "news": [
           {
-            "title": "PCB龙头，60亿元加码高端产能",
+            "title": "PCB龙头奥士康又有新动作：60亿元加码高端产能",
             "source": "上海证券报",
-            "time": "2026-10-28 23:48",
+            "time": "2026-10-29 00:18",
             "link": "https://finance.eastmoney.com/a/202610283912741584.html"
           },
           {
@@ -1334,22 +1334,22 @@
         "name": "SK海力士",
         "news": [
           {
-            "title": "美股三大指数震荡整理 SK海力士涨近13% 国际油价走高",
-            "source": "东方财富Choice数据",
-            "time": "2026-10-29 02:07",
-            "link": "https://finance.eastmoney.com/a/202610283912521923.html"
-          },
-          {
-            "title": "昨日A股双创指数齐涨超过3% 多重利好共振 AI产业链集体反弹",
+            "title": "美联储重要改革！",
             "source": "上海证券报",
-            "time": "2026-10-29 02:06",
-            "link": "https://finance.eastmoney.com/a/202610293912761896.html"
+            "time": "2026-10-29 06:48",
+            "link": "https://forex.eastmoney.com/a/202610293912806640.html"
           },
           {
-            "title": "江丰电子Q3净利同比增83%：一次性收益“退潮” 主业加速增长｜财报解读",
+            "title": "影响市场重大事件：美国联邦通信委员会批准了亚马逊Leo以115亿美元收购Globalstar的计划；百度将披露世界模型研发进展，或先用于自动驾驶",
+            "source": "每日经济新闻",
+            "time": "2026-10-29 06:43",
+            "link": "https://finance.eastmoney.com/a/202610293912806189.html"
+          },
+          {
+            "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
             "source": "财联社",
-            "time": "2026-10-28 23:57",
-            "link": "https://finance.eastmoney.com/a/202610283912743249.html"
+            "time": "2026-10-29 06:00",
+            "link": "https://forex.eastmoney.com/a/202610293912795461.html"
           }
         ]
       },
@@ -1358,22 +1358,22 @@
         "name": "韩美半导体",
         "news": [
           {
-            "title": "从一盒碳粉到一个“芯”材料平台 创业板鼎龙股份：向难而行，持续挺进“无人区”",
-            "source": "证券时报",
-            "time": "2026-10-29 02:07",
-            "link": "https://finance.eastmoney.com/a/202610293912763191.html"
+            "title": "股票ETF持续获资金净流入！中泰证券徐驰：部分优质公司股价已回到相对低位",
+            "source": "券商中国",
+            "time": "2026-10-29 06:35",
+            "link": "https://finance.eastmoney.com/a/202610293912805574.html"
           },
           {
-            "title": "国际避险资金大迁徙 美股AI板块与美债上演跷跷板行情",
-            "source": "证券时报",
-            "time": "2026-10-29 02:07",
-            "link": "https://forex.eastmoney.com/a/202610293912762849.html"
+            "title": "219家北交所公司三季报亮相 逾七成实现营收同比增长",
+            "source": "上海证券报",
+            "time": "2026-10-29 06:29",
+            "link": "https://finance.eastmoney.com/a/202610293912762081.html"
           },
           {
-            "title": "华泰资产姜光明：构建多元产品体系 以“长钱”陪伴企业成长",
-            "source": "证券时报",
-            "time": "2026-10-29 02:07",
-            "link": "https://insurance.eastmoney.com/a/202610293912764077.html"
+            "title": "三季度公募基金新进重仓股曝光 主要集中在科技与医疗领域",
+            "source": "上海证券报",
+            "time": "2026-10-29 06:18",
+            "link": "https://finance.eastmoney.com/a/202610293912761923.html"
           }
         ]
       },
@@ -1408,22 +1408,22 @@
         "name": "中际旭创",
         "news": [
           {
+            "title": "三季度公募基金新进重仓股曝光 主要集中在科技与医疗领域",
+            "source": "上海证券报",
+            "time": "2026-10-29 06:18",
+            "link": "https://finance.eastmoney.com/a/202610293912761923.html"
+          },
+          {
+            "title": "A股盘前速览：美股存储芯片盘初暴涨，SK海力士涨超10%，美光、闪迪涨超5%；油价涨，金价跌；宇树、摩尔线程披露业绩；钶锐锶开启申购",
+            "source": "中新经纬",
+            "time": "2026-10-29 05:03",
+            "link": "https://finance.eastmoney.com/a/202610293912787095.html"
+          },
+          {
             "title": "港股IPO“变奏” 融资额创16年来新高 基石投资者占比超八成",
             "source": "上海证券报",
             "time": "2026-10-29 02:06",
             "link": "https://finance.eastmoney.com/a/202610293912762151.html"
-          },
-          {
-            "title": "三季度公募基金新进重仓股曝光 主要集中在科技与医疗领域",
-            "source": "上海证券报",
-            "time": "2026-10-29 02:06",
-            "link": "https://finance.eastmoney.com/a/202610293912761923.html"
-          },
-          {
-            "title": "深耕产业升级、延续科技重仓 公募调仓脉络明晰 绩优基金向新而行",
-            "source": "证券日报",
-            "time": "2026-10-29 01:44",
-            "link": "https://finance.eastmoney.com/a/202610293912761554.html"
           }
         ]
       },
@@ -1432,22 +1432,22 @@
         "name": "新易盛",
         "news": [
           {
+            "title": "A股盘前速览：美股存储芯片盘初暴涨，SK海力士涨超10%，美光、闪迪涨超5%；油价涨，金价跌；宇树、摩尔线程披露业绩；钶锐锶开启申购",
+            "source": "中新经纬",
+            "time": "2026-10-29 05:03",
+            "link": "https://finance.eastmoney.com/a/202610293912787095.html"
+          },
+          {
             "title": "深耕产业升级、延续科技重仓 公募调仓脉络明晰 绩优基金向新而行",
             "source": "证券日报",
             "time": "2026-10-29 01:44",
             "link": "https://finance.eastmoney.com/a/202610293912761554.html"
           },
           {
-            "title": "A股借调整降杠杆 两融资金结构性换仓",
+            "title": "A股借调整降杠杆：两融余额回撤6200亿 融资盘整体风险可控",
             "source": "第一财经",
-            "time": "2026-10-29 00:09",
-            "link": "https://finance.eastmoney.com/a/202610293912747332.html"
-          },
-          {
-            "title": "科创综指涨超3%！创业板指涨3.40%；通信设备板块异动，长盈通大涨超14%；元件板块获主力大幅净流入；宇树科技涨幅近9%",
-            "source": "中国经营报",
-            "time": "2026-10-28 23:27",
-            "link": "https://finance.eastmoney.com/a/202610283912731761.html"
+            "time": "2026-10-29 00:20",
+            "link": "https://finance.eastmoney.com/a/202610283912517425.html"
           }
         ]
       },
@@ -1456,22 +1456,22 @@
         "name": "天孚通信",
         "news": [
           {
-            "title": "深耕产业升级、延续科技重仓 公募调仓脉络明晰 绩优基金向新而行",
-            "source": "证券日报",
-            "time": "2026-10-29 01:44",
-            "link": "https://finance.eastmoney.com/a/202610293912761554.html"
+            "title": "上证早知道｜002913，拟投60亿扩产高端PCB；688795，三季度营收大增近18倍，扭亏为盈；688698，机构净买入9525.99万元",
+            "source": "上海证券报",
+            "time": "2026-10-29 06:50",
+            "link": "https://finance.eastmoney.com/a/202610293912806761.html"
           },
           {
-            "title": "超千家深市公司，业绩“报喜”！",
-            "source": "中国基金报",
-            "time": "2026-10-28 23:30",
-            "link": "https://finance.eastmoney.com/a/202610283912735471.html"
+            "title": "存储龙头报喜！业绩大增28728.12%",
+            "source": "中国证券报",
+            "time": "2026-10-29 06:36",
+            "link": "https://finance.eastmoney.com/a/202610293912805023.html"
           },
           {
-            "title": "天孚通信前三季度归母净利润20.83亿元 同比增长42.18%",
-            "source": "上海证券报·中国证券网",
-            "time": "2026-10-28 23:17",
-            "link": "https://finance.eastmoney.com/a/202610283912726134.html"
+            "title": "东方财富财经早餐 10月29日周四",
+            "source": "东方财富Choice数据",
+            "time": "2026-10-29 06:00",
+            "link": "https://finance.eastmoney.com/a/202610283912698183.html"
           }
         ]
       },
@@ -1486,16 +1486,16 @@
             "link": "https://finance.eastmoney.com/a/202610293912761554.html"
           },
           {
-            "title": "A股借调整降杠杆 两融资金结构性换仓",
+            "title": "A股借调整降杠杆：两融余额回撤6200亿 融资盘整体风险可控",
             "source": "第一财经",
-            "time": "2026-10-29 00:09",
-            "link": "https://finance.eastmoney.com/a/202610293912747332.html"
+            "time": "2026-10-29 00:20",
+            "link": "https://finance.eastmoney.com/a/202610283912517425.html"
           },
           {
-            "title": "存储超级周期延续！多股业绩倍增可期(名单)",
-            "source": "东方财富研究中心",
-            "time": "2026-10-28 23:16",
-            "link": "https://insurance.eastmoney.com/a/202610283912723253.html"
+            "title": "A股放量反弹 增量资金来自何处",
+            "source": "上海证券报",
+            "time": "2026-10-29 00:18",
+            "link": "https://finance.eastmoney.com/a/202610283912687049.html"
           }
         ]
       },
@@ -1528,22 +1528,22 @@
         "name": "长鑫科技",
         "news": [
           {
+            "title": "存储龙头报喜！业绩大增28728.12%",
+            "source": "中国证券报",
+            "time": "2026-10-29 06:36",
+            "link": "https://finance.eastmoney.com/a/202610293912805023.html"
+          },
+          {
             "title": "三季度公募基金新进重仓股曝光 主要集中在科技与医疗领域",
             "source": "上海证券报",
-            "time": "2026-10-29 02:06",
+            "time": "2026-10-29 06:18",
             "link": "https://finance.eastmoney.com/a/202610293912761923.html"
           },
           {
-            "title": "2026年公募基金三季报收官 主动权益基金高仓位守主线稳回报",
-            "source": "证券日报",
-            "time": "2026-10-29 01:44",
-            "link": "https://finance.eastmoney.com/a/202610293912761224.html"
-          },
-          {
-            "title": "深耕产业升级、延续科技重仓 公募调仓脉络明晰 绩优基金向新而行",
-            "source": "证券日报",
-            "time": "2026-10-29 01:44",
-            "link": "https://finance.eastmoney.com/a/202610293912761554.html"
+            "title": "美联储维持利率不变，沃什宣布将减少议息频次；至少68人死亡，西班牙披露高铁相撞原因；山下有松回应被造谣；宇树上市后首份业绩出炉丨每经早参",
+            "source": "每日经济新闻",
+            "time": "2026-10-29 06:06",
+            "link": "https://forex.eastmoney.com/a/202610293912796839.html"
           }
         ]
       },
@@ -1576,6 +1576,12 @@
         "name": "寒武纪",
         "news": [
           {
+            "title": "存储龙头报喜！业绩大增28728.12%",
+            "source": "中国证券报",
+            "time": "2026-10-29 06:36",
+            "link": "https://finance.eastmoney.com/a/202610293912805023.html"
+          },
+          {
             "title": "A股公司三季报展现经济成色 科技创新动能加速释放",
             "source": "证券日报",
             "time": "2026-10-29 01:44",
@@ -1586,12 +1592,6 @@
             "source": "证券日报",
             "time": "2026-10-29 01:44",
             "link": "https://finance.eastmoney.com/a/202610293912761224.html"
-          },
-          {
-            "title": "深耕产业升级、延续科技重仓 公募调仓脉络明晰 绩优基金向新而行",
-            "source": "证券日报",
-            "time": "2026-10-29 01:44",
-            "link": "https://finance.eastmoney.com/a/202610293912761554.html"
           }
         ]
       }
