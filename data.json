@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-05 04:16:48",
-  "updated_iso": "2026-11-05T04:16:48+08:00",
+  "updated": "2026-11-05 08:56:16",
+  "updated_iso": "2026-11-05T08:56:16+08:00",
   "timezone": "Asia/Shanghai",
   "markets": [
     {
       "key": "us",
       "name": "美股",
       "data_date": "2026-11-04",
-      "expected_date": "2026-11-03",
+      "expected_date": "2026-11-04",
       "stale": false,
       "items": [
         {
@@ -16,9 +16,9 @@
           "type": "index",
           "category": "",
           "available": true,
-          "close": 7699.72,
-          "change": 130.8,
-          "change_pct": 1.73,
+          "close": 7688.62,
+          "change": 119.7,
+          "change_pct": 1.58,
           "date": "2026-11-04",
           "source": "yfinance"
         },
@@ -28,9 +28,9 @@
           "type": "index",
           "category": "",
           "available": true,
-          "close": 25807.66,
-          "change": 435.65,
-          "change_pct": 1.72,
+          "close": 25736.51,
+          "change": 364.5,
+          "change_pct": 1.44,
           "date": "2026-11-04",
           "source": "yfinance"
         },
@@ -40,9 +40,9 @@
           "type": "index",
           "category": "",
           "available": true,
-          "close": 53375.47,
-          "change": 1588.75,
-          "change_pct": 3.07,
+          "close": 53356.12,
+          "change": 1569.4,
+          "change_pct": 3.03,
           "date": "2026-11-04",
           "source": "yfinance"
         },
@@ -52,9 +52,9 @@
           "type": "stock",
           "category": "AI芯片",
           "available": true,
-          "close": 202.38,
-          "change": -4.31,
-          "change_pct": -2.09,
+          "close": 200.13,
+          "change": -6.56,
+          "change_pct": -3.17,
           "date": "2026-11-04",
           "source": "yfinance"
         },
@@ -64,9 +64,9 @@
           "type": "stock",
           "category": "AI芯片",
           "available": true,
-          "close": 325.94,
-          "change": -6.19,
-          "change_pct": -1.86,
+          "close": 325.48,
+          "change": -6.65,
+          "change_pct": -2.0,
           "date": "2026-11-04",
           "source": "yfinance"
         },
@@ -76,9 +76,9 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 796.74,
-          "change": -58.36,
-          "change_pct": -6.82,
+          "close": 795.23,
+          "change": -59.87,
+          "change_pct": -7.0,
           "date": "2026-11-04",
           "source": "yfinance"
         },
@@ -88,9 +88,9 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 326.38,
-          "change": -20.97,
-          "change_pct": -6.04,
+          "close": 323.83,
+          "change": -23.52,
+          "change_pct": -6.77,
           "date": "2026-11-04",
           "source": "yfinance"
         },
@@ -100,9 +100,9 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 1029.13,
-          "change": -97.39,
-          "change_pct": -8.65,
+          "close": 1037.4,
+          "change": -89.12,
+          "change_pct": -7.91,
           "date": "2026-11-04",
           "source": "yfinance"
         },
@@ -112,9 +112,9 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 558.49,
-          "change": 37.5,
-          "change_pct": 7.2,
+          "close": 555.8,
+          "change": 34.81,
+          "change_pct": 6.68,
           "date": "2026-11-04",
           "source": "yfinance"
         },
@@ -124,9 +124,9 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 291.18,
-          "change": 11.15,
-          "change_pct": 3.98,
+          "close": 288.93,
+          "change": 8.9,
+          "change_pct": 3.18,
           "date": "2026-11-04",
           "source": "yfinance"
         },
@@ -136,9 +136,9 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 629.93,
-          "change": 8.9,
-          "change_pct": 1.43,
+          "close": 630.0,
+          "change": 8.97,
+          "change_pct": 1.44,
           "date": "2026-11-04",
           "source": "yfinance"
         },
@@ -148,9 +148,9 @@
           "type": "stock",
           "category": "光模块",
           "available": true,
-          "close": 192.5,
-          "change": -14.99,
-          "change_pct": -7.22,
+          "close": 195.09,
+          "change": -12.4,
+          "change_pct": -5.98,
           "date": "2026-11-04",
           "source": "yfinance"
         },
@@ -160,9 +160,9 @@
           "type": "stock",
           "category": "光模块",
           "available": true,
-          "close": 612.5,
-          "change": -67.66,
-          "change_pct": -9.95,
+          "close": 626.75,
+          "change": -53.41,
+          "change_pct": -7.85,
           "date": "2026-11-04",
           "source": "yfinance"
         }
@@ -171,7 +171,7 @@
     {
       "key": "hk",
       "name": "港股",
-      "data_date": "2026-11-04",
+      "data_date": "2026-11-05",
       "expected_date": "2026-11-04",
       "stale": false,
       "items": [
@@ -184,8 +184,8 @@
           "close": 23919.5,
           "change": 393.53,
           "change_pct": 1.67,
-          "date": "2026-11-04",
-          "source": "sina"
+          "date": "2026-11-05",
+          "source": "yfinance"
         },
         {
           "symbol": "^HSTECH",
@@ -276,7 +276,7 @@
     {
       "key": "kr",
       "name": "韩股",
-      "data_date": "2026-11-04",
+      "data_date": "2026-11-05",
       "expected_date": "2026-11-04",
       "stale": false,
       "items": [
@@ -285,7 +285,12 @@
           "name": "KOSPI",
           "type": "index",
           "category": "",
-          "available": false
+          "available": true,
+          "close": 5506.87,
+          "change": -141.92,
+          "change_pct": -2.51,
+          "date": "2026-11-05",
+          "source": "yfinance"
         },
         {
           "symbol": "^KQ11",
@@ -293,10 +298,10 @@
           "type": "index",
           "category": "",
           "available": true,
-          "close": 714.95,
-          "change": 10.56,
-          "change_pct": 1.5,
-          "date": "2026-11-04",
+          "close": 695.57,
+          "change": -8.82,
+          "change_pct": -1.25,
+          "date": "2026-11-05",
           "source": "yfinance"
         },
         {
@@ -305,10 +310,10 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 218000.0,
-          "change": -1500.0,
-          "change_pct": -0.68,
-          "date": "2026-11-04",
+          "close": 208250.0,
+          "change": -9750.0,
+          "change_pct": -4.47,
+          "date": "2026-11-05",
           "source": "yfinance"
         },
         {
@@ -317,10 +322,10 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 1396000.0,
-          "change": -2000.0,
-          "change_pct": -0.14,
-          "date": "2026-11-04",
+          "close": 1296000.0,
+          "change": -100000.0,
+          "change_pct": -7.16,
+          "date": "2026-11-05",
           "source": "yfinance"
         },
         {
@@ -329,10 +334,10 @@
           "type": "stock",
           "category": "AI芯片",
           "available": true,
-          "close": 186100.0,
-          "change": 6100.0,
-          "change_pct": 3.39,
-          "date": "2026-11-04",
+          "close": 172000.0,
+          "change": -14100.0,
+          "change_pct": -7.58,
+          "date": "2026-11-05",
           "source": "yfinance"
         },
         {
@@ -341,10 +346,10 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 170800.0,
-          "change": 1800.0,
-          "change_pct": 1.07,
-          "date": "2026-11-04",
+          "close": 179300.0,
+          "change": 8500.0,
+          "change_pct": 4.98,
+          "date": "2026-11-05",
           "source": "yfinance"
         }
       ]
@@ -352,7 +357,7 @@
     {
       "key": "cn",
       "name": "A股",
-      "data_date": "2026-11-04",
+      "data_date": "2026-11-05",
       "expected_date": "2026-11-04",
       "stale": false,
       "items": [
@@ -363,10 +368,10 @@
           "category": "",
           "available": true,
           "close": 3686.17,
-          "change": 78.07,
+          "change": 78.08,
           "change_pct": 2.16,
-          "date": "2026-11-04",
-          "source": "sina"
+          "date": "2026-11-05",
+          "source": "yfinance"
         },
         {
           "symbol": "000688.SS",
@@ -508,15 +513,11 @@
       "symbol": "CNY=X",
       "name": "美元/人民币",
       "pair": "USD/CNY",
-      "rate": 6.6731,
-      "change": 0.0251,
-      "change_pct": 0.38,
-      "date": "2026-11-04",
+      "rate": 6.6643,
+      "change": -0.0058,
+      "change_pct": -0.09,
+      "date": "2026-11-05",
       "history": [
-        [
-          "2026-09-23",
-          6.6996
-        ],
         [
           "2026-09-24",
           6.7111
@@ -635,7 +636,11 @@
         ],
         [
           "2026-11-04",
-          6.6731
+          6.6701
+        ],
+        [
+          "2026-11-05",
+          6.6643
         ]
       ]
     },
@@ -643,15 +648,11 @@
       "symbol": "JPY=X",
       "name": "美元/日元",
       "pair": "USD/JPY",
-      "rate": 158.49,
-      "change": 0.579,
-      "change_pct": 0.37,
-      "date": "2026-11-04",
+      "rate": 158.14,
+      "change": -0.33,
+      "change_pct": -0.21,
+      "date": "2026-11-05",
       "history": [
-        [
-          "2026-09-23",
-          157.46
-        ],
         [
           "2026-09-24",
           158.26
@@ -770,7 +771,11 @@
         ],
         [
           "2026-11-04",
-          158.49
+          158.47
+        ],
+        [
+          "2026-11-05",
+          158.14
         ]
       ]
     },
@@ -778,15 +783,11 @@
       "symbol": "KRW=X",
       "name": "美元/韩元",
       "pair": "USD/KRW",
-      "rate": 1341.23,
-      "change": -3.58,
-      "change_pct": -0.27,
-      "date": "2026-11-04",
+      "rate": 1339.08,
+      "change": -3.82,
+      "change_pct": -0.28,
+      "date": "2026-11-05",
       "history": [
-        [
-          "2026-09-23",
-          1350.36
-        ],
         [
           "2026-09-24",
           1362.5
@@ -905,7 +906,11 @@
         ],
         [
           "2026-11-04",
-          1341.23
+          1342.9
+        ],
+        [
+          "2026-11-05",
+          1339.08
         ]
       ]
     }
@@ -917,22 +922,22 @@
         "name": "英伟达",
         "news": [
           {
-            "title": "美股三大指数走高 道指涨近3% 科技巨头大幅反弹 国际油价重挫、金银价格大涨",
-            "source": "东方财富Choice数据",
-            "time": "2026-11-05 03:54",
-            "link": "https://finance.eastmoney.com/a/202611043922298758.html"
+            "title": "A股热点前瞻丨20家单位联合发布智能体发展自律公约；王兴兴预判明年或是机器人行业临界点",
+            "source": "东方财富研究中心",
+            "time": "2026-11-05 08:47",
+            "link": "https://finance.eastmoney.com/a/202611053922636861.html"
           },
           {
-            "title": "道指涨幅扩大至3%",
+            "title": "空气悬架价格下探，新技术迎规模化应用",
+            "source": "第一财经",
+            "time": "2026-11-05 08:46",
+            "link": "https://finance.eastmoney.com/a/202611043922060283.html"
+          },
+          {
+            "title": "“蓝色浪潮”下美科技巨头股价狂飙 华尔街：凸显自由现金流重要性",
             "source": "财联社",
-            "time": "2026-11-05 03:15",
-            "link": "https://stock.eastmoney.com/a/202611053922369255.html"
-          },
-          {
-            "title": "进博会今日开幕 逾4000家企业共赴“开放之约”",
-            "source": "上海证券报",
-            "time": "2026-11-05 02:10",
-            "link": "https://finance.eastmoney.com/a/202611053922364569.html"
+            "time": "2026-11-05 08:39",
+            "link": "https://finance.eastmoney.com/a/202611053922631551.html"
           }
         ]
       },
@@ -941,22 +946,22 @@
         "name": "博通",
         "news": [
           {
-            "title": "深夜，中概股大涨",
-            "source": "上海证券报",
-            "time": "2026-11-05 00:14",
-            "link": "https://finance.eastmoney.com/a/202611053922351123.html"
+            "title": "A股盘前速览：美股三大指数收盘大涨，存储芯片重挫；韩股低开；央行今日开展3000亿买断式逆回购；倍轻松实控人操纵证券市场被罚超千万",
+            "source": "中新经纬",
+            "time": "2026-11-05 08:19",
+            "link": "https://forex.eastmoney.com/a/202611053922630784.html"
           },
           {
-            "title": "美股盘面显著撕裂：巨头与消费金融飙升 芯片、能源板块全线重挫",
-            "source": "财联社",
-            "time": "2026-11-05 00:08",
-            "link": "https://finance.eastmoney.com/a/202611053922350539.html"
+            "title": "道指涨逾1569点！微软、苹果创新高，英伟达、特斯拉下跌",
+            "source": "证券时报",
+            "time": "2026-11-05 08:17",
+            "link": "https://finance.eastmoney.com/a/202611053922631970.html"
           },
           {
-            "title": "AI硬件与半导体板块大幅下挫 Lumentum跌超11%",
-            "source": "财联社",
-            "time": "2026-11-04 23:55",
-            "link": "https://finance.eastmoney.com/a/202611043922345198.html"
+            "title": "一觉醒来，美股暴涨超1500点，大型科技股飙升！黄金大涨，油价“崩了”",
+            "source": "中国基金报",
+            "time": "2026-11-05 08:08",
+            "link": "https://finance.eastmoney.com/a/202611053922628845.html"
           }
         ]
       },
@@ -965,22 +970,22 @@
         "name": "美光科技",
         "news": [
           {
-            "title": "深夜，中概股大涨",
-            "source": "上海证券报",
-            "time": "2026-11-05 00:14",
-            "link": "https://finance.eastmoney.com/a/202611053922351123.html"
+            "title": "早报丨民主党领袖称将结束对伊战争，国际油价下跌；苹果重返美股市值第一；绩优股AppLovin盘后大涨超23%、Coherent涨超6%，绩差股高通盘后跌近7%；AAOI、IREN美股盘后、华虹宏力今日发财报",
+            "source": "哈富证券",
+            "time": "2026-11-05 08:30",
+            "link": "https://hk.eastmoney.com/a/202611053922635573.html"
           },
           {
-            "title": "存储、光通信板块跌幅扩大",
-            "source": "财联社",
-            "time": "2026-11-05 00:08",
-            "link": "https://global.eastmoney.com/a/202611053922350789.html"
+            "title": "美股盘后：三大股指期货上涨；存储芯片股下挫，SK海力士跌超2%，闪迪、美光科技跌超1%",
+            "source": "经纬科创",
+            "time": "2026-11-05 08:25",
+            "link": "https://finance.eastmoney.com/a/202611053922637330.html"
           },
           {
-            "title": "美股盘面显著撕裂：巨头与消费金融飙升 芯片、能源板块全线重挫",
+            "title": "11月5日投资避雷针：美股三大指数集体收涨 AI硬件股逆势下挫 美光科技、闪迪跌7%",
             "source": "财联社",
-            "time": "2026-11-05 00:08",
-            "link": "https://finance.eastmoney.com/a/202611053922350539.html"
+            "time": "2026-11-05 08:24",
+            "link": "https://finance.eastmoney.com/a/202611053922629733.html"
           }
         ]
       },
@@ -989,22 +994,22 @@
         "name": "西部数据",
         "news": [
           {
-            "title": "深夜，中概股大涨",
-            "source": "上海证券报",
-            "time": "2026-11-05 00:14",
-            "link": "https://finance.eastmoney.com/a/202611053922351123.html"
+            "title": "美股盘后：三大股指期货上涨；存储芯片股下挫，SK海力士跌超2%，闪迪、美光科技跌超1%",
+            "source": "经纬科创",
+            "time": "2026-11-05 08:25",
+            "link": "https://finance.eastmoney.com/a/202611053922637330.html"
           },
           {
-            "title": "存储、光通信板块跌幅扩大",
+            "title": "11月5日投资避雷针：美股三大指数集体收涨 AI硬件股逆势下挫 美光科技、闪迪跌7%",
             "source": "财联社",
-            "time": "2026-11-05 00:08",
-            "link": "https://global.eastmoney.com/a/202611053922350789.html"
+            "time": "2026-11-05 08:24",
+            "link": "https://finance.eastmoney.com/a/202611053922629733.html"
           },
           {
-            "title": "AI硬件与半导体板块大幅下挫 Lumentum跌超11%",
+            "title": "小K播早报|美股存储、新云、光通信概念股逆势下挫 高通当前财季业绩展望平淡",
             "source": "财联社",
-            "time": "2026-11-04 23:55",
-            "link": "https://finance.eastmoney.com/a/202611043922345198.html"
+            "time": "2026-11-05 08:20",
+            "link": "https://finance.eastmoney.com/a/202611053922633377.html"
           }
         ]
       },
@@ -1013,22 +1018,22 @@
         "name": "闪迪",
         "news": [
           {
-            "title": "深夜，中概股大涨",
-            "source": "上海证券报",
-            "time": "2026-11-05 00:14",
-            "link": "https://finance.eastmoney.com/a/202611053922351123.html"
+            "title": "早报丨民主党领袖称将结束对伊战争，国际油价下跌；苹果重返美股市值第一；绩优股AppLovin盘后大涨超23%、Coherent涨超6%，绩差股高通盘后跌近7%；AAOI、IREN美股盘后、华虹宏力今日发财报",
+            "source": "哈富证券",
+            "time": "2026-11-05 08:30",
+            "link": "https://hk.eastmoney.com/a/202611053922635573.html"
           },
           {
-            "title": "存储、光通信板块跌幅扩大",
-            "source": "财联社",
-            "time": "2026-11-05 00:08",
-            "link": "https://global.eastmoney.com/a/202611053922350789.html"
+            "title": "美股盘后：三大股指期货上涨；存储芯片股下挫，SK海力士跌超2%，闪迪、美光科技跌超1%",
+            "source": "经纬科创",
+            "time": "2026-11-05 08:25",
+            "link": "https://finance.eastmoney.com/a/202611053922637330.html"
           },
           {
-            "title": "AI硬件与半导体板块大幅下挫 Lumentum跌超11%",
+            "title": "11月5日投资避雷针：美股三大指数集体收涨 AI硬件股逆势下挫 美光科技、闪迪跌7%",
             "source": "财联社",
-            "time": "2026-11-04 23:55",
-            "link": "https://finance.eastmoney.com/a/202611043922345198.html"
+            "time": "2026-11-05 08:24",
+            "link": "https://finance.eastmoney.com/a/202611053922629733.html"
           }
         ]
       },
@@ -1037,22 +1042,22 @@
         "name": "微软",
         "news": [
           {
-            "title": "美股三大指数走高 道指涨近3% 科技巨头大幅反弹 国际油价重挫、金银价格大涨",
-            "source": "东方财富Choice数据",
-            "time": "2026-11-05 03:54",
-            "link": "https://finance.eastmoney.com/a/202611043922298758.html"
+            "title": "从美国到欧洲 AI融资热下暗藏“债券过剩”风险？",
+            "source": "第一财经",
+            "time": "2026-11-05 08:44",
+            "link": "https://bond.eastmoney.com/a/202611043922090984.html"
           },
           {
-            "title": "深夜，中概股大涨",
-            "source": "上海证券报",
-            "time": "2026-11-05 00:14",
-            "link": "https://finance.eastmoney.com/a/202611053922351123.html"
-          },
-          {
-            "title": "美股盘面显著撕裂：巨头与消费金融飙升 芯片、能源板块全线重挫",
+            "title": "“蓝色浪潮”下美科技巨头股价狂飙 华尔街：凸显自由现金流重要性",
             "source": "财联社",
-            "time": "2026-11-05 00:08",
-            "link": "https://finance.eastmoney.com/a/202611053922350539.html"
+            "time": "2026-11-05 08:39",
+            "link": "https://finance.eastmoney.com/a/202611053922631551.html"
+          },
+          {
+            "title": "早报丨民主党领袖称将结束对伊战争，国际油价下跌；苹果重返美股市值第一；绩优股AppLovin盘后大涨超23%、Coherent涨超6%，绩差股高通盘后跌近7%；AAOI、IREN美股盘后、华虹宏力今日发财报",
+            "source": "哈富证券",
+            "time": "2026-11-05 08:30",
+            "link": "https://hk.eastmoney.com/a/202611053922635573.html"
           }
         ]
       },
@@ -1061,22 +1066,22 @@
         "name": "谷歌",
         "news": [
           {
-            "title": "美股三大指数走高 道指涨近3% 科技巨头大幅反弹 国际油价重挫、金银价格大涨",
-            "source": "东方财富Choice数据",
-            "time": "2026-11-05 03:54",
-            "link": "https://finance.eastmoney.com/a/202611043922298758.html"
+            "title": "从美国到欧洲 AI融资热下暗藏“债券过剩”风险？",
+            "source": "第一财经",
+            "time": "2026-11-05 08:44",
+            "link": "https://bond.eastmoney.com/a/202611043922090984.html"
           },
           {
-            "title": "苹果发出警告",
-            "source": "央视财经",
-            "time": "2026-11-05 03:16",
-            "link": "https://finance.eastmoney.com/a/202611053922369015.html"
+            "title": "“蓝色浪潮”下美科技巨头股价狂飙 华尔街：凸显自由现金流重要性",
+            "source": "财联社",
+            "time": "2026-11-05 08:39",
+            "link": "https://finance.eastmoney.com/a/202611053922631551.html"
           },
           {
-            "title": "深夜，中概股大涨",
-            "source": "上海证券报",
-            "time": "2026-11-05 00:14",
-            "link": "https://finance.eastmoney.com/a/202611053922351123.html"
+            "title": "早报丨民主党领袖称将结束对伊战争，国际油价下跌；苹果重返美股市值第一；绩优股AppLovin盘后大涨超23%、Coherent涨超6%，绩差股高通盘后跌近7%；AAOI、IREN美股盘后、华虹宏力今日发财报",
+            "source": "哈富证券",
+            "time": "2026-11-05 08:30",
+            "link": "https://hk.eastmoney.com/a/202611053922635573.html"
           }
         ]
       },
@@ -1085,22 +1090,22 @@
         "name": "Meta",
         "news": [
           {
-            "title": "美股三大指数走高 道指涨近3% 科技巨头大幅反弹 国际油价重挫、金银价格大涨",
-            "source": "东方财富Choice数据",
-            "time": "2026-11-05 03:54",
-            "link": "https://finance.eastmoney.com/a/202611043922298758.html"
+            "title": "从美国到欧洲 AI融资热下暗藏“债券过剩”风险？",
+            "source": "第一财经",
+            "time": "2026-11-05 08:44",
+            "link": "https://bond.eastmoney.com/a/202611043922090984.html"
           },
           {
-            "title": "AI购物助手替消费者逛店下单 亚马逊、沃尔玛的广告位还值钱吗？",
+            "title": "“蓝色浪潮”下美科技巨头股价狂飙 华尔街：凸显自由现金流重要性",
             "source": "财联社",
-            "time": "2026-11-05 01:11",
-            "link": "https://finance.eastmoney.com/a/202611053922359013.html"
+            "time": "2026-11-05 08:39",
+            "link": "https://finance.eastmoney.com/a/202611053922631551.html"
           },
           {
-            "title": "深夜爆发！道指，狂飙近1200点！中国资产，直线拉升",
-            "source": "证券时报",
-            "time": "2026-11-04 23:06",
-            "link": "https://finance.eastmoney.com/a/202611043922322762.html"
+            "title": "早报丨民主党领袖称将结束对伊战争，国际油价下跌；苹果重返美股市值第一；绩优股AppLovin盘后大涨超23%、Coherent涨超6%，绩差股高通盘后跌近7%；AAOI、IREN美股盘后、华虹宏力今日发财报",
+            "source": "哈富证券",
+            "time": "2026-11-05 08:30",
+            "link": "https://hk.eastmoney.com/a/202611053922635573.html"
           }
         ]
       },
@@ -1109,22 +1114,22 @@
         "name": "Coherent",
         "news": [
           {
-            "title": "深夜，中概股大涨",
-            "source": "上海证券报",
-            "time": "2026-11-05 00:14",
-            "link": "https://finance.eastmoney.com/a/202611053922351123.html"
+            "title": "早报丨民主党领袖称将结束对伊战争，国际油价下跌；苹果重返美股市值第一；绩优股AppLovin盘后大涨超23%、Coherent涨超6%，绩差股高通盘后跌近7%；AAOI、IREN美股盘后、华虹宏力今日发财报",
+            "source": "哈富证券",
+            "time": "2026-11-05 08:30",
+            "link": "https://hk.eastmoney.com/a/202611053922635573.html"
           },
           {
-            "title": "存储、光通信板块跌幅扩大",
+            "title": "11月5日投资避雷针：美股三大指数集体收涨 AI硬件股逆势下挫 美光科技、闪迪跌7%",
             "source": "财联社",
-            "time": "2026-11-05 00:08",
-            "link": "https://global.eastmoney.com/a/202611053922350789.html"
+            "time": "2026-11-05 08:24",
+            "link": "https://finance.eastmoney.com/a/202611053922629733.html"
           },
           {
-            "title": "AI硬件与半导体板块大幅下挫 Lumentum跌超11%",
+            "title": "小K播早报|美股存储、新云、光通信概念股逆势下挫 高通当前财季业绩展望平淡",
             "source": "财联社",
-            "time": "2026-11-04 23:55",
-            "link": "https://finance.eastmoney.com/a/202611043922345198.html"
+            "time": "2026-11-05 08:20",
+            "link": "https://finance.eastmoney.com/a/202611053922633377.html"
           }
         ]
       },
@@ -1133,22 +1138,22 @@
         "name": "Lumentum",
         "news": [
           {
-            "title": "深夜，中概股大涨",
-            "source": "上海证券报",
-            "time": "2026-11-05 00:14",
-            "link": "https://finance.eastmoney.com/a/202611053922351123.html"
+            "title": "早报丨民主党领袖称将结束对伊战争，国际油价下跌；苹果重返美股市值第一；绩优股AppLovin盘后大涨超23%、Coherent涨超6%，绩差股高通盘后跌近7%；AAOI、IREN美股盘后、华虹宏力今日发财报",
+            "source": "哈富证券",
+            "time": "2026-11-05 08:30",
+            "link": "https://hk.eastmoney.com/a/202611053922635573.html"
           },
           {
-            "title": "存储、光通信板块跌幅扩大",
+            "title": "11月5日投资避雷针：美股三大指数集体收涨 AI硬件股逆势下挫 美光科技、闪迪跌7%",
             "source": "财联社",
-            "time": "2026-11-05 00:08",
-            "link": "https://global.eastmoney.com/a/202611053922350789.html"
+            "time": "2026-11-05 08:24",
+            "link": "https://finance.eastmoney.com/a/202611053922629733.html"
           },
           {
-            "title": "今夜，史诗级暴涨",
-            "source": "中国基金报",
-            "time": "2026-11-05 00:02",
-            "link": "https://finance.eastmoney.com/a/202611053922349318.html"
+            "title": "小K播早报|美股存储、新云、光通信概念股逆势下挫 高通当前财季业绩展望平淡",
+            "source": "财联社",
+            "time": "2026-11-05 08:20",
+            "link": "https://finance.eastmoney.com/a/202611053922633377.html"
           }
         ]
       }
@@ -1159,22 +1164,22 @@
         "name": "腾讯控股",
         "news": [
           {
-            "title": "南向资金今日净卖出32.77亿港元 盈富基金净卖出59.79亿港元",
-            "source": "证券时报网",
-            "time": "2026-11-04 21:11",
-            "link": "https://finance.eastmoney.com/a/202611043922207548.html"
+            "title": "早报丨民主党领袖称将结束对伊战争，国际油价下跌；苹果重返美股市值第一；绩优股AppLovin盘后大涨超23%、Coherent涨超6%，绩差股高通盘后跌近7%；AAOI、IREN美股盘后、华虹宏力今日发财报",
+            "source": "哈富证券",
+            "time": "2026-11-05 08:30",
+            "link": "https://hk.eastmoney.com/a/202611053922635573.html"
           },
           {
-            "title": "2只个股获南向资金连续净买入",
-            "source": "证券时报网",
-            "time": "2026-11-04 21:11",
-            "link": "https://finance.eastmoney.com/a/202611043922210854.html"
+            "title": "突发，以军发动空袭，打死赛义德；特朗普：伊朗战争将在我想要的时候结束；国际油价大跌，道指飙涨超1500点，金银大涨丨每经早参",
+            "source": "每日经济新闻",
+            "time": "2026-11-05 07:13",
+            "link": "https://finance.eastmoney.com/a/202611053922413937.html"
           },
           {
-            "title": "港股通（沪）净卖出31.63亿港元",
-            "source": "证券时报网",
-            "time": "2026-11-04 21:11",
-            "link": "https://finance.eastmoney.com/a/202611043922210918.html"
+            "title": "道指飙涨超1500点，中国资产爆发；国际油价跌超8%黄金大涨；特朗普称伊朗战事何时结束将由其决定丨每经早参",
+            "source": "每日经济新闻",
+            "time": "2026-11-05 06:03",
+            "link": "https://finance.eastmoney.com/a/202611053922394152.html"
           }
         ]
       },
@@ -1183,22 +1188,22 @@
         "name": "阿里巴巴",
         "news": [
           {
-            "title": "美股三大指数走高 道指涨近3% 科技巨头大幅反弹 国际油价重挫、金银价格大涨",
-            "source": "东方财富Choice数据",
-            "time": "2026-11-05 03:54",
-            "link": "https://finance.eastmoney.com/a/202611043922298758.html"
+            "title": "早报丨民主党领袖称将结束对伊战争，国际油价下跌；苹果重返美股市值第一；绩优股AppLovin盘后大涨超23%、Coherent涨超6%，绩差股高通盘后跌近7%；AAOI、IREN美股盘后、华虹宏力今日发财报",
+            "source": "哈富证券",
+            "time": "2026-11-05 08:30",
+            "link": "https://hk.eastmoney.com/a/202611053922635573.html"
           },
           {
-            "title": "智能互联网产业从“参数竞赛”迈向“生态之争”",
-            "source": "证券日报",
-            "time": "2026-11-05 01:32",
-            "link": "https://finance.eastmoney.com/a/202611053922366472.html"
-          },
-          {
-            "title": "深夜，中概股大涨",
+            "title": "美股债齐涨！国际油价暴跌",
             "source": "上海证券报",
-            "time": "2026-11-05 00:14",
-            "link": "https://finance.eastmoney.com/a/202611053922351123.html"
+            "time": "2026-11-05 08:24",
+            "link": "https://finance.eastmoney.com/a/202611053922637198.html"
+          },
+          {
+            "title": "小K播早报|美股存储、新云、光通信概念股逆势下挫 高通当前财季业绩展望平淡",
+            "source": "财联社",
+            "time": "2026-11-05 08:20",
+            "link": "https://finance.eastmoney.com/a/202611053922633377.html"
           }
         ]
       },
@@ -1206,6 +1211,12 @@
         "symbol": "2513.HK",
         "name": "智谱",
         "news": [
+          {
+            "title": "工业AI应用场景加快落地 机器视觉产业链迎来业绩验证窗口",
+            "source": "中国证券报",
+            "time": "2026-11-05 07:44",
+            "link": "https://finance.eastmoney.com/a/202611053922403572.html"
+          },
           {
             "title": "前三季度券商跨境投行业务显韧性",
             "source": "上海证券报",
@@ -1217,12 +1228,6 @@
             "source": "证券时报网",
             "time": "2026-11-04 21:11",
             "link": "https://finance.eastmoney.com/a/202611043922207548.html"
-          },
-          {
-            "title": "港股通（沪）净卖出31.63亿港元",
-            "source": "证券时报网",
-            "time": "2026-11-04 21:11",
-            "link": "https://finance.eastmoney.com/a/202611043922210918.html"
           }
         ]
       },
@@ -1230,6 +1235,12 @@
         "symbol": "0100.HK",
         "name": "MiniMax",
         "news": [
+          {
+            "title": "乌镇峰会话“开源” 传递哪些声音",
+            "source": "经济参考报",
+            "time": "2026-11-05 04:38",
+            "link": "https://finance.eastmoney.com/a/202611053922373628.html"
+          },
           {
             "title": "做智慧城市的公司成了短剧概念股：投资者买的是业绩，还是故事？",
             "source": "蓝鲸财经",
@@ -1241,12 +1252,6 @@
             "source": "新华社",
             "time": "2026-11-04 21:01",
             "link": "https://finance.eastmoney.com/a/202611043922204958.html"
-          },
-          {
-            "title": "晚报丨民主党大胜，全球股市“先崩后拉”、金银大涨，数据中心监管收紧预期升温；今晚21:15小非农来袭；10月DRAM价格再创新高；诺和诺德再度上调全年业绩指引",
-            "source": "哈富证券",
-            "time": "2026-11-04 18:21",
-            "link": "https://hk.eastmoney.com/a/202611043922062863.html"
           }
         ]
       },
@@ -1255,22 +1260,22 @@
         "name": "中芯国际",
         "news": [
           {
-            "title": "科创综指单日上涨9.9% 成交额重返2万亿元上方",
-            "source": "上海证券报",
-            "time": "2026-11-05 01:54",
-            "link": "https://finance.eastmoney.com/a/202611053922364428.html"
+            "title": "早报丨民主党领袖称将结束对伊战争，国际油价下跌；苹果重返美股市值第一；绩优股AppLovin盘后大涨超23%、Coherent涨超6%，绩差股高通盘后跌近7%；AAOI、IREN美股盘后、华虹宏力今日发财报",
+            "source": "哈富证券",
+            "time": "2026-11-05 08:30",
+            "link": "https://hk.eastmoney.com/a/202611053922635573.html"
           },
           {
-            "title": "南向资金今日净卖出32.77亿港元 盈富基金净卖出59.79亿港元",
-            "source": "证券时报网",
-            "time": "2026-11-04 21:11",
-            "link": "https://finance.eastmoney.com/a/202611043922207548.html"
+            "title": "A股盘前速览：美股三大指数收盘大涨，存储芯片重挫；韩股低开；央行今日开展3000亿买断式逆回购；倍轻松实控人操纵证券市场被罚超千万",
+            "source": "中新经纬",
+            "time": "2026-11-05 08:19",
+            "link": "https://forex.eastmoney.com/a/202611053922630784.html"
           },
           {
-            "title": "2只个股获南向资金连续净买入",
-            "source": "证券时报网",
-            "time": "2026-11-04 21:11",
-            "link": "https://finance.eastmoney.com/a/202611043922210854.html"
+            "title": "涨势不断！10月DRAM价格再创新高 多只绩优超跌股获机构扎堆调研(名单)",
+            "source": "东方财富研究中心",
+            "time": "2026-11-05 07:39",
+            "link": "https://finance.eastmoney.com/a/202611053922463950.html"
           }
         ]
       },
@@ -1279,22 +1284,22 @@
         "name": "小米集团",
         "news": [
           {
-            "title": "美股三大指数走高 道指涨近3% 科技巨头大幅反弹 国际油价重挫、金银价格大涨",
-            "source": "东方财富Choice数据",
-            "time": "2026-11-05 03:54",
-            "link": "https://finance.eastmoney.com/a/202611043922298758.html"
+            "title": "A股热点前瞻丨20家单位联合发布智能体发展自律公约；王兴兴预判明年或是机器人行业临界点",
+            "source": "东方财富研究中心",
+            "time": "2026-11-05 08:47",
+            "link": "https://finance.eastmoney.com/a/202611053922636861.html"
           },
           {
-            "title": "“城市矿山”掘金记——江西丰城循环经济产业园走访观察",
-            "source": "上海证券报",
-            "time": "2026-11-05 01:54",
-            "link": "https://finance.eastmoney.com/a/202611053922364679.html"
+            "title": "空气悬架价格下探，新技术迎规模化应用",
+            "source": "第一财经",
+            "time": "2026-11-05 08:46",
+            "link": "https://finance.eastmoney.com/a/202611043922060283.html"
           },
           {
-            "title": "“不是踩刹车，而是在换挡”——从2026中国航空产业大会看低空经济发展信心",
-            "source": "上海证券报",
-            "time": "2026-11-05 01:54",
-            "link": "https://finance.eastmoney.com/a/202611053922363927.html"
+            "title": "从美国到欧洲 AI融资热下暗藏“债券过剩”风险？",
+            "source": "第一财经",
+            "time": "2026-11-05 08:44",
+            "link": "https://bond.eastmoney.com/a/202611043922090984.html"
           }
         ]
       }
@@ -1305,22 +1310,22 @@
         "name": "三星电子",
         "news": [
           {
-            "title": "面板三季度“大稳小弱”：中小尺寸承压、大尺寸托底，液晶话语权持续抬升",
-            "source": "华夏时报网",
-            "time": "2026-11-04 21:43",
-            "link": "https://finance.eastmoney.com/a/202611043922265688.html"
+            "title": "韩国综指跌幅扩大至3%",
+            "source": "东方财富Choice数据",
+            "time": "2026-11-05 08:36",
+            "link": "https://finance.eastmoney.com/a/202611053922635129.html"
           },
           {
-            "title": "AI牛回归？高弹赛道领跑，科创芯片ETF华宝(589190)标的指数猛攻12%，多股20CM涨停！",
-            "source": "界面新闻",
-            "time": "2026-11-04 18:59",
-            "link": "https://stock.eastmoney.com/a/202611043922270556.html"
+            "title": "A股盘前速览：美股三大指数收盘大涨，存储芯片重挫；韩股低开；央行今日开展3000亿买断式逆回购；倍轻松实控人操纵证券市场被罚超千万",
+            "source": "中新经纬",
+            "time": "2026-11-05 08:19",
+            "link": "https://forex.eastmoney.com/a/202611053922630784.html"
           },
           {
-            "title": "突发异动，出手了！大幅放量",
-            "source": "中国基金报",
-            "time": "2026-11-04 16:20",
-            "link": "https://finance.eastmoney.com/a/202611043921976453.html"
+            "title": "日韩股市开盘涨跌不一",
+            "source": "东方财富Choice数据",
+            "time": "2026-11-05 08:01",
+            "link": "https://finance.eastmoney.com/a/202611053922591319.html"
           }
         ]
       },
@@ -1329,22 +1334,22 @@
         "name": "SK海力士",
         "news": [
           {
-            "title": "深夜，中概股大涨",
-            "source": "上海证券报",
-            "time": "2026-11-05 00:14",
-            "link": "https://finance.eastmoney.com/a/202611053922351123.html"
+            "title": "韩国综指跌幅扩大至3%",
+            "source": "东方财富Choice数据",
+            "time": "2026-11-05 08:36",
+            "link": "https://finance.eastmoney.com/a/202611053922635129.html"
           },
           {
-            "title": "AI硬件与半导体板块大幅下挫 Lumentum跌超11%",
-            "source": "财联社",
-            "time": "2026-11-04 23:55",
-            "link": "https://finance.eastmoney.com/a/202611043922345198.html"
+            "title": "早报丨民主党领袖称将结束对伊战争，国际油价下跌；苹果重返美股市值第一；绩优股AppLovin盘后大涨超23%、Coherent涨超6%，绩差股高通盘后跌近7%；AAOI、IREN美股盘后、华虹宏力今日发财报",
+            "source": "哈富证券",
+            "time": "2026-11-05 08:30",
+            "link": "https://hk.eastmoney.com/a/202611053922635573.html"
           },
           {
-            "title": "美股存储板块全线走弱，美光跌近4%、闪迪跌近5%",
-            "source": "每日经济新闻",
-            "time": "2026-11-04 23:45",
-            "link": "https://finance.eastmoney.com/a/202611043922341431.html"
+            "title": "美股盘后：三大股指期货上涨；存储芯片股下挫，SK海力士跌超2%，闪迪、美光科技跌超1%",
+            "source": "经纬科创",
+            "time": "2026-11-05 08:25",
+            "link": "https://finance.eastmoney.com/a/202611053922637330.html"
           }
         ]
       },
@@ -1353,22 +1358,22 @@
         "name": "韩美半导体",
         "news": [
           {
-            "title": "进博会今日开幕 逾4000家企业共赴“开放之约”",
-            "source": "上海证券报",
-            "time": "2026-11-05 02:10",
-            "link": "https://finance.eastmoney.com/a/202611053922364569.html"
+            "title": "手机芯片单季收入暴跌26% 高通盘后跌超7%",
+            "source": "第一财经",
+            "time": "2026-11-05 08:52",
+            "link": "https://finance.eastmoney.com/a/202611053922638418.html"
           },
           {
-            "title": "科创综指单日上涨9.9% 成交额重返2万亿元上方",
-            "source": "上海证券报",
-            "time": "2026-11-05 01:54",
-            "link": "https://finance.eastmoney.com/a/202611053922364428.html"
+            "title": "【今日投资机会】政策组合拳发力，放量长阳重塑市场信心",
+            "source": "优优投顾",
+            "time": "2026-11-05 08:51",
+            "link": "https://stock.eastmoney.com/a/202611053922655195.html"
           },
           {
-            "title": "部分公司又有新增订单 国产半导体设备产业景气持续",
-            "source": "上海证券报",
-            "time": "2026-11-05 01:54",
-            "link": "https://finance.eastmoney.com/a/202611053922364290.html"
+            "title": "A股热点前瞻丨20家单位联合发布智能体发展自律公约；王兴兴预判明年或是机器人行业临界点",
+            "source": "东方财富研究中心",
+            "time": "2026-11-05 08:47",
+            "link": "https://finance.eastmoney.com/a/202611053922636861.html"
           }
         ]
       },
@@ -1403,22 +1408,22 @@
         "name": "中际旭创",
         "news": [
           {
-            "title": "【中证快报】11月4日中证投资资讯",
-            "source": "中国证券报·中证金牛座",
-            "time": "2026-11-04 22:43",
-            "link": "https://finance.eastmoney.com/a/202611043922309094.html"
+            "title": "早报丨民主党领袖称将结束对伊战争，国际油价下跌；苹果重返美股市值第一；绩优股AppLovin盘后大涨超23%、Coherent涨超6%，绩差股高通盘后跌近7%；AAOI、IREN美股盘后、华虹宏力今日发财报",
+            "source": "哈富证券",
+            "time": "2026-11-05 08:30",
+            "link": "https://hk.eastmoney.com/a/202611053922635573.html"
           },
           {
-            "title": "科技股回购潮涌 用组合拳打响“信心保卫战”",
-            "source": "中国经营报",
-            "time": "2026-11-04 21:52",
-            "link": "https://finance.eastmoney.com/a/202611043922252838.html"
+            "title": "A股盘前速览：美股三大指数收盘大涨，存储芯片重挫；韩股低开；央行今日开展3000亿买断式逆回购；倍轻松实控人操纵证券市场被罚超千万",
+            "source": "中新经纬",
+            "time": "2026-11-05 08:19",
+            "link": "https://forex.eastmoney.com/a/202611053922630784.html"
           },
           {
-            "title": "港股通（沪）净卖出31.63亿港元",
-            "source": "证券时报网",
-            "time": "2026-11-04 21:11",
-            "link": "https://finance.eastmoney.com/a/202611043922210918.html"
+            "title": "中信建投：AI算力链增长突出 估值消化后聚焦业绩兑现",
+            "source": "人民财讯",
+            "time": "2026-11-05 08:05",
+            "link": "https://stock.eastmoney.com/a/202611053922592067.html"
           }
         ]
       },
@@ -1427,22 +1432,22 @@
         "name": "新易盛",
         "news": [
           {
+            "title": "中信建投：AI算力链增长突出 估值消化后聚焦业绩兑现",
+            "source": "人民财讯",
+            "time": "2026-11-05 08:05",
+            "link": "https://stock.eastmoney.com/a/202611053922592067.html"
+          },
+          {
+            "title": "中长期资金加仓 A股迎来放量长阳",
+            "source": "中国证券报",
+            "time": "2026-11-05 06:45",
+            "link": "https://finance.eastmoney.com/a/202611053922404691.html"
+          },
+          {
             "title": "【中证快报】11月4日中证投资资讯",
             "source": "中国证券报·中证金牛座",
             "time": "2026-11-04 22:43",
             "link": "https://finance.eastmoney.com/a/202611043922309094.html"
-          },
-          {
-            "title": "科技股回购潮涌 用组合拳打响“信心保卫战”",
-            "source": "中国经营报",
-            "time": "2026-11-04 21:52",
-            "link": "https://finance.eastmoney.com/a/202611043922252838.html"
-          },
-          {
-            "title": "科创50涨9.92%！A股放量反弹，后市怎么走？",
-            "source": "21世纪经济报道",
-            "time": "2026-11-04 20:36",
-            "link": "https://finance.eastmoney.com/a/202611043922170268.html"
           }
         ]
       },
@@ -1451,22 +1456,22 @@
         "name": "天孚通信",
         "news": [
           {
-            "title": "科技股回购潮涌 用组合拳打响“信心保卫战”",
-            "source": "中国经营报",
-            "time": "2026-11-04 21:52",
-            "link": "https://finance.eastmoney.com/a/202611043922252838.html"
+            "title": "中信建投：AI算力链增长突出 估值消化后聚焦业绩兑现",
+            "source": "人民财讯",
+            "time": "2026-11-05 08:05",
+            "link": "https://stock.eastmoney.com/a/202611053922592067.html"
           },
           {
-            "title": "“关键先生”引爆！AI算力获资金回流，光模块三巨头反弹超10%，159363标的指数放量收涨7.81%",
-            "source": "界面新闻",
-            "time": "2026-11-04 18:59",
-            "link": "https://stock.eastmoney.com/a/202611043922271171.html"
+            "title": "中长期资金加仓 A股迎来放量长阳",
+            "source": "中国证券报",
+            "time": "2026-11-05 06:45",
+            "link": "https://finance.eastmoney.com/a/202611053922404691.html"
           },
           {
-            "title": "主力资金 | “易中天”重获主力青睐",
-            "source": "数据宝",
-            "time": "2026-11-04 18:41",
-            "link": "https://finance.eastmoney.com/a/202611043922082693.html"
+            "title": "10月公募基金调研超万次！聚焦医药、电子两大主线，这些标的成为焦点",
+            "source": "金融投资报",
+            "time": "2026-11-05 00:38",
+            "link": "https://stock.eastmoney.com/a/202611043922334142.html"
           }
         ]
       },
@@ -1475,22 +1480,22 @@
         "name": "兆易创新",
         "news": [
           {
+            "title": "AI产业链公司密集披露股份回购相关公告",
+            "source": "证券日报",
+            "time": "2026-11-05 07:53",
+            "link": "https://finance.eastmoney.com/a/202611053922365934.html"
+          },
+          {
+            "title": "涨势不断！10月DRAM价格再创新高 多只绩优超跌股获机构扎堆调研(名单)",
+            "source": "东方财富研究中心",
+            "time": "2026-11-05 07:39",
+            "link": "https://finance.eastmoney.com/a/202611053922463950.html"
+          },
+          {
             "title": "前三季度券商跨境投行业务显韧性",
             "source": "上海证券报",
             "time": "2026-11-05 01:54",
             "link": "https://finance.eastmoney.com/a/202611053922364128.html"
-          },
-          {
-            "title": "AI产业链公司密集披露股份回购相关公告",
-            "source": "证券日报",
-            "time": "2026-11-05 01:32",
-            "link": "https://finance.eastmoney.com/a/202611053922365934.html"
-          },
-          {
-            "title": "科技股回购潮涌 用组合拳打响“信心保卫战”",
-            "source": "中国经营报",
-            "time": "2026-11-04 21:52",
-            "link": "https://finance.eastmoney.com/a/202611043922252838.html"
           }
         ]
       },
@@ -1499,9 +1504,15 @@
         "name": "江波龙",
         "news": [
           {
-            "title": "净赚397亿、账上流出212亿：深圳存储五虎的利润，锁在仓库里了",
+            "title": "涨势不断！10月DRAM价格再创新高 多只绩优超跌股获机构扎堆调研(名单)",
+            "source": "东方财富研究中心",
+            "time": "2026-11-05 07:39",
+            "link": "https://finance.eastmoney.com/a/202611053922463950.html"
+          },
+          {
+            "title": "净赚397亿、账上流出212亿：深圳存储五虎的利润 锁在仓库里了",
             "source": "湾财ND",
-            "time": "2026-11-04 21:10",
+            "time": "2026-11-05 00:10",
             "link": "https://finance.eastmoney.com/a/202611043922205746.html"
           },
           {
@@ -1509,12 +1520,6 @@
             "source": "中国证券报·中证金牛座",
             "time": "2026-11-04 19:32",
             "link": "https://finance.eastmoney.com/a/202611043922105764.html"
-          },
-          {
-            "title": "深圳存储五虎前三季净赚397亿，佰维、江波龙净利环比大跌",
-            "source": "南方都市报",
-            "time": "2026-11-04 19:20",
-            "link": "https://finance.eastmoney.com/a/202611043922104645.html"
           }
         ]
       },
@@ -1523,22 +1528,22 @@
         "name": "长鑫科技",
         "news": [
           {
-            "title": "科创综指单日上涨9.9% 成交额重返2万亿元上方",
-            "source": "上海证券报",
-            "time": "2026-11-05 01:54",
-            "link": "https://finance.eastmoney.com/a/202611053922364428.html"
-          },
-          {
-            "title": "部分公司又有新增订单 国产半导体设备产业景气持续",
-            "source": "上海证券报",
-            "time": "2026-11-05 01:54",
-            "link": "https://finance.eastmoney.com/a/202611053922364290.html"
+            "title": "【五大信披媒体精华摘要】11月5日",
+            "source": "新华财经",
+            "time": "2026-11-05 07:56",
+            "link": "https://finance.eastmoney.com/a/202611053922578092.html"
           },
           {
             "title": "AI产业链公司密集披露股份回购相关公告",
             "source": "证券日报",
-            "time": "2026-11-05 01:32",
+            "time": "2026-11-05 07:53",
             "link": "https://finance.eastmoney.com/a/202611053922365934.html"
+          },
+          {
+            "title": "涨势不断！10月DRAM价格再创新高 多只绩优超跌股获机构扎堆调研(名单)",
+            "source": "东方财富研究中心",
+            "time": "2026-11-05 07:39",
+            "link": "https://finance.eastmoney.com/a/202611053922463950.html"
           }
         ]
       },
@@ -1546,6 +1551,12 @@
         "symbol": "002230.SZ",
         "name": "科大讯飞",
         "news": [
+          {
+            "title": "A股盘前速览：美股三大指数收盘大涨，存储芯片重挫；韩股低开；央行今日开展3000亿买断式逆回购；倍轻松实控人操纵证券市场被罚超千万",
+            "source": "中新经纬",
+            "time": "2026-11-05 08:19",
+            "link": "https://forex.eastmoney.com/a/202611053922630784.html"
+          },
           {
             "title": "科大讯飞：截至10月31日公司累计回购股份1571200股",
             "source": "证券日报",
@@ -1557,12 +1568,6 @@
             "source": "21世纪经济报道",
             "time": "2026-11-04 19:34",
             "link": "https://finance.eastmoney.com/a/202611043922110052.html"
-          },
-          {
-            "title": "11月4日晚间沪深上市公司重大事项公告最新快递",
-            "source": "东方财富Choice数据",
-            "time": "2026-11-04 19:32",
-            "link": "https://finance.eastmoney.com/a/202611043922107054.html"
           }
         ]
       },
@@ -1570,6 +1575,12 @@
         "symbol": "688256.SS",
         "name": "寒武纪",
         "news": [
+          {
+            "title": "中长期资金加仓 A股迎来放量长阳",
+            "source": "中国证券报",
+            "time": "2026-11-05 06:45",
+            "link": "https://finance.eastmoney.com/a/202611053922404691.html"
+          },
           {
             "title": "科技股回购潮涌 用组合拳打响“信心保卫战”",
             "source": "中国经营报",
@@ -1581,12 +1592,6 @@
             "source": "时代财经",
             "time": "2026-11-04 21:00",
             "link": "https://finance.eastmoney.com/a/202611043922188944.html"
-          },
-          {
-            "title": "71股特大单净流入超2亿元",
-            "source": "第一财经",
-            "time": "2026-11-04 20:31",
-            "link": "https://finance.eastmoney.com/a/202611043922170575.html"
           }
         ]
       }
