@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07 07:56:57",
-  "updated_iso": "2026-11-07T07:56:57+08:00",
+  "updated": "2026-11-07 09:03:56",
+  "updated_iso": "2026-11-07T09:03:56+08:00",
   "timezone": "Asia/Shanghai",
   "markets": [
     {
@@ -513,9 +513,9 @@
       "symbol": "CNY=X",
       "name": "美元/人民币",
       "pair": "USD/CNY",
-      "rate": 6.6648,
-      "change": -0.0083,
-      "change_pct": -0.12,
+      "rate": 6.688,
+      "change": 0.0149,
+      "change_pct": 0.22,
       "date": "2026-11-06",
       "history": [
         [
@@ -640,7 +640,7 @@
         ],
         [
           "2026-11-06",
-          6.6648
+          6.688
         ]
       ]
     },
@@ -648,9 +648,9 @@
       "symbol": "JPY=X",
       "name": "美元/日元",
       "pair": "USD/JPY",
-      "rate": 158.43,
-      "change": 0.068,
-      "change_pct": 0.04,
+      "rate": 157.5,
+      "change": -0.859,
+      "change_pct": -0.54,
       "date": "2026-11-06",
       "history": [
         [
@@ -775,7 +775,7 @@
         ],
         [
           "2026-11-06",
-          158.43
+          157.5
         ]
       ]
     },
@@ -783,9 +783,9 @@
       "symbol": "KRW=X",
       "name": "美元/韩元",
       "pair": "USD/KRW",
-      "rate": 1363.65,
-      "change": 23.58,
-      "change_pct": 1.76,
+      "rate": 1356.34,
+      "change": 16.27,
+      "change_pct": 1.21,
       "date": "2026-11-06",
       "history": [
         [
@@ -910,7 +910,7 @@
         ],
         [
           "2026-11-06",
-          1363.65
+          1356.34
         ]
       ]
     }
@@ -922,22 +922,22 @@
         "name": "英伟达",
         "news": [
           {
-            "title": "年内129家公募逾360亿元打新 电子行业受青睐",
-            "source": "经济参考报",
-            "time": "2026-11-07 07:54",
-            "link": "https://finance.eastmoney.com/a/202611063925185026.html"
+            "title": "深度｜屡创新高、全员破净  银行股还值得买吗",
+            "source": "21世纪经济报道",
+            "time": "2026-11-07 08:59",
+            "link": "https://finance.eastmoney.com/a/202611063925209839.html"
           },
           {
-            "title": "承诺不减持或提前终止减持 多家上市公司重要股东主动锁仓",
-            "source": "证券日报",
-            "time": "2026-11-07 07:53",
-            "link": "https://finance.eastmoney.com/a/202611073925240776.html"
+            "title": "新华财经早报：11月7日",
+            "source": "新华财经",
+            "time": "2026-11-07 08:51",
+            "link": "https://finance.eastmoney.com/a/202611073925454729.html"
           },
           {
-            "title": "多路增量资金稳步入市",
-            "source": "证券日报",
-            "time": "2026-11-07 07:52",
-            "link": "https://finance.eastmoney.com/a/202611073925240943.html"
+            "title": "下修超10%！高盛时隔两个月再度大砍黄金目标",
+            "source": "第一财经",
+            "time": "2026-11-07 08:51",
+            "link": "https://forex.eastmoney.com/a/202611073925453288.html"
           }
         ]
       },
@@ -945,6 +945,12 @@
         "symbol": "AVGO",
         "name": "博通",
         "news": [
+          {
+            "title": "科技早报 | 苹果首款触屏MacBook Pro开售即“破发”；英伟达、台积电、AMD、英特尔大涨",
+            "source": "界面新闻",
+            "time": "2026-11-07 08:45",
+            "link": "https://finance.eastmoney.com/a/202611073925454265.html"
+          },
           {
             "title": "支付机构外汇业务服务范围拟拓宽",
             "source": "证券日报",
@@ -956,12 +962,6 @@
             "source": "中新经纬",
             "time": "2026-11-07 06:36",
             "link": "https://forex.eastmoney.com/a/202611073925270529.html"
-          },
-          {
-            "title": "美股收盘：大型科技股多数上涨 特斯拉涨超4% 半导体、存储芯片反弹 美光科技涨逾5% AMD涨超11% 英特尔涨超7%",
-            "source": "经纬科创",
-            "time": "2026-11-07 06:33",
-            "link": "https://finance.eastmoney.com/a/202611073925270342.html"
           }
         ]
       },
@@ -970,22 +970,22 @@
         "name": "美光科技",
         "news": [
           {
-            "title": "中国资产反攻！小鹏、百度、B站、网易领涨",
-            "source": "券商中国",
-            "time": "2026-11-07 07:39",
-            "link": "https://finance.eastmoney.com/a/202611073925334833.html"
+            "title": "科技早报 | 苹果首款触屏MacBook Pro开售即“破发”；英伟达、台积电、AMD、英特尔大涨",
+            "source": "界面新闻",
+            "time": "2026-11-07 08:45",
+            "link": "https://finance.eastmoney.com/a/202611073925454265.html"
           },
           {
-            "title": "美股科技股大幅反弹，AI算力巨头狂飙20%，SpaceX大涨超8%，英特尔涨超7%，热门中概股普涨",
-            "source": "21世纪经济报道",
-            "time": "2026-11-07 07:22",
-            "link": "https://finance.eastmoney.com/a/202611073925278935.html"
-          },
-          {
-            "title": "AI板块遭“聪明钱”抛售 美国对冲基金10月普遍亏损",
+            "title": "美股科技股超跌反弹，热门中概股普涨",
             "source": "上海证券报",
-            "time": "2026-11-07 07:12",
-            "link": "https://finance.eastmoney.com/a/202611073925248355.html"
+            "time": "2026-11-07 08:33",
+            "link": "https://forex.eastmoney.com/a/202611073925454467.html"
+          },
+          {
+            "title": "美科技股，大反弹！美联储加息，新变数",
+            "source": "证券时报",
+            "time": "2026-11-07 08:04",
+            "link": "https://forex.eastmoney.com/a/202611073925450855.html"
           }
         ]
       },
@@ -994,6 +994,12 @@
         "name": "西部数据",
         "news": [
           {
+            "title": "科技股反攻！资金抄底芯片光通信板块爆发，AMD大涨超11%，原油创六年最大周跌幅",
+            "source": "第一财经",
+            "time": "2026-11-07 08:01",
+            "link": "https://finance.eastmoney.com/a/202611073925449887.html"
+          },
+          {
             "title": "AI板块遭“聪明钱”抛售 美国对冲基金10月普遍亏损",
             "source": "上海证券报",
             "time": "2026-11-07 07:12",
@@ -1004,12 +1010,6 @@
             "source": "大河财立方",
             "time": "2026-11-07 07:11",
             "link": "https://forex.eastmoney.com/a/202611073925279624.html"
-          },
-          {
-            "title": "美股收盘：三大指数分化 纳指涨逾1%；半导体大反弹 超威半导体涨11%；存储芯片走强 美光科技涨逾5%；黄金股全线收涨；金银下跌",
-            "source": "中新经纬",
-            "time": "2026-11-07 06:36",
-            "link": "https://forex.eastmoney.com/a/202611073925270529.html"
           }
         ]
       },
@@ -1018,22 +1018,22 @@
         "name": "闪迪",
         "news": [
           {
-            "title": "中国资产反攻！小鹏、百度、B站、网易领涨",
-            "source": "券商中国",
-            "time": "2026-11-07 07:39",
-            "link": "https://finance.eastmoney.com/a/202611073925334833.html"
+            "title": "美股科技股超跌反弹，热门中概股普涨",
+            "source": "上海证券报",
+            "time": "2026-11-07 08:33",
+            "link": "https://forex.eastmoney.com/a/202611073925454467.html"
           },
           {
-            "title": "美股科技股大幅反弹，AI算力巨头狂飙20%，SpaceX大涨超8%，英特尔涨超7%，热门中概股普涨",
-            "source": "21世纪经济报道",
-            "time": "2026-11-07 07:22",
-            "link": "https://finance.eastmoney.com/a/202611073925278935.html"
+            "title": "美科技股，大反弹！美联储加息，新变数",
+            "source": "证券时报",
+            "time": "2026-11-07 08:04",
+            "link": "https://forex.eastmoney.com/a/202611073925450855.html"
           },
           {
-            "title": "美联储，加息大消息！美半导体芯片股反弹，中国资产走强",
-            "source": "大河财立方",
-            "time": "2026-11-07 07:11",
-            "link": "https://forex.eastmoney.com/a/202611073925279624.html"
+            "title": "科技股反攻！资金抄底芯片光通信板块爆发，AMD大涨超11%，原油创六年最大周跌幅",
+            "source": "第一财经",
+            "time": "2026-11-07 08:01",
+            "link": "https://finance.eastmoney.com/a/202611073925449887.html"
           }
         ]
       },
@@ -1042,22 +1042,22 @@
         "name": "微软",
         "news": [
           {
-            "title": "中国资产反攻！小鹏、百度、B站、网易领涨",
-            "source": "券商中国",
-            "time": "2026-11-07 07:39",
-            "link": "https://finance.eastmoney.com/a/202611073925334833.html"
+            "title": "科技早报 | 苹果首款触屏MacBook Pro开售即“破发”；英伟达、台积电、AMD、英特尔大涨",
+            "source": "界面新闻",
+            "time": "2026-11-07 08:45",
+            "link": "https://finance.eastmoney.com/a/202611073925454265.html"
           },
           {
-            "title": "美股科技股大幅反弹，AI算力巨头狂飙20%，SpaceX大涨超8%，英特尔涨超7%，热门中概股普涨",
-            "source": "21世纪经济报道",
-            "time": "2026-11-07 07:22",
-            "link": "https://finance.eastmoney.com/a/202611073925278935.html"
+            "title": "美股科技股超跌反弹，热门中概股普涨",
+            "source": "上海证券报",
+            "time": "2026-11-07 08:33",
+            "link": "https://forex.eastmoney.com/a/202611073925454467.html"
           },
           {
-            "title": "隔夜欧美·11月7日",
-            "source": "大河财立方",
-            "time": "2026-11-07 07:14",
-            "link": "https://finance.eastmoney.com/a/202611073925279522.html"
+            "title": "一觉醒来，美AI科技股、中概股大涨",
+            "source": "中国基金报",
+            "time": "2026-11-07 08:17",
+            "link": "https://forex.eastmoney.com/a/202611073925452355.html"
           }
         ]
       },
@@ -1066,22 +1066,22 @@
         "name": "谷歌",
         "news": [
           {
-            "title": "中国资产反攻！小鹏、百度、B站、网易领涨",
-            "source": "券商中国",
-            "time": "2026-11-07 07:39",
-            "link": "https://finance.eastmoney.com/a/202611073925334833.html"
+            "title": "国产GPU竞争正从单卡性能转向系统能力",
+            "source": "中国经营报",
+            "time": "2026-11-07 08:45",
+            "link": "https://finance.eastmoney.com/a/202611073925453388.html"
           },
           {
-            "title": "AI应用加速渗透 内容产业迎价值重估",
-            "source": "中国证券报",
-            "time": "2026-11-07 07:27",
-            "link": "https://finance.eastmoney.com/a/202611073925271660.html"
+            "title": "科技早报 | 苹果首款触屏MacBook Pro开售即“破发”；英伟达、台积电、AMD、英特尔大涨",
+            "source": "界面新闻",
+            "time": "2026-11-07 08:45",
+            "link": "https://finance.eastmoney.com/a/202611073925454265.html"
           },
           {
-            "title": "美股科技股大幅反弹，AI算力巨头狂飙20%，SpaceX大涨超8%，英特尔涨超7%，热门中概股普涨",
-            "source": "21世纪经济报道",
-            "time": "2026-11-07 07:22",
-            "link": "https://finance.eastmoney.com/a/202611073925278935.html"
+            "title": "美股科技股超跌反弹，热门中概股普涨",
+            "source": "上海证券报",
+            "time": "2026-11-07 08:33",
+            "link": "https://forex.eastmoney.com/a/202611073925454467.html"
           }
         ]
       },
@@ -1090,22 +1090,22 @@
         "name": "Meta",
         "news": [
           {
+            "title": "美股科技股超跌反弹，热门中概股普涨",
+            "source": "上海证券报",
+            "time": "2026-11-07 08:33",
+            "link": "https://forex.eastmoney.com/a/202611073925454467.html"
+          },
+          {
+            "title": "美科技股，大反弹！美联储加息，新变数",
+            "source": "证券时报",
+            "time": "2026-11-07 08:04",
+            "link": "https://forex.eastmoney.com/a/202611073925450855.html"
+          },
+          {
             "title": "中国资产反攻！小鹏、百度、B站、网易领涨",
             "source": "券商中国",
             "time": "2026-11-07 07:39",
             "link": "https://finance.eastmoney.com/a/202611073925334833.html"
-          },
-          {
-            "title": "美股科技股大幅反弹，AI算力巨头狂飙20%，SpaceX大涨超8%，英特尔涨超7%，热门中概股普涨",
-            "source": "21世纪经济报道",
-            "time": "2026-11-07 07:22",
-            "link": "https://finance.eastmoney.com/a/202611073925278935.html"
-          },
-          {
-            "title": "美芯片股反弹 半导体指数涨超4%；中国移动明年计划算力投资千亿丨每经早参",
-            "source": "每日经济新闻",
-            "time": "2026-11-07 06:49",
-            "link": "https://finance.eastmoney.com/a/202611073925272917.html"
           }
         ]
       },
@@ -1114,22 +1114,22 @@
         "name": "Coherent",
         "news": [
           {
+            "title": "一觉醒来，美AI科技股、中概股大涨",
+            "source": "中国基金报",
+            "time": "2026-11-07 08:17",
+            "link": "https://forex.eastmoney.com/a/202611073925452355.html"
+          },
+          {
+            "title": "科技股反攻！资金抄底芯片光通信板块爆发，AMD大涨超11%，原油创六年最大周跌幅",
+            "source": "第一财经",
+            "time": "2026-11-07 08:01",
+            "link": "https://finance.eastmoney.com/a/202611073925449887.html"
+          },
+          {
             "title": "美股芯片、光通信股深夜强势反弹，AMD、闪迪飙涨近13%",
             "source": "21世纪经济报道",
             "time": "2026-11-06 23:35",
             "link": "https://finance.eastmoney.com/a/202611063925220651.html"
-          },
-          {
-            "title": "深夜大涨！芯片、光通信 暴力反弹！",
-            "source": "证券时报",
-            "time": "2026-11-06 23:30",
-            "link": "https://finance.eastmoney.com/a/202611063925218328.html"
-          },
-          {
-            "title": "今夜 美芯片股反攻！美联储加息 新动向",
-            "source": "上海证券报",
-            "time": "2026-11-06 23:21",
-            "link": "https://forex.eastmoney.com/a/202611063925214966.html"
           }
         ]
       },
@@ -1138,22 +1138,22 @@
         "name": "Lumentum",
         "news": [
           {
-            "title": "中国资产反攻！小鹏、百度、B站、网易领涨",
-            "source": "券商中国",
-            "time": "2026-11-07 07:39",
-            "link": "https://finance.eastmoney.com/a/202611073925334833.html"
+            "title": "“易中天”都说经营正常 光还值得拥有吗",
+            "source": "IPO日报",
+            "time": "2026-11-07 08:49",
+            "link": "https://finance.eastmoney.com/a/202611073925452829.html"
           },
           {
-            "title": "美股科技股大幅反弹，AI算力巨头狂飙20%，SpaceX大涨超8%，英特尔涨超7%，热门中概股普涨",
-            "source": "21世纪经济报道",
-            "time": "2026-11-07 07:22",
-            "link": "https://finance.eastmoney.com/a/202611073925278935.html"
+            "title": "美股科技股超跌反弹，热门中概股普涨",
+            "source": "上海证券报",
+            "time": "2026-11-07 08:33",
+            "link": "https://forex.eastmoney.com/a/202611073925454467.html"
           },
           {
-            "title": "美联储，加息大消息！美半导体芯片股反弹，中国资产走强",
-            "source": "大河财立方",
-            "time": "2026-11-07 07:11",
-            "link": "https://forex.eastmoney.com/a/202611073925279624.html"
+            "title": "美科技股，大反弹！美联储加息，新变数",
+            "source": "证券时报",
+            "time": "2026-11-07 08:04",
+            "link": "https://forex.eastmoney.com/a/202611073925450855.html"
           }
         ]
       }
@@ -1176,10 +1176,10 @@
             "link": "https://finance.eastmoney.com/a/202611063925193198.html"
           },
           {
-            "title": "港股通11月6日成交活跃股名单",
+            "title": "港股通净买入24.15亿港元",
             "source": "证券时报网",
             "time": "2026-11-06 22:46",
-            "link": "https://finance.eastmoney.com/a/202611063925197314.html"
+            "link": "https://finance.eastmoney.com/a/202611063925195354.html"
           }
         ]
       },
@@ -1188,22 +1188,22 @@
         "name": "阿里巴巴",
         "news": [
           {
-            "title": "中国资产反攻！小鹏、百度、B站、网易领涨",
-            "source": "券商中国",
-            "time": "2026-11-07 07:39",
-            "link": "https://finance.eastmoney.com/a/202611073925334833.html"
+            "title": "美股科技股超跌反弹，热门中概股普涨",
+            "source": "上海证券报",
+            "time": "2026-11-07 08:33",
+            "link": "https://forex.eastmoney.com/a/202611073925454467.html"
           },
           {
-            "title": "美股科技股大幅反弹，AI算力巨头狂飙20%，SpaceX大涨超8%，英特尔涨超7%，热门中概股普涨",
-            "source": "21世纪经济报道",
-            "time": "2026-11-07 07:22",
-            "link": "https://finance.eastmoney.com/a/202611073925278935.html"
+            "title": "美科技股，大反弹！美联储加息，新变数",
+            "source": "证券时报",
+            "time": "2026-11-07 08:04",
+            "link": "https://forex.eastmoney.com/a/202611073925450855.html"
           },
           {
-            "title": "美股收盘：AI概念股止跌反弹 纳指收涨1% 仍难逃周线四连跌",
-            "source": "财联社",
-            "time": "2026-11-07 06:26",
-            "link": "https://finance.eastmoney.com/a/202611073925269980.html"
+            "title": "科技股反攻！资金抄底芯片光通信板块爆发，AMD大涨超11%，原油创六年最大周跌幅",
+            "source": "第一财经",
+            "time": "2026-11-07 08:01",
+            "link": "https://finance.eastmoney.com/a/202611073925449887.html"
           }
         ]
       },
@@ -1224,10 +1224,10 @@
             "link": "https://finance.eastmoney.com/a/202611073925248843.html"
           },
           {
-            "title": "智谱获南向资金连续3天净买入",
+            "title": "港股通11月6日成交活跃股名单",
             "source": "证券时报网",
             "time": "2026-11-06 22:46",
-            "link": "https://finance.eastmoney.com/a/202611063925190829.html"
+            "link": "https://finance.eastmoney.com/a/202611063925197314.html"
           }
         ]
       },
@@ -1284,22 +1284,22 @@
         "name": "小米集团",
         "news": [
           {
-            "title": "多路增量资金稳步入市",
-            "source": "证券日报",
-            "time": "2026-11-07 07:52",
-            "link": "https://finance.eastmoney.com/a/202611073925240943.html"
+            "title": "新华财经早报：11月7日",
+            "source": "新华财经",
+            "time": "2026-11-07 08:51",
+            "link": "https://finance.eastmoney.com/a/202611073925454729.html"
           },
           {
-            "title": "百亿元级母基金密集设立",
-            "source": "证券日报",
-            "time": "2026-11-07 07:50",
-            "link": "https://finance.eastmoney.com/a/202611073925241255.html"
+            "title": "国产GPU竞争正从单卡性能转向系统能力",
+            "source": "中国经营报",
+            "time": "2026-11-07 08:45",
+            "link": "https://finance.eastmoney.com/a/202611073925453388.html"
           },
           {
-            "title": "大健康行业创新成果集中亮相",
-            "source": "证券日报",
-            "time": "2026-11-07 07:49",
-            "link": "https://finance.eastmoney.com/a/202611073925241467.html"
+            "title": "中国中车动车组订单井喷 存量路网撬动检修增长极",
+            "source": "中国经营报",
+            "time": "2026-11-07 08:44",
+            "link": "https://finance.eastmoney.com/a/202611073925453685.html"
           }
         ]
       }
@@ -1334,22 +1334,22 @@
         "name": "SK海力士",
         "news": [
           {
-            "title": "中国资产反攻！小鹏、百度、B站、网易领涨",
-            "source": "券商中国",
-            "time": "2026-11-07 07:39",
-            "link": "https://finance.eastmoney.com/a/202611073925334833.html"
+            "title": "科技早报 | 苹果首款触屏MacBook Pro开售即“破发”；英伟达、台积电、AMD、英特尔大涨",
+            "source": "界面新闻",
+            "time": "2026-11-07 08:45",
+            "link": "https://finance.eastmoney.com/a/202611073925454265.html"
           },
           {
-            "title": "美股科技股大幅反弹，AI算力巨头狂飙20%，SpaceX大涨超8%，英特尔涨超7%，热门中概股普涨",
-            "source": "21世纪经济报道",
-            "time": "2026-11-07 07:22",
-            "link": "https://finance.eastmoney.com/a/202611073925278935.html"
+            "title": "美股科技股超跌反弹，热门中概股普涨",
+            "source": "上海证券报",
+            "time": "2026-11-07 08:33",
+            "link": "https://forex.eastmoney.com/a/202611073925454467.html"
           },
           {
-            "title": "美股收盘：三大指数分化 纳指涨逾1%；半导体大反弹 超威半导体涨11%；存储芯片走强 美光科技涨逾5%；黄金股全线收涨；金银下跌",
-            "source": "中新经纬",
-            "time": "2026-11-07 06:36",
-            "link": "https://forex.eastmoney.com/a/202611073925270529.html"
+            "title": "美科技股，大反弹！美联储加息，新变数",
+            "source": "证券时报",
+            "time": "2026-11-07 08:04",
+            "link": "https://forex.eastmoney.com/a/202611073925450855.html"
           }
         ]
       },
@@ -1358,22 +1358,22 @@
         "name": "韩美半导体",
         "news": [
           {
-            "title": "年内129家公募逾360亿元打新 电子行业受青睐",
-            "source": "经济参考报",
-            "time": "2026-11-07 07:54",
-            "link": "https://finance.eastmoney.com/a/202611063925185026.html"
+            "title": "“易中天”都说经营正常 光还值得拥有吗",
+            "source": "IPO日报",
+            "time": "2026-11-07 08:49",
+            "link": "https://finance.eastmoney.com/a/202611073925452829.html"
           },
           {
-            "title": "百亿元级母基金密集设立",
-            "source": "证券日报",
-            "time": "2026-11-07 07:50",
-            "link": "https://finance.eastmoney.com/a/202611073925241255.html"
+            "title": "科技早报 | 苹果首款触屏MacBook Pro开售即“破发”；英伟达、台积电、AMD、英特尔大涨",
+            "source": "界面新闻",
+            "time": "2026-11-07 08:45",
+            "link": "https://finance.eastmoney.com/a/202611073925454265.html"
           },
           {
-            "title": "工业气体公司聚力布局电子特气赛道",
-            "source": "证券日报",
-            "time": "2026-11-07 07:44",
-            "link": "https://finance.eastmoney.com/a/202611073925240583.html"
+            "title": "中金公司刘刚：恒生科技走出颓势 仍需等待两大催化",
+            "source": "21世纪经济报道",
+            "time": "2026-11-07 08:41",
+            "link": "https://finance.eastmoney.com/a/202611063925225878.html"
           }
         ]
       },
@@ -1408,22 +1408,22 @@
         "name": "中际旭创",
         "news": [
           {
+            "title": "“易中天”都说经营正常 光还值得拥有吗",
+            "source": "IPO日报",
+            "time": "2026-11-07 08:49",
+            "link": "https://finance.eastmoney.com/a/202611073925452829.html"
+          },
+          {
+            "title": "本周十大牛熊股出炉：贝特利涨超80%，ST豆神、*ST亿晶、浙文影业等涨超60%；奥精医疗跌超50%",
+            "source": "中新经纬",
+            "time": "2026-11-07 08:09",
+            "link": "https://finance.eastmoney.com/a/202611073925450366.html"
+          },
+          {
             "title": "机构调研热度居高不下 科技企业力证AI需求持续旺盛",
             "source": "证券时报",
             "time": "2026-11-07 07:18",
             "link": "https://finance.eastmoney.com/a/202611073925245787.html"
-          },
-          {
-            "title": "外盘科技股大幅调整引发担忧 机构：A股科技叙事相对独立",
-            "source": "上海证券报",
-            "time": "2026-11-07 07:10",
-            "link": "https://finance.eastmoney.com/a/202611073925248689.html"
-          },
-          {
-            "title": "“硬科技”密集回购增持意味着什么",
-            "source": "上海证券报",
-            "time": "2026-11-07 07:04",
-            "link": "https://finance.eastmoney.com/a/202611073925248843.html"
           }
         ]
       },
@@ -1432,22 +1432,22 @@
         "name": "新易盛",
         "news": [
           {
+            "title": "“易中天”都说经营正常 光还值得拥有吗",
+            "source": "IPO日报",
+            "time": "2026-11-07 08:49",
+            "link": "https://finance.eastmoney.com/a/202611073925452829.html"
+          },
+          {
+            "title": "A股股票回购一览：38家公司披露回购进展",
+            "source": "每日经济新闻",
+            "time": "2026-11-07 08:39",
+            "link": "https://finance.eastmoney.com/a/202611073925454365.html"
+          },
+          {
             "title": "外盘科技股大幅调整引发担忧 机构：A股科技叙事相对独立",
             "source": "上海证券报",
             "time": "2026-11-07 07:10",
             "link": "https://finance.eastmoney.com/a/202611073925248689.html"
-          },
-          {
-            "title": "“硬科技”密集回购增持意味着什么",
-            "source": "上海证券报",
-            "time": "2026-11-07 07:04",
-            "link": "https://finance.eastmoney.com/a/202611073925248843.html"
-          },
-          {
-            "title": "“易中天”前三季度合计赚350亿元 9月下旬以来股价均近“腰斩”",
-            "source": "中国经营网",
-            "time": "2026-11-07 03:10",
-            "link": "https://finance.eastmoney.com/a/202611073925252688.html"
           }
         ]
       },
@@ -1456,22 +1456,22 @@
         "name": "天孚通信",
         "news": [
           {
+            "title": "“易中天”都说经营正常 光还值得拥有吗",
+            "source": "IPO日报",
+            "time": "2026-11-07 08:49",
+            "link": "https://finance.eastmoney.com/a/202611073925452829.html"
+          },
+          {
+            "title": "本周十大牛熊股出炉：贝特利涨超80%，ST豆神、*ST亿晶、浙文影业等涨超60%；奥精医疗跌超50%",
+            "source": "中新经纬",
+            "time": "2026-11-07 08:09",
+            "link": "https://finance.eastmoney.com/a/202611073925450366.html"
+          },
+          {
             "title": "外盘科技股大幅调整引发担忧 机构：A股科技叙事相对独立",
             "source": "上海证券报",
             "time": "2026-11-07 07:10",
             "link": "https://finance.eastmoney.com/a/202611073925248689.html"
-          },
-          {
-            "title": "“硬科技”密集回购增持意味着什么",
-            "source": "上海证券报",
-            "time": "2026-11-07 07:04",
-            "link": "https://finance.eastmoney.com/a/202611073925248843.html"
-          },
-          {
-            "title": "“易中天”前三季度合计赚350亿元 9月下旬以来股价均近“腰斩”",
-            "source": "中国经营网",
-            "time": "2026-11-07 03:10",
-            "link": "https://finance.eastmoney.com/a/202611073925252688.html"
           }
         ]
       },
@@ -1528,22 +1528,22 @@
         "name": "长鑫科技",
         "news": [
           {
+            "title": "应健中：央行稳市工具再升级 长效机制将夯实A股底部",
+            "source": "金融投资报",
+            "time": "2026-11-07 08:55",
+            "link": "https://finance.eastmoney.com/a/202611073925454897.html"
+          },
+          {
+            "title": "本周十大牛熊股出炉：贝特利涨超80%，ST豆神、*ST亿晶、浙文影业等涨超60%；奥精医疗跌超50%",
+            "source": "中新经纬",
+            "time": "2026-11-07 08:09",
+            "link": "https://finance.eastmoney.com/a/202611073925450366.html"
+          },
+          {
             "title": "年内129家公募逾360亿元打新 电子行业受青睐",
             "source": "经济参考报",
             "time": "2026-11-07 07:54",
             "link": "https://finance.eastmoney.com/a/202611063925185026.html"
-          },
-          {
-            "title": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
-            "source": "上海证券报",
-            "time": "2026-11-07 07:09",
-            "link": "https://finance.eastmoney.com/a/202611073925249152.html"
-          },
-          {
-            "title": "“硬科技”密集回购增持意味着什么",
-            "source": "上海证券报",
-            "time": "2026-11-07 07:04",
-            "link": "https://finance.eastmoney.com/a/202611073925248843.html"
           }
         ]
       },
