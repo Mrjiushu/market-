@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-24 02:44:02",
-  "updated_iso": "2026-11-24T02:44:02+08:00",
+  "updated": "2026-11-24 08:35:13",
+  "updated_iso": "2026-11-24T08:35:13+08:00",
   "timezone": "Asia/Shanghai",
   "markets": [
     {
       "key": "us",
       "name": "美股",
       "data_date": "2026-11-23",
-      "expected_date": "2026-11-20",
+      "expected_date": "2026-11-23",
       "stale": false,
       "items": [
         {
@@ -16,8 +16,8 @@
           "type": "index",
           "category": "",
           "available": true,
-          "close": 7237.22,
-          "change": 326.83,
+          "close": 7237.17,
+          "change": 326.78,
           "change_pct": 4.73,
           "date": "2026-11-23",
           "source": "yfinance"
@@ -28,9 +28,9 @@
           "type": "index",
           "category": "",
           "available": true,
-          "close": 24096.99,
-          "change": 1479.26,
-          "change_pct": 6.54,
+          "close": 24089.56,
+          "change": 1471.83,
+          "change_pct": 6.51,
           "date": "2026-11-23",
           "source": "yfinance"
         },
@@ -40,9 +40,9 @@
           "type": "index",
           "category": "",
           "available": true,
-          "close": 49626.19,
-          "change": 1478.86,
-          "change_pct": 3.07,
+          "close": 49595.31,
+          "change": 1447.98,
+          "change_pct": 3.01,
           "date": "2026-11-23",
           "source": "yfinance"
         },
@@ -52,9 +52,9 @@
           "type": "stock",
           "category": "AI芯片",
           "available": true,
-          "close": 164.32,
-          "change": 38.79,
-          "change_pct": 30.9,
+          "close": 165.05,
+          "change": 39.52,
+          "change_pct": 31.48,
           "date": "2026-11-23",
           "source": "yfinance"
         },
@@ -64,9 +64,9 @@
           "type": "stock",
           "category": "AI芯片",
           "available": true,
-          "close": 310.59,
-          "change": 6.18,
-          "change_pct": 2.03,
+          "close": 313.55,
+          "change": 9.14,
+          "change_pct": 3.0,
           "date": "2026-11-23",
           "source": "yfinance"
         },
@@ -76,9 +76,9 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 703.38,
-          "change": 108.87,
-          "change_pct": 18.31,
+          "close": 707.7,
+          "change": 113.19,
+          "change_pct": 19.04,
           "date": "2026-11-23",
           "source": "yfinance"
         },
@@ -88,9 +88,9 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 298.5,
-          "change": 37.39,
-          "change_pct": 14.32,
+          "close": 297.25,
+          "change": 36.14,
+          "change_pct": 13.84,
           "date": "2026-11-23",
           "source": "yfinance"
         },
@@ -100,9 +100,9 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 89.3,
-          "change": -5.1,
-          "change_pct": -5.4,
+          "close": 87.71,
+          "change": -6.68,
+          "change_pct": -7.08,
           "date": "2026-11-23",
           "source": "yfinance"
         },
@@ -112,9 +112,9 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 496.4,
-          "change": 11.88,
-          "change_pct": 2.45,
+          "close": 492.5,
+          "change": 7.98,
+          "change_pct": 1.65,
           "date": "2026-11-23",
           "source": "yfinance"
         },
@@ -124,9 +124,9 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 283.32,
-          "change": 18.03,
-          "change_pct": 6.8,
+          "close": 282.1,
+          "change": 16.81,
+          "change_pct": 6.34,
           "date": "2026-11-23",
           "source": "yfinance"
         },
@@ -136,9 +136,9 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 597.76,
-          "change": 36.92,
-          "change_pct": 6.58,
+          "close": 597.6,
+          "change": 36.76,
+          "change_pct": 6.55,
           "date": "2026-11-23",
           "source": "yfinance"
         },
@@ -148,9 +148,9 @@
           "type": "stock",
           "category": "光模块",
           "available": true,
-          "close": 214.45,
-          "change": 27.23,
-          "change_pct": 14.54,
+          "close": 215.81,
+          "change": 28.59,
+          "change_pct": 15.27,
           "date": "2026-11-23",
           "source": "yfinance"
         },
@@ -160,9 +160,9 @@
           "type": "stock",
           "category": "光模块",
           "available": true,
-          "close": 540.43,
-          "change": 79.89,
-          "change_pct": 17.35,
+          "close": 544.38,
+          "change": 83.84,
+          "change_pct": 18.2,
           "date": "2026-11-23",
           "source": "yfinance"
         }
@@ -171,7 +171,7 @@
     {
       "key": "hk",
       "name": "港股",
-      "data_date": "2026-11-23",
+      "data_date": "2026-11-24",
       "expected_date": "2026-11-23",
       "stale": false,
       "items": [
@@ -184,8 +184,8 @@
           "close": 22383.74,
           "change": -27.06,
           "change_pct": -0.12,
-          "date": "2026-11-23",
-          "source": "sina"
+          "date": "2026-11-24",
+          "source": "yfinance"
         },
         {
           "symbol": "^HSTECH",
@@ -276,7 +276,7 @@
     {
       "key": "kr",
       "name": "韩股",
-      "data_date": "2026-11-23",
+      "data_date": "2026-11-24",
       "expected_date": "2026-11-23",
       "stale": false,
       "items": [
@@ -286,10 +286,10 @@
           "type": "index",
           "category": "",
           "available": true,
-          "close": 4708.54,
-          "change": -161.42,
-          "change_pct": -3.31,
-          "date": "2026-11-23",
+          "close": 4977.65,
+          "change": 107.69,
+          "change_pct": 2.21,
+          "date": "2026-11-24",
           "source": "yfinance"
         },
         {
@@ -298,10 +298,10 @@
           "type": "index",
           "category": "",
           "available": true,
-          "close": 635.45,
-          "change": -10.23,
-          "change_pct": -1.58,
-          "date": "2026-11-23",
+          "close": 662.22,
+          "change": 16.54,
+          "change_pct": 2.56,
+          "date": "2026-11-24",
           "source": "yfinance"
         },
         {
@@ -310,10 +310,10 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 177500.0,
-          "change": -5600.0,
-          "change_pct": -3.06,
-          "date": "2026-11-23",
+          "close": 189900.0,
+          "change": 12400.0,
+          "change_pct": 6.99,
+          "date": "2026-11-24",
           "source": "yfinance"
         },
         {
@@ -322,10 +322,10 @@
           "type": "stock",
           "category": "存储",
           "available": true,
-          "close": 1085000.0,
-          "change": -28000.0,
-          "change_pct": -2.52,
-          "date": "2026-11-23",
+          "close": 1172000.0,
+          "change": 87000.0,
+          "change_pct": 8.02,
+          "date": "2026-11-24",
           "source": "yfinance"
         },
         {
@@ -334,10 +334,10 @@
           "type": "stock",
           "category": "AI芯片",
           "available": true,
-          "close": 150800.0,
-          "change": -3000.0,
-          "change_pct": -1.95,
-          "date": "2026-11-23",
+          "close": 164800.0,
+          "change": 14000.0,
+          "change_pct": 9.28,
+          "date": "2026-11-24",
           "source": "yfinance"
         },
         {
@@ -346,10 +346,10 @@
           "type": "stock",
           "category": "大模型",
           "available": true,
-          "close": 150000.0,
-          "change": -11600.0,
-          "change_pct": -7.18,
-          "date": "2026-11-23",
+          "close": 157800.0,
+          "change": 7800.0,
+          "change_pct": 5.2,
+          "date": "2026-11-24",
           "source": "yfinance"
         }
       ]
@@ -357,7 +357,7 @@
     {
       "key": "cn",
       "name": "A股",
-      "data_date": "2026-11-23",
+      "data_date": "2026-11-24",
       "expected_date": "2026-11-23",
       "stale": false,
       "items": [
@@ -370,8 +370,8 @@
           "close": 3538.95,
           "change": 5.16,
           "change_pct": 0.15,
-          "date": "2026-11-23",
-          "source": "sina"
+          "date": "2026-11-24",
+          "source": "yfinance"
         },
         {
           "symbol": "000688.SS",
@@ -513,15 +513,11 @@
       "symbol": "CNY=X",
       "name": "美元/人民币",
       "pair": "USD/CNY",
-      "rate": 6.6638,
-      "change": -0.0027,
-      "change_pct": -0.04,
-      "date": "2026-11-23",
+      "rate": 6.6548,
+      "change": -0.0222,
+      "change_pct": -0.33,
+      "date": "2026-11-24",
       "history": [
-        [
-          "2026-10-12",
-          6.692
-        ],
         [
           "2026-10-13",
           6.692
@@ -640,7 +636,11 @@
         ],
         [
           "2026-11-23",
-          6.6638
+          6.677
+        ],
+        [
+          "2026-11-24",
+          6.6548
         ]
       ]
     },
@@ -648,15 +648,11 @@
       "symbol": "JPY=X",
       "name": "美元/日元",
       "pair": "USD/JPY",
-      "rate": 159.16,
-      "change": -0.542,
-      "change_pct": -0.34,
-      "date": "2026-11-23",
+      "rate": 159.07,
+      "change": 0.135,
+      "change_pct": 0.08,
+      "date": "2026-11-24",
       "history": [
-        [
-          "2026-10-12",
-          158.2
-        ],
         [
           "2026-10-13",
           158.52
@@ -775,7 +771,11 @@
         ],
         [
           "2026-11-23",
-          159.16
+          158.93
+        ],
+        [
+          "2026-11-24",
+          159.07
         ]
       ]
     },
@@ -783,15 +783,11 @@
       "symbol": "KRW=X",
       "name": "美元/韩元",
       "pair": "USD/KRW",
-      "rate": 1342.26,
-      "change": 7.47,
-      "change_pct": 0.56,
-      "date": "2026-11-23",
+      "rate": 1341.41,
+      "change": -2.9,
+      "change_pct": -0.22,
+      "date": "2026-11-24",
       "history": [
-        [
-          "2026-10-12",
-          1340.84
-        ],
         [
           "2026-10-13",
           1334.13
@@ -910,7 +906,11 @@
         ],
         [
           "2026-11-23",
-          1342.26
+          1344.31
+        ],
+        [
+          "2026-11-24",
+          1341.41
         ]
       ]
     }
@@ -922,22 +922,22 @@
         "name": "英伟达",
         "news": [
           {
-            "title": "黄仁勋将于12月3日出席美国参议院银行委员会听证会",
-            "source": "第一财经",
-            "time": "2026-11-24 02:11",
-            "link": "https://finance.eastmoney.com/a/202611243937744977.html"
+            "title": "A股盘前速览：黄仁勋复职英伟达暴涨31%，美股三大指数收涨，纳指大涨6.51%；中际旭创、摩尔线程拟大手笔回购；国际油价下跌，金价上扬",
+            "source": "中新经纬",
+            "time": "2026-11-24 08:29",
+            "link": "https://finance.eastmoney.com/a/202611243938017062.html"
           },
           {
-            "title": "美股三大指数集体大涨 纳指涨近7% 英伟达涨逾30%",
-            "source": "东方财富Choice数据",
-            "time": "2026-11-24 02:07",
-            "link": "https://finance.eastmoney.com/a/202611233937627539.html"
+            "title": "中信证券：《GTA VI》首发创纪录，互动影游与春节档催化接续",
+            "source": "界面新闻",
+            "time": "2026-11-24 08:28",
+            "link": "https://finance.eastmoney.com/a/202611243938015169.html"
           },
           {
-            "title": "据报道 英伟达董事会将黄仁勋复职的决定此前未征询公司高级管理层意见",
-            "source": "财联社",
-            "time": "2026-11-24 01:54",
-            "link": "https://finance.eastmoney.com/a/202611243937744567.html"
+            "title": "早报丨特朗普、万斯及“其他相关方”亲自介入，黄仁勋重新担任英伟达CEO；马斯克承认AI研发落后对手，Arm CEO承诺执掌公司至2033年；小米今日发业绩",
+            "source": "哈富证券",
+            "time": "2026-11-24 08:28",
+            "link": "https://hk.eastmoney.com/a/202611243938014211.html"
           }
         ]
       },
@@ -946,22 +946,22 @@
         "name": "博通",
         "news": [
           {
-            "title": "零售支付收缩、跨境结算走强，支付体系风向变了？",
-            "source": "国际金融报",
-            "time": "2026-11-24 00:29",
-            "link": "https://forex.eastmoney.com/a/202611243937728959.html"
+            "title": "黄仁勋回归引爆美股反弹！纳指狂飙6.5%，科技股全线上扬",
+            "source": "澎湃新闻",
+            "time": "2026-11-24 08:26",
+            "link": "https://finance.eastmoney.com/a/202611243938016668.html"
           },
           {
-            "title": "年内10家持牌支付机构“离场”",
-            "source": "证券日报",
-            "time": "2026-11-24 00:26",
-            "link": "https://bank.eastmoney.com/a/202611243937736428.html"
+            "title": "端侧AI催化窗口密集来临 产业链厂商有望迎估值与业绩的双重重估",
+            "source": "财联社",
+            "time": "2026-11-24 08:26",
+            "link": "https://finance.eastmoney.com/a/202611243937992949.html"
           },
           {
-            "title": "黄仁勋复职 芯片股集体暴涨",
-            "source": "第一财经",
-            "time": "2026-11-23 23:39",
-            "link": "https://finance.eastmoney.com/a/202611233937702485.html"
+            "title": "美股全线暴涨，科技股猛拉，英伟达市值一夜大增超6万亿元！特朗普：是我促成了“黄仁勋回归”，我跟英伟达董事会谈过，说服了他们",
+            "source": "每日经济新闻",
+            "time": "2026-11-24 07:42",
+            "link": "https://finance.eastmoney.com/a/202611243937887890.html"
           }
         ]
       },
@@ -970,22 +970,22 @@
         "name": "美光科技",
         "news": [
           {
-            "title": "美股三大指数集体大涨 纳指涨近7% 英伟达涨逾30%",
-            "source": "东方财富Choice数据",
-            "time": "2026-11-24 02:07",
-            "link": "https://finance.eastmoney.com/a/202611233937627539.html"
+            "title": "A股盘前速览：黄仁勋复职英伟达暴涨31%，美股三大指数收涨，纳指大涨6.51%；中际旭创、摩尔线程拟大手笔回购；国际油价下跌，金价上扬",
+            "source": "中新经纬",
+            "time": "2026-11-24 08:29",
+            "link": "https://finance.eastmoney.com/a/202611243938017062.html"
           },
           {
-            "title": "芯片股全线大涨，SK海力士涨20.26%",
-            "source": "第一财经",
-            "time": "2026-11-24 00:51",
-            "link": "https://finance.eastmoney.com/a/202611243937732692.html"
+            "title": "早报丨特朗普、万斯及“其他相关方”亲自介入，黄仁勋重新担任英伟达CEO；马斯克承认AI研发落后对手，Arm CEO承诺执掌公司至2033年；小米今日发业绩",
+            "source": "哈富证券",
+            "time": "2026-11-24 08:28",
+            "link": "https://hk.eastmoney.com/a/202611243938014211.html"
           },
           {
-            "title": "黄仁勋回归英伟达，中国企业更应抓紧自主创新",
-            "source": "第一财经",
-            "time": "2026-11-24 00:46",
-            "link": "https://finance.eastmoney.com/a/202611243937729275.html"
+            "title": "美股AI存储板块大幅上涨，SK海力士大涨20%丨美股复盘",
+            "source": "21世纪经济报道",
+            "time": "2026-11-24 08:27",
+            "link": "https://finance.eastmoney.com/a/202611243938016938.html"
           }
         ]
       },
@@ -994,22 +994,22 @@
         "name": "西部数据",
         "news": [
           {
-            "title": "美股三大指数集体大涨 纳指涨近7% 英伟达涨逾30%",
-            "source": "东方财富Choice数据",
-            "time": "2026-11-24 02:07",
-            "link": "https://finance.eastmoney.com/a/202611233937627539.html"
+            "title": "A股盘前速览：黄仁勋复职英伟达暴涨31%，美股三大指数收涨，纳指大涨6.51%；中际旭创、摩尔线程拟大手笔回购；国际油价下跌，金价上扬",
+            "source": "中新经纬",
+            "time": "2026-11-24 08:29",
+            "link": "https://finance.eastmoney.com/a/202611243938017062.html"
           },
           {
-            "title": "黄仁勋复职 芯片股集体暴涨",
-            "source": "第一财经",
-            "time": "2026-11-23 23:39",
-            "link": "https://finance.eastmoney.com/a/202611233937702485.html"
+            "title": "一觉醒来，大反攻！“黄仁勋行情”引爆美股，特朗普：是我说服了英伟达；马斯克评价：错误已经被纠正",
+            "source": "华夏时报",
+            "time": "2026-11-24 08:17",
+            "link": "https://finance.eastmoney.com/a/202611243938014571.html"
           },
           {
-            "title": "黄仁勋复职！英伟达市值暴增1万亿美元、纳指涨超6%",
-            "source": "界面新闻",
-            "time": "2026-11-23 23:17",
-            "link": "https://finance.eastmoney.com/a/202611233937677581.html"
+            "title": "日韩股市开盘，双双上涨",
+            "source": "中新经纬",
+            "time": "2026-11-24 08:08",
+            "link": "https://finance.eastmoney.com/a/202611243937992195.html"
           }
         ]
       },
@@ -1018,22 +1018,22 @@
         "name": "闪迪",
         "news": [
           {
-            "title": "美股三大指数集体大涨 纳指涨近7% 英伟达涨逾30%",
-            "source": "东方财富Choice数据",
-            "time": "2026-11-24 02:07",
-            "link": "https://finance.eastmoney.com/a/202611233937627539.html"
+            "title": "A股盘前速览：黄仁勋复职英伟达暴涨31%，美股三大指数收涨，纳指大涨6.51%；中际旭创、摩尔线程拟大手笔回购；国际油价下跌，金价上扬",
+            "source": "中新经纬",
+            "time": "2026-11-24 08:29",
+            "link": "https://finance.eastmoney.com/a/202611243938017062.html"
           },
           {
-            "title": "芯片股全线大涨，SK海力士涨20.26%",
-            "source": "第一财经",
-            "time": "2026-11-24 00:51",
-            "link": "https://finance.eastmoney.com/a/202611243937732692.html"
+            "title": "一觉醒来，大反攻！“黄仁勋行情”引爆美股，特朗普：是我说服了英伟达；马斯克评价：错误已经被纠正",
+            "source": "华夏时报",
+            "time": "2026-11-24 08:17",
+            "link": "https://finance.eastmoney.com/a/202611243938014571.html"
           },
           {
-            "title": "黄仁勋重掌英伟达，全球AI产业链压力缓和",
-            "source": "广州日报",
-            "time": "2026-11-24 00:05",
-            "link": "https://finance.eastmoney.com/a/202611243937721749.html"
+            "title": "日韩股市开盘，双双上涨",
+            "source": "中新经纬",
+            "time": "2026-11-24 08:08",
+            "link": "https://finance.eastmoney.com/a/202611243937992195.html"
           }
         ]
       },
@@ -1042,22 +1042,22 @@
         "name": "微软",
         "news": [
           {
-            "title": "龙头科技股纷纷上涨，特斯拉大涨12.34%",
-            "source": "第一财经",
-            "time": "2026-11-24 00:43",
-            "link": "https://finance.eastmoney.com/a/202611243937730260.html"
+            "title": "黄仁勋回归引爆美股反弹！纳指狂飙6.5%，科技股全线上扬",
+            "source": "澎湃新闻",
+            "time": "2026-11-24 08:26",
+            "link": "https://finance.eastmoney.com/a/202611243938016668.html"
           },
           {
-            "title": "新浪新闻·2026探索大会举行 虚实交融共探智能时代共生新图景",
-            "source": "21世纪经济报道",
-            "time": "2026-11-24 00:02",
-            "link": "https://finance.eastmoney.com/a/202611243937715286.html"
+            "title": "影石宣布云台相机涨价",
+            "source": "新京报",
+            "time": "2026-11-24 08:20",
+            "link": "https://finance.eastmoney.com/a/202611233937512128.html"
           },
           {
-            "title": "黄仁勋回归，英伟达暴涨：华尔街究竟在为什么买单？",
-            "source": "第一财经",
-            "time": "2026-11-23 23:56",
-            "link": "https://finance.eastmoney.com/a/202611233937711943.html"
+            "title": "一觉醒来，大反攻！“黄仁勋行情”引爆美股，特朗普：是我说服了英伟达；马斯克评价：错误已经被纠正",
+            "source": "华夏时报",
+            "time": "2026-11-24 08:17",
+            "link": "https://finance.eastmoney.com/a/202611243938014571.html"
           }
         ]
       },
@@ -1066,22 +1066,22 @@
         "name": "谷歌",
         "news": [
           {
-            "title": "亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达",
-            "source": "财联社",
-            "time": "2026-11-24 01:27",
-            "link": "https://finance.eastmoney.com/a/202611243937740493.html"
+            "title": "早报丨特朗普、万斯及“其他相关方”亲自介入，黄仁勋重新担任英伟达CEO；马斯克承认AI研发落后对手，Arm CEO承诺执掌公司至2033年；小米今日发业绩",
+            "source": "哈富证券",
+            "time": "2026-11-24 08:28",
+            "link": "https://hk.eastmoney.com/a/202611243938014211.html"
           },
           {
-            "title": "龙头科技股纷纷上涨，特斯拉大涨12.34%",
-            "source": "第一财经",
-            "time": "2026-11-24 00:43",
-            "link": "https://finance.eastmoney.com/a/202611243937730260.html"
+            "title": "黄仁勋回归引爆美股反弹！纳指狂飙6.5%，科技股全线上扬",
+            "source": "澎湃新闻",
+            "time": "2026-11-24 08:26",
+            "link": "https://finance.eastmoney.com/a/202611243938016668.html"
           },
           {
-            "title": "分析师：英伟达需设置更多公司治理风险“缓冲垫”",
-            "source": "第一财经",
-            "time": "2026-11-24 00:32",
-            "link": "https://finance.eastmoney.com/a/202611243937727716.html"
+            "title": "英伟达市值暴增近万亿美元！黄仁勋如何上演王者归来 他会成为更好的CEO吗？",
+            "source": "澎湃新闻",
+            "time": "2026-11-24 08:22",
+            "link": "https://finance.eastmoney.com/a/202611243938014717.html"
           }
         ]
       },
@@ -1090,22 +1090,22 @@
         "name": "Meta",
         "news": [
           {
-            "title": "美股三大指数集体大涨 纳指涨近7% 英伟达涨逾30%",
-            "source": "东方财富Choice数据",
-            "time": "2026-11-24 02:07",
-            "link": "https://finance.eastmoney.com/a/202611233937627539.html"
+            "title": "早报丨特朗普、万斯及“其他相关方”亲自介入，黄仁勋重新担任英伟达CEO；马斯克承认AI研发落后对手，Arm CEO承诺执掌公司至2033年；小米今日发业绩",
+            "source": "哈富证券",
+            "time": "2026-11-24 08:28",
+            "link": "https://hk.eastmoney.com/a/202611243938014211.html"
           },
           {
-            "title": "研究人员正利用Meta的开放权重AI模型推动医学变革",
-            "source": "财联社",
-            "time": "2026-11-24 02:04",
-            "link": "https://finance.eastmoney.com/a/202611243937744665.html"
+            "title": "英伟达市值暴增近万亿美元！黄仁勋如何上演王者归来 他会成为更好的CEO吗？",
+            "source": "澎湃新闻",
+            "time": "2026-11-24 08:22",
+            "link": "https://finance.eastmoney.com/a/202611243938014717.html"
           },
           {
-            "title": "亚马逊据悉斥资约75亿美元收购Decart技术与团队 加码Trainium芯片挑战英伟达",
-            "source": "财联社",
-            "time": "2026-11-24 01:27",
-            "link": "https://finance.eastmoney.com/a/202611243937740493.html"
+            "title": "一觉醒来，大反攻！“黄仁勋行情”引爆美股，特朗普：是我说服了英伟达；马斯克评价：错误已经被纠正",
+            "source": "华夏时报",
+            "time": "2026-11-24 08:17",
+            "link": "https://finance.eastmoney.com/a/202611243938014571.html"
           }
         ]
       },
@@ -1114,22 +1114,22 @@
         "name": "Coherent",
         "news": [
           {
+            "title": "见证历史！一觉醒来，大反攻！英伟达史诗级暴涨，AI全线爆发",
+            "source": "中国基金报",
+            "time": "2026-11-24 07:53",
+            "link": "https://finance.eastmoney.com/a/202611243937969082.html"
+          },
+          {
+            "title": "美股深夜大爆发 道指、纳指涨超1400点 英伟达暴涨超31%",
+            "source": "21世纪经济报道",
+            "time": "2026-11-24 07:20",
+            "link": "https://finance.eastmoney.com/a/202611243937791387.html"
+          },
+          {
             "title": "黄仁勋复职 芯片股集体暴涨",
             "source": "第一财经",
             "time": "2026-11-23 23:39",
             "link": "https://finance.eastmoney.com/a/202611233937702485.html"
-          },
-          {
-            "title": "从辞职到复职仅11天：分析师称黄仁勋回归是董事会和市场的唯一选择",
-            "source": "第一财经",
-            "time": "2026-11-23 23:09",
-            "link": "https://finance.eastmoney.com/a/202611233937671678.html"
-          },
-          {
-            "title": "恐慌指数大跳水！市场情绪回暖",
-            "source": "券商中国",
-            "time": "2026-11-23 21:00",
-            "link": "https://finance.eastmoney.com/a/202611233937535355.html"
           }
         ]
       },
@@ -1138,22 +1138,22 @@
         "name": "Lumentum",
         "news": [
           {
-            "title": "黄仁勋复职 芯片股集体暴涨",
-            "source": "第一财经",
-            "time": "2026-11-23 23:39",
-            "link": "https://finance.eastmoney.com/a/202611233937702485.html"
+            "title": "早报丨特朗普、万斯及“其他相关方”亲自介入，黄仁勋重新担任英伟达CEO；马斯克承认AI研发落后对手，Arm CEO承诺执掌公司至2033年；小米今日发业绩",
+            "source": "哈富证券",
+            "time": "2026-11-24 08:28",
+            "link": "https://hk.eastmoney.com/a/202611243938014211.html"
           },
           {
-            "title": "从辞职到复职仅11天：分析师称黄仁勋回归是董事会和市场的唯一选择",
-            "source": "第一财经",
-            "time": "2026-11-23 23:09",
-            "link": "https://finance.eastmoney.com/a/202611233937671678.html"
+            "title": "英伟达市值暴增近万亿美元！黄仁勋如何上演王者归来 他会成为更好的CEO吗？",
+            "source": "澎湃新闻",
+            "time": "2026-11-24 08:22",
+            "link": "https://finance.eastmoney.com/a/202611243938014717.html"
           },
           {
-            "title": "英伟达 盘前大涨8%！利好来了？",
-            "source": "中国证券报",
-            "time": "2026-11-23 21:33",
-            "link": "https://finance.eastmoney.com/a/202611233937567441.html"
+            "title": "一觉醒来，大反攻！“黄仁勋行情”引爆美股，特朗普：是我说服了英伟达；马斯克评价：错误已经被纠正",
+            "source": "华夏时报",
+            "time": "2026-11-24 08:17",
+            "link": "https://finance.eastmoney.com/a/202611243938014571.html"
           }
         ]
       }
@@ -1164,22 +1164,22 @@
         "name": "腾讯控股",
         "news": [
           {
+            "title": "早报丨特朗普、万斯及“其他相关方”亲自介入，黄仁勋重新担任英伟达CEO；马斯克承认AI研发落后对手，Arm CEO承诺执掌公司至2033年；小米今日发业绩",
+            "source": "哈富证券",
+            "time": "2026-11-24 08:28",
+            "link": "https://hk.eastmoney.com/a/202611243938014211.html"
+          },
+          {
+            "title": "隔夜欧美·11月24日",
+            "source": "大河财立方",
+            "time": "2026-11-24 07:29",
+            "link": "https://bond.eastmoney.com/a/202611243937884045.html"
+          },
+          {
             "title": "回购升温、外资回补、“北水”提速 三路增量资金近期稳步入场港股",
             "source": "上海证券报",
-            "time": "2026-11-24 01:41",
+            "time": "2026-11-24 07:16",
             "link": "https://finance.eastmoney.com/a/202611243937740841.html"
-          },
-          {
-            "title": "港股通11月23日成交活跃股名单",
-            "source": "证券时报网",
-            "time": "2026-11-23 22:16",
-            "link": "https://finance.eastmoney.com/a/202611233937620611.html"
-          },
-          {
-            "title": "11月23日南向资金净卖出96.27亿港元",
-            "source": "证券时报网",
-            "time": "2026-11-23 22:15",
-            "link": "https://finance.eastmoney.com/a/202611233937622491.html"
           }
         ]
       },
@@ -1188,22 +1188,22 @@
         "name": "阿里巴巴",
         "news": [
           {
-            "title": "黄仁勋回归英伟达，中国企业更应抓紧自主创新",
-            "source": "第一财经",
-            "time": "2026-11-24 00:46",
-            "link": "https://finance.eastmoney.com/a/202611243937729275.html"
+            "title": "早报丨特朗普、万斯及“其他相关方”亲自介入，黄仁勋重新担任英伟达CEO；马斯克承认AI研发落后对手，Arm CEO承诺执掌公司至2033年；小米今日发业绩",
+            "source": "哈富证券",
+            "time": "2026-11-24 08:28",
+            "link": "https://hk.eastmoney.com/a/202611243938014211.html"
           },
           {
-            "title": "黄仁勋复职 芯片股集体暴涨",
-            "source": "第一财经",
-            "time": "2026-11-23 23:39",
-            "link": "https://finance.eastmoney.com/a/202611233937702485.html"
+            "title": "黄仁勋回归引爆美股反弹！纳指狂飙6.5%，科技股全线上扬",
+            "source": "澎湃新闻",
+            "time": "2026-11-24 08:26",
+            "link": "https://finance.eastmoney.com/a/202611243938016668.html"
           },
           {
-            "title": "国民火腿肠将易主 德弘资本将联手淡马锡收购金锣",
-            "source": "财联社",
-            "time": "2026-11-23 22:50",
-            "link": "https://finance.eastmoney.com/a/202611233937650973.html"
+            "title": "黄仁勋回来了！英伟达市值一日增加9520亿美元",
+            "source": "上海证券报",
+            "time": "2026-11-24 08:05",
+            "link": "https://finance.eastmoney.com/a/202611243937993656.html"
           }
         ]
       },
@@ -1212,22 +1212,22 @@
         "name": "智谱",
         "news": [
           {
-            "title": "前端白菜价后端开盲盒 Token中转站生意需引入“公平秤”",
-            "source": "证券时报",
-            "time": "2026-11-24 01:43",
-            "link": "https://finance.eastmoney.com/a/202611243937742260.html"
+            "title": "早报丨特朗普、万斯及“其他相关方”亲自介入，黄仁勋重新担任英伟达CEO；马斯克承认AI研发落后对手，Arm CEO承诺执掌公司至2033年；小米今日发业绩",
+            "source": "哈富证券",
+            "time": "2026-11-24 08:28",
+            "link": "https://hk.eastmoney.com/a/202611243938014211.html"
           },
           {
-            "title": "黄仁勋回归英伟达，中国企业更应抓紧自主创新",
-            "source": "第一财经",
-            "time": "2026-11-24 00:46",
-            "link": "https://finance.eastmoney.com/a/202611243937729275.html"
+            "title": "黄仁勋复职英伟达大涨超31%；前10个月全社会用电量同比增长3.7%丨盘前情报",
+            "source": "21世纪经济报道",
+            "time": "2026-11-24 08:20",
+            "link": "https://finance.eastmoney.com/a/202611243938013951.html"
           },
           {
-            "title": "智谱 重大发布！",
-            "source": "证券时报",
-            "time": "2026-11-23 23:05",
-            "link": "https://finance.eastmoney.com/a/202611233937666715.html"
+            "title": "黄仁勋复职英伟达大涨超30%；智谱上线GLM-5.4丨盘前情报",
+            "source": "21世纪经济报道",
+            "time": "2026-11-24 08:12",
+            "link": "https://finance.eastmoney.com/a/202611243938009548.html"
           }
         ]
       },
@@ -1238,7 +1238,7 @@
           {
             "title": "前端白菜价后端开盲盒 Token中转站生意需引入“公平秤”",
             "source": "证券时报",
-            "time": "2026-11-24 01:43",
+            "time": "2026-11-24 07:23",
             "link": "https://finance.eastmoney.com/a/202611243937742260.html"
           },
           {
@@ -1260,22 +1260,22 @@
         "name": "中芯国际",
         "news": [
           {
+            "title": "早报丨特朗普、万斯及“其他相关方”亲自介入，黄仁勋重新担任英伟达CEO；马斯克承认AI研发落后对手，Arm CEO承诺执掌公司至2033年；小米今日发业绩",
+            "source": "哈富证券",
+            "time": "2026-11-24 08:28",
+            "link": "https://hk.eastmoney.com/a/202611243938014211.html"
+          },
+          {
+            "title": "中信建投：国产算力供需共振 AI安全需求持续升级",
+            "source": "界面新闻",
+            "time": "2026-11-24 07:37",
+            "link": "https://finance.eastmoney.com/a/202611243937838630.html"
+          },
+          {
             "title": "港股通11月23日成交活跃股名单",
             "source": "证券时报网",
             "time": "2026-11-23 22:16",
             "link": "https://finance.eastmoney.com/a/202611233937620611.html"
-          },
-          {
-            "title": "11月23日南向资金净卖出96.27亿港元",
-            "source": "证券时报网",
-            "time": "2026-11-23 22:15",
-            "link": "https://finance.eastmoney.com/a/202611233937622491.html"
-          },
-          {
-            "title": "三人共管净值腰斩！李晓星领衔的这只基金，跌到基民“怀疑人生”",
-            "source": "新京报",
-            "time": "2026-11-23 20:55",
-            "link": "https://fund.eastmoney.com/a/202611233937717773.html"
           }
         ]
       },
@@ -1284,22 +1284,22 @@
         "name": "小米集团",
         "news": [
           {
-            "title": "美股三大指数集体大涨 纳指涨近7% 英伟达涨逾30%",
-            "source": "东方财富Choice数据",
-            "time": "2026-11-24 02:07",
-            "link": "https://finance.eastmoney.com/a/202611233937627539.html"
+            "title": "A股盘前速览：黄仁勋复职英伟达暴涨31%，美股三大指数收涨，纳指大涨6.51%；中际旭创、摩尔线程拟大手笔回购；国际油价下跌，金价上扬",
+            "source": "中新经纬",
+            "time": "2026-11-24 08:29",
+            "link": "https://finance.eastmoney.com/a/202611243938017062.html"
           },
           {
-            "title": "海上发射母港竞速扩容 商业航天高频发射能力加快形成",
-            "source": "证券时报",
-            "time": "2026-11-24 01:43",
-            "link": "https://finance.eastmoney.com/a/202611243937742940.html"
+            "title": "早报丨特朗普、万斯及“其他相关方”亲自介入，黄仁勋重新担任英伟达CEO；马斯克承认AI研发落后对手，Arm CEO承诺执掌公司至2033年；小米今日发业绩",
+            "source": "哈富证券",
+            "time": "2026-11-24 08:28",
+            "link": "https://hk.eastmoney.com/a/202611243938014211.html"
           },
           {
-            "title": "财政部副部长廖岷主持第十七次中欧财金对话 做大合作蛋糕 推动中欧经济合作向上平衡发展",
-            "source": "证券时报",
-            "time": "2026-11-24 01:43",
-            "link": "https://finance.eastmoney.com/a/202611243937742813.html"
+            "title": "接着奏乐接着舞！黄仁勋回归助力美元继续冲高",
+            "source": "财联社",
+            "time": "2026-11-24 08:27",
+            "link": "https://finance.eastmoney.com/a/202611243938015071.html"
           }
         ]
       }
@@ -1310,22 +1310,22 @@
         "name": "三星电子",
         "news": [
           {
-            "title": "美股三大指数集体大涨 纳指涨近7% 英伟达涨逾30%",
-            "source": "东方财富Choice数据",
-            "time": "2026-11-24 02:07",
-            "link": "https://finance.eastmoney.com/a/202611233937627539.html"
+            "title": "早报丨特朗普、万斯及“其他相关方”亲自介入，黄仁勋重新担任英伟达CEO；马斯克承认AI研发落后对手，Arm CEO承诺执掌公司至2033年；小米今日发业绩",
+            "source": "哈富证券",
+            "time": "2026-11-24 08:28",
+            "link": "https://hk.eastmoney.com/a/202611243938014211.html"
           },
           {
-            "title": "高盛：2028年存储芯片价格或跌两成 但股价或已反映风险",
+            "title": "三星2027至2029年存储产能已近售罄 算力基建对存储需求有望延续",
             "source": "财联社",
-            "time": "2026-11-23 20:35",
-            "link": "https://finance.eastmoney.com/a/202611233937511841.html"
+            "time": "2026-11-24 08:25",
+            "link": "https://finance.eastmoney.com/a/202611243937889433.html"
           },
           {
-            "title": "半导体行业脱水研报：AI与存储需求驱动第三季度收入高增，本土晶圆厂稼动率接近100%",
-            "source": "时代财经",
-            "time": "2026-11-23 19:16",
-            "link": "https://finance.eastmoney.com/a/202611233937456122.html"
+            "title": "突发，直线暴涨，韩股熔断！两大利好消息传来！",
+            "source": "证券时报",
+            "time": "2026-11-24 08:22",
+            "link": "https://finance.eastmoney.com/a/202611243938014654.html"
           }
         ]
       },
@@ -1334,22 +1334,22 @@
         "name": "SK海力士",
         "news": [
           {
-            "title": "美股三大指数集体大涨 纳指涨近7% 英伟达涨逾30%",
-            "source": "东方财富Choice数据",
-            "time": "2026-11-24 02:07",
-            "link": "https://finance.eastmoney.com/a/202611233937627539.html"
+            "title": "A股盘前速览：黄仁勋复职英伟达暴涨31%，美股三大指数收涨，纳指大涨6.51%；中际旭创、摩尔线程拟大手笔回购；国际油价下跌，金价上扬",
+            "source": "中新经纬",
+            "time": "2026-11-24 08:29",
+            "link": "https://finance.eastmoney.com/a/202611243938017062.html"
           },
           {
-            "title": "芯片股全线大涨，SK海力士涨20.26%",
-            "source": "第一财经",
-            "time": "2026-11-24 00:51",
-            "link": "https://finance.eastmoney.com/a/202611243937732692.html"
+            "title": "早报丨特朗普、万斯及“其他相关方”亲自介入，黄仁勋重新担任英伟达CEO；马斯克承认AI研发落后对手，Arm CEO承诺执掌公司至2033年；小米今日发业绩",
+            "source": "哈富证券",
+            "time": "2026-11-24 08:28",
+            "link": "https://hk.eastmoney.com/a/202611243938014211.html"
           },
           {
-            "title": "黄仁勋回归英伟达，中国企业更应抓紧自主创新",
-            "source": "第一财经",
-            "time": "2026-11-24 00:46",
-            "link": "https://finance.eastmoney.com/a/202611243937729275.html"
+            "title": "美股AI存储板块大幅上涨，SK海力士大涨20%丨美股复盘",
+            "source": "21世纪经济报道",
+            "time": "2026-11-24 08:27",
+            "link": "https://finance.eastmoney.com/a/202611243938016938.html"
           }
         ]
       },
@@ -1358,22 +1358,22 @@
         "name": "韩美半导体",
         "news": [
           {
-            "title": "美股三大指数集体大涨 纳指涨近7% 英伟达涨逾30%",
-            "source": "东方财富Choice数据",
-            "time": "2026-11-24 02:07",
-            "link": "https://finance.eastmoney.com/a/202611233937627539.html"
+            "title": "早报丨特朗普、万斯及“其他相关方”亲自介入，黄仁勋重新担任英伟达CEO；马斯克承认AI研发落后对手，Arm CEO承诺执掌公司至2033年；小米今日发业绩",
+            "source": "哈富证券",
+            "time": "2026-11-24 08:28",
+            "link": "https://hk.eastmoney.com/a/202611243938014211.html"
           },
           {
-            "title": "AI芯片供应链收紧 国产超节点迎发展机遇窗口",
-            "source": "上海证券报",
-            "time": "2026-11-24 01:41",
-            "link": "https://finance.eastmoney.com/a/202611243937741211.html"
+            "title": "美股AI存储板块大幅上涨，SK海力士大涨20%丨美股复盘",
+            "source": "21世纪经济报道",
+            "time": "2026-11-24 08:27",
+            "link": "https://finance.eastmoney.com/a/202611243938016938.html"
           },
           {
-            "title": "电池材料：“超级X光”照亮革新之路",
-            "source": "上海证券报",
-            "time": "2026-11-24 01:41",
-            "link": "https://finance.eastmoney.com/a/202611243937741158.html"
+            "title": "黄仁勋回归引爆美股反弹！纳指狂飙6.5%，科技股全线上扬",
+            "source": "澎湃新闻",
+            "time": "2026-11-24 08:26",
+            "link": "https://finance.eastmoney.com/a/202611243938016668.html"
           }
         ]
       },
@@ -1408,22 +1408,22 @@
         "name": "中际旭创",
         "news": [
           {
-            "title": "多家公司宣布大手笔回购股份",
-            "source": "证券时报",
-            "time": "2026-11-24 01:43",
-            "link": "https://finance.eastmoney.com/a/202611243937741758.html"
+            "title": "A股盘前速览：黄仁勋复职英伟达暴涨31%，美股三大指数收涨，纳指大涨6.51%；中际旭创、摩尔线程拟大手笔回购；国际油价下跌，金价上扬",
+            "source": "中新经纬",
+            "time": "2026-11-24 08:29",
+            "link": "https://finance.eastmoney.com/a/202611243938017062.html"
           },
           {
-            "title": "A股放量反弹 成长主线修复领涨",
-            "source": "上海证券报",
-            "time": "2026-11-24 01:41",
-            "link": "https://finance.eastmoney.com/a/202611243937741477.html"
+            "title": "黄仁勋复职英伟达大涨超31%；前10个月全社会用电量同比增长3.7%丨盘前情报",
+            "source": "21世纪经济报道",
+            "time": "2026-11-24 08:20",
+            "link": "https://finance.eastmoney.com/a/202611243938013951.html"
           },
           {
-            "title": "高端PCB产业链企业优化策略稳供扩能",
-            "source": "证券日报",
-            "time": "2026-11-24 00:37",
-            "link": "https://finance.eastmoney.com/a/202611243937735743.html"
+            "title": "11月24日早间新闻精选",
+            "source": "财联社",
+            "time": "2026-11-24 08:13",
+            "link": "https://forex.eastmoney.com/a/202611243938012412.html"
           }
         ]
       },
@@ -1432,22 +1432,22 @@
         "name": "新易盛",
         "news": [
           {
+            "title": "高端PCB产业链企业优化策略稳供扩能",
+            "source": "证券日报",
+            "time": "2026-11-24 07:42",
+            "link": "https://finance.eastmoney.com/a/202611243937735743.html"
+          },
+          {
+            "title": "首批主动ETF沪深交易所上市 市场迈入“主动+被动”协同发展新阶段",
+            "source": "经济参考报",
+            "time": "2026-11-24 03:34",
+            "link": "https://fund.eastmoney.com/a/202611243937747985.html"
+          },
+          {
             "title": "A股放量反弹 成长主线修复领涨",
             "source": "上海证券报",
             "time": "2026-11-24 01:41",
             "link": "https://finance.eastmoney.com/a/202611243937741477.html"
-          },
-          {
-            "title": "高端PCB产业链企业优化策略稳供扩能",
-            "source": "证券日报",
-            "time": "2026-11-24 00:37",
-            "link": "https://finance.eastmoney.com/a/202611243937735743.html"
-          },
-          {
-            "title": "竞逐“双万亿”，这座中部省会追到“光”了",
-            "source": "每日经济新闻",
-            "time": "2026-11-23 23:40",
-            "link": "https://finance.eastmoney.com/a/202611233937703087.html"
           }
         ]
       },
@@ -1456,6 +1456,12 @@
         "name": "天孚通信",
         "news": [
           {
+            "title": "财说 | 2.5亿跨界“追光”，天安新材的资金与整合考题",
+            "source": "界面新闻",
+            "time": "2026-11-24 07:00",
+            "link": "https://finance.eastmoney.com/a/202611243937783848.html"
+          },
+          {
             "title": "A股放量反弹 成长主线修复领涨",
             "source": "上海证券报",
             "time": "2026-11-24 01:41",
@@ -1466,12 +1472,6 @@
             "source": "每日经济新闻",
             "time": "2026-11-23 23:40",
             "link": "https://finance.eastmoney.com/a/202611233937703087.html"
-          },
-          {
-            "title": "【中证快报】11月23日中证投资资讯 | 四部门联合发文推进“一老一小”服务体系建设",
-            "source": "中国证券报·中证金牛座",
-            "time": "2026-11-23 22:30",
-            "link": "https://finance.eastmoney.com/a/202611233937630986.html"
           }
         ]
       },
@@ -1480,22 +1480,22 @@
         "name": "兆易创新",
         "news": [
           {
+            "title": "950亿横店集团，投了梁文锋",
+            "source": "21世纪经济报道",
+            "time": "2026-11-24 08:01",
+            "link": "https://finance.eastmoney.com/a/202611243937969911.html"
+          },
+          {
+            "title": "A股年内回购金额超1500亿元 电子行业规模居首",
+            "source": "经济参考报",
+            "time": "2026-11-24 03:34",
+            "link": "https://finance.eastmoney.com/a/202611243937747055.html"
+          },
+          {
             "title": "DeepSeek组局十万亿中国AI生态天团",
             "source": "21世纪经济报道",
             "time": "2026-11-23 20:07",
             "link": "https://finance.eastmoney.com/a/202611233937501679.html"
-          },
-          {
-            "title": "三只“消费”主题基金对比：合同主题、重仓方向与中长期表现有何不同？",
-            "source": "界面新闻",
-            "time": "2026-11-23 18:09",
-            "link": "https://fund.eastmoney.com/a/202611233937692147.html"
-          },
-          {
-            "title": "百元股数量达132只 ，较上一日增加11只",
-            "source": "证券时报网",
-            "time": "2026-11-23 17:34",
-            "link": "https://finance.eastmoney.com/a/202611233937377062.html"
           }
         ]
       },
@@ -1528,6 +1528,12 @@
         "name": "长鑫科技",
         "news": [
           {
+            "title": "三星2027至2029年存储产能已近售罄 算力基建对存储需求有望延续",
+            "source": "财联社",
+            "time": "2026-11-24 08:25",
+            "link": "https://finance.eastmoney.com/a/202611243937889433.html"
+          },
+          {
             "title": "傲拓科技公布网上发行中签率",
             "source": "证券时报网",
             "time": "2026-11-23 22:12",
@@ -1538,12 +1544,6 @@
             "source": "证券时报网",
             "time": "2026-11-23 20:08",
             "link": "https://finance.eastmoney.com/a/202611233937506798.html"
-          },
-          {
-            "title": "DeepSeek组局十万亿中国AI生态天团",
-            "source": "21世纪经济报道",
-            "time": "2026-11-23 20:07",
-            "link": "https://finance.eastmoney.com/a/202611233937501679.html"
           }
         ]
       },
@@ -1554,7 +1554,7 @@
           {
             "title": "头部企业引领生态 应用场景多点开花城市超级智能体强力铺开",
             "source": "证券日报",
-            "time": "2026-11-24 00:37",
+            "time": "2026-11-24 07:44",
             "link": "https://finance.eastmoney.com/a/202611243937736073.html"
           },
           {
@@ -1576,21 +1576,21 @@
         "name": "寒武纪",
         "news": [
           {
-            "title": "黄仁勋回归英伟达，中国企业更应抓紧自主创新",
-            "source": "第一财经",
-            "time": "2026-11-24 00:46",
-            "link": "https://finance.eastmoney.com/a/202611243937729275.html"
+            "title": "中信建投：国产算力供需共振 AI安全需求持续升级",
+            "source": "界面新闻",
+            "time": "2026-11-24 07:37",
+            "link": "https://finance.eastmoney.com/a/202611243937838630.html"
           },
           {
-            "title": "股价连续暴跌后 芯片巨头发布盈利时间表",
-            "source": "中国基金报",
-            "time": "2026-11-23 23:00",
-            "link": "https://finance.eastmoney.com/a/202611233937658846.html"
+            "title": "首批主动ETF沪深交易所上市 市场迈入“主动+被动”协同发展新阶段",
+            "source": "经济参考报",
+            "time": "2026-11-24 03:34",
+            "link": "https://fund.eastmoney.com/a/202611243937747985.html"
           },
           {
-            "title": "首批主动ETF上市，机构：理性看待短期波动",
+            "title": "首批主动ETF上市 机构：理性看待短期波动",
             "source": "券商中国",
-            "time": "2026-11-23 22:08",
+            "time": "2026-11-24 02:08",
             "link": "https://finance.eastmoney.com/a/202611233937613068.html"
           }
         ]
